@@ -1,0 +1,104 @@
+[
+    {
+        "speech": "I am so sad. This is totally unexpected.",
+        "answerer_emotion": [
+            0.75,
+            0.3,
+            0.4,
+            0.4,
+            0.3,
+            0.4
+        ],
+        "isProhibited": false,
+        "openness": 0.3,
+        "conscientiousness": 0.3,
+        "extraversion": 0.3,
+        "agreeableness": 0.3,
+        "neuroticism": 0.3
+    },
+    {
+        "speech": "I am so happy.",
+        "answerer_emotion": [
+            0.3,
+            0.75,
+            0.3,
+            0.4,
+            0.3,
+            0.3
+        ],
+        "isProhibited": false,
+        "openness": 0.3,
+        "conscientiousness": 0.3,
+        "extraversion": 0.3,
+        "agreeableness": 0.3,
+        "neuroticism": 0.3
+    },
+    {
+        "speech": "I am feeling so afraid.",
+        "answerer_emotion": [
+            0.3,
+            0.3,
+            0.75,
+            0.3,
+            0.3,
+            0.3
+        ],
+        "isProhibited": false,
+        "openness": 0.3,
+        "conscientiousness": 0.3,
+        "extraversion": 0.3,
+        "agreeableness": 0.3,
+        "neuroticism": 0.3
+    },
+    {
+        "speech": "I am feeling disgusted right now.",
+        "answerer_emotion": [
+            0.3,
+            0.3,
+            0.3,
+            0.75,
+            0.3,
+            0.3
+        ],
+        "isProhibited": false,
+        "openness": 0.3,
+        "conscientiousness": 0.3,
+        "extraversion": 0.3,
+        "agreeableness": 0.3,
+        "neuroticism": 0.3
+    },
+    {
+        "speech": "I am feeling so angry right now.",
+        "answerer_emotion": [
+            0.3,
+            0.3,
+            0.3,
+            0.3,
+            0.75,
+            0.3
+        ],
+        "isProhibited": false,
+        "openness": 0.3,
+        "conscientiousness": 0.3,
+        "extraversion": 0.3,
+        "agreeableness": 0.3,
+        "neuroticism": 0.3
+    },
+    {
+        "speech": "Oh, I am so much surprised.",
+        "answerer_emotion": [
+            0.3,
+            0.3,
+            0.3,
+            0.3,
+            0.3,
+            0.75
+        ],
+        "isProhibited": false,
+        "openness": 0.3,
+        "conscientiousness": 0.3,
+        "extraversion": 0.3,
+        "agreeableness": 0.3,
+        "neuroticism": 0.3
+    }
+]

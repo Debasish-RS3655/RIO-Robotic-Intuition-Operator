@@ -1,0 +1,4567 @@
+[
+  {
+    "startingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "endingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "endingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "endingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "endingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "endingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "stimulusName": "speaker2_personStim_",
+        "influence": 0
+      },
+      {
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "endingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "stimulusName": "speaker1_personStim_",
+        "influence": 0
+      },
+      {
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "endingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "endingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "endingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "endingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "endingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "endingEmotion": [
+      0.020262816000000003,
+      0.20262816,
+      0.020262816000000003,
+      0.020262816000000003,
+      0.020262816000000003,
+      0.20262816
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "x1",
+        "influence": 0.17305182694800003
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0.022024800000000004,
+          0.220248,
+          0.022024800000000004,
+          0.022024800000000004,
+          0.022024800000000004,
+          0.220248
+        ],
+        "stimulusName": "x1",
+        "influence": 0.17305182694800003
+      },
+      {
+        "beforeAlteration": [
+          0.022024800000000004,
+          0.220248,
+          0.022024800000000004,
+          0.022024800000000004,
+          0.022024800000000004,
+          0.220248
+        ],
+        "afterAlteration": [
+          0.020262816000000003,
+          0.20262816,
+          0.020262816000000003,
+          0.020262816000000003,
+          0.020262816000000003,
+          0.20262816
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.00692207307792
+      }
+    ],
+    "perceptionChangeObjects": [
+      {
+        "stimulusName": "x1",
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0.04200000000000001,
+          0.42000000000000004,
+          0.04200000000000001,
+          0.04200000000000001,
+          0.04200000000000001,
+          0.42000000000000004
+        ],
+        "influence": 0.3299996700000001
+      }
+    ],
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.020262816000000003,
+      0.20262816,
+      0.020262816000000003,
+      0.020262816000000003,
+      0.020262816000000003,
+      0.20262816
+    ],
+    "endingEmotion": [
+      0.023885321193216003,
+      0.23885321193216,
+      0.023885321193216003,
+      0.023885321193216003,
+      0.023885321193216003,
+      0.23885321193216
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "x1",
+        "influence": 0.10891674325914784
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.020262816000000003,
+          0.20262816,
+          0.020262816000000003,
+          0.020262816000000003,
+          0.020262816000000003,
+          0.20262816
+        ],
+        "afterAlteration": [
+          0.025962305644800003,
+          0.259623056448,
+          0.025962305644800003,
+          0.025962305644800003,
+          0.025962305644800003,
+          0.259623056448
+        ],
+        "stimulusName": "x1",
+        "influence": 0.10891674325914784
+      },
+      {
+        "beforeAlteration": [
+          0.025962305644800003,
+          0.259623056448,
+          0.025962305644800003,
+          0.025962305644800003,
+          0.025962305644800003,
+          0.259623056448
+        ],
+        "afterAlteration": [
+          0.023885321193216003,
+          0.23885321193216,
+          0.023885321193216003,
+          0.023885321193216003,
+          0.023885321193216003,
+          0.23885321193216
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.015081646692418224
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.023885321193216003,
+      0.23885321193216,
+      0.023885321193216003,
+      0.023885321193216003,
+      0.023885321193216003,
+      0.23885321193216
+    ],
+    "endingEmotion": [
+      0.0248876256847505,
+      0.24887625684750497,
+      0.0248876256847505,
+      0.0248876256847505,
+      0.0248876256847505,
+      0.24887625684750497
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.023885321193216003,
+          0.23885321193216,
+          0.023885321193216003,
+          0.023885321193216003,
+          0.023885321193216003,
+          0.23885321193216
+        ],
+        "afterAlteration": [
+          0.02705176704864185,
+          0.27051767048641845,
+          0.02705176704864185,
+          0.02705176704864185,
+          0.02705176704864185,
+          0.27051767048641845
+        ],
+        "stimulusName": "x1",
+        "influence": 0.0348304260632835
+      },
+      {
+        "beforeAlteration": [
+          0.02705176704864185,
+          0.27051767048641845,
+          0.02705176704864185,
+          0.02705176704864185,
+          0.02705176704864185,
+          0.27051767048641845
+        ],
+        "afterAlteration": [
+          0.0248876256847505,
+          0.24887625684750497,
+          0.0248876256847505,
+          0.0248876256847505,
+          0.0248876256847505,
+          0.24887625684750497
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.016661549042087446
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.0248876256847505,
+      0.24887625684750497,
+      0.0248876256847505,
+      0.0248876256847505,
+      0.0248876256847505,
+      0.24887625684750497
+    ],
+    "endingEmotion": [
+      0.02289661562997046,
+      0.22896615629970457,
+      0.02289661562997046,
+      0.02289661562997046,
+      0.02289661562997046,
+      0.22896615629970457
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.0248876256847505,
+          0.24887625684750497,
+          0.0248876256847505,
+          0.0248876256847505,
+          0.0248876256847505,
+          0.24887625684750497
+        ],
+        "afterAlteration": [
+          0.02289661562997046,
+          0.22896615629970457,
+          0.02289661562997046,
+          0.02289661562997046,
+          0.02289661562997046,
+          0.22896615629970457
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.01632379282097131
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.02289661562997046,
+      0.22896615629970457,
+      0.02289661562997046,
+      0.02289661562997046,
+      0.02289661562997046,
+      0.22896615629970457
+    ],
+    "endingEmotion": [
+      0.021064886379572823,
+      0.2106488637957282,
+      0.021064886379572823,
+      0.021064886379572823,
+      0.021064886379572823,
+      0.2106488637957282
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.02289661562997046,
+          0.22896615629970457,
+          0.02289661562997046,
+          0.02289661562997046,
+          0.02289661562997046,
+          0.22896615629970457
+        ],
+        "afterAlteration": [
+          0.021064886379572823,
+          0.2106488637957282,
+          0.021064886379572823,
+          0.021064886379572823,
+          0.021064886379572823,
+          0.2106488637957282
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.015017889395293606
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.021064886379572823,
+      0.2106488637957282,
+      0.021064886379572823,
+      0.021064886379572823,
+      0.021064886379572823,
+      0.2106488637957282
+    ],
+    "endingEmotion": [
+      0.092,
+      0.9199999999999999,
+      0.092,
+      0.092,
+      0.092,
+      0.9199999999999999
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "x2",
+        "influence": 0.6202038439560351
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.021064886379572823,
+          0.2106488637957282,
+          0.021064886379572823,
+          0.021064886379572823,
+          0.021064886379572823,
+          0.2106488637957282
+        ],
+        "afterAlteration": [
+          0.1,
+          1,
+          0.1,
+          0.1,
+          0.1,
+          1
+        ],
+        "stimulusName": "x2",
+        "influence": 0.6202038439560351
+      },
+      {
+        "beforeAlteration": [
+          0.1,
+          1,
+          0.1,
+          0.1,
+          0.1,
+          1
+        ],
+        "afterAlteration": [
+          0.092,
+          0.9199999999999999,
+          0.092,
+          0.092,
+          0.092,
+          0.9199999999999999
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.03862461200191156
+      }
+    ],
+    "perceptionChangeObjects": [
+      {
+        "stimulusName": "x2",
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0.1,
+          1,
+          0.1,
+          0.1,
+          0.1,
+          1
+        ],
+        "influence": 0.7857135000000001
+      }
+    ],
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.092,
+      0.9199999999999999,
+      0.092,
+      0.092,
+      0.092,
+      0.9199999999999999
+    ],
+    "endingEmotion": [
+      0.08832,
+      0.8832,
+      0.08832,
+      0.08832,
+      0.08832,
+      0.8832
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "x2",
+        "influence": 0.3258161919780176
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.092,
+          0.9199999999999999,
+          0.092,
+          0.092,
+          0.092,
+          0.9199999999999999
+        ],
+        "afterAlteration": [
+          0.096,
+          0.96,
+          0.096,
+          0.096,
+          0.096,
+          0.96
+        ],
+        "stimulusName": "x2",
+        "influence": 0.3258161919780176
+      },
+      {
+        "beforeAlteration": [
+          0.096,
+          0.96,
+          0.096,
+          0.096,
+          0.096,
+          0.96
+        ],
+        "afterAlteration": [
+          0.08832,
+          0.8832,
+          0.08832,
+          0.08832,
+          0.08832,
+          0.8832
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.061599938400000026
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.08832,
+      0.8832,
+      0.08832,
+      0.08832,
+      0.08832,
+      0.8832
+    ],
+    "endingEmotion": [
+      0.08483852373333334,
+      0.8483852373333333,
+      0.08483852373333334,
+      0.08483852373333334,
+      0.08483852373333334,
+      0.8483852373333333
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.08832,
+          0.8832,
+          0.08832,
+          0.08832,
+          0.08832,
+          0.8832
+        ],
+        "afterAlteration": [
+          0.08832368,
+          0.8832367999999999,
+          0.08832368,
+          0.08832368,
+          0.08832368,
+          0.8832367999999999
+        ],
+        "stimulusName": "pose_stimulus_0",
+        "influence": 0.00002891425679996178
+      },
+      {
+        "beforeAlteration": [
+          0.08832368,
+          0.8832367999999999,
+          0.08832368,
+          0.08832368,
+          0.08832368,
+          0.8832367999999999
+        ],
+        "afterAlteration": [
+          0.09221578666666667,
+          0.9221578666666667,
+          0.09221578666666667,
+          0.09221578666666667,
+          0.09221578666666667,
+          0.9221578666666667
+        ],
+        "stimulusName": "x2",
+        "influence": 0.031004673757200042
+      },
+      {
+        "beforeAlteration": [
+          0.09221578666666667,
+          0.9221578666666667,
+          0.09221578666666667,
+          0.09221578666666667,
+          0.09221578666666667,
+          0.9221578666666667
+        ],
+        "afterAlteration": [
+          0.08483852373333334,
+          0.8483852373333333,
+          0.08483852373333334,
+          0.08483852373333334,
+          0.08483852373333334,
+          0.8483852373333333
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.05915347379884803
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": {
+      "startingPose": "0",
+      "endingPose": "0"
+    },
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.08483852373333334,
+      0.8483852373333333,
+      0.08483852373333334,
+      0.08483852373333334,
+      0.08483852373333334,
+      0.8483852373333333
+    ],
+    "endingEmotion": [
+      0.07805144183466667,
+      0.7805144183466666,
+      0.07805144183466667,
+      0.07805144183466667,
+      0.07805144183466667,
+      0.7805144183466666
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.08483852373333334,
+          0.8483852373333333,
+          0.08483852373333334,
+          0.08483852373333334,
+          0.08483852373333334,
+          0.8483852373333333
+        ],
+        "afterAlteration": [
+          0.07805144183466667,
+          0.7805144183466666,
+          0.07805144183466667,
+          0.07805144183466667,
+          0.07805144183466667,
+          0.7805144183466666
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.055645584765788195
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.07805144183466667,
+      0.7805144183466666,
+      0.07805144183466667,
+      0.07805144183466667,
+      0.07805144183466667,
+      0.7805144183466666
+    ],
+    "endingEmotion": [
+      0.07180732648789333,
+      0.7180732648789332,
+      0.07180732648789333,
+      0.07180732648789333,
+      0.07180732648789333,
+      0.7180732648789332
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.07805144183466667,
+          0.7805144183466666,
+          0.07805144183466667,
+          0.07805144183466667,
+          0.07805144183466667,
+          0.7805144183466666
+        ],
+        "afterAlteration": [
+          0.07180732648789333,
+          0.7180732648789332,
+          0.07180732648789333,
+          0.07180732648789333,
+          0.07180732648789333,
+          0.7180732648789332
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.05119393798452514
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.07180732648789333,
+      0.7180732648789332,
+      0.07180732648789333,
+      0.07180732648789333,
+      0.07180732648789333,
+      0.7180732648789332
+    ],
+    "endingEmotion": [
+      0.06606274036886187,
+      0.6606274036886185,
+      0.06606274036886187,
+      0.06606274036886187,
+      0.06606274036886187,
+      0.6606274036886185
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.07180732648789333,
+          0.7180732648789332,
+          0.07180732648789333,
+          0.07180732648789333,
+          0.07180732648789333,
+          0.7180732648789332
+        ],
+        "afterAlteration": [
+          0.06606274036886187,
+          0.6606274036886185,
+          0.06606274036886187,
+          0.06606274036886187,
+          0.06606274036886187,
+          0.6606274036886185
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.047098422945763135
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.06606274036886187,
+      0.6606274036886185,
+      0.06606274036886187,
+      0.06606274036886187,
+      0.06606274036886187,
+      0.6606274036886185
+    ],
+    "endingEmotion": [
+      0.06077772113935292,
+      0.607777211393529,
+      0.06077772113935292,
+      0.06077772113935292,
+      0.06077772113935292,
+      0.607777211393529
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.06606274036886187,
+          0.6606274036886185,
+          0.06606274036886187,
+          0.06606274036886187,
+          0.06606274036886187,
+          0.6606274036886185
+        ],
+        "afterAlteration": [
+          0.06077772113935292,
+          0.607777211393529,
+          0.06077772113935292,
+          0.06077772113935292,
+          0.06077772113935292,
+          0.607777211393529
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.04333054911010206
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": {
+      "action": "chooseOption_",
+      "options": [
+        "x1"
+      ],
+      "choice": "option_not_selected"
+    },
+    "prohibitedChosen": false,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.06077772113935292,
+      0.607777211393529,
+      0.06077772113935292,
+      0.06077772113935292,
+      0.06077772113935292,
+      0.607777211393529
+    ],
+    "endingEmotion": [
+      0.05591550344820469,
+      0.5591550344820467,
+      0.05591550344820469,
+      0.05591550344820469,
+      0.05591550344820469,
+      0.5591550344820467
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.06077772113935292,
+          0.607777211393529,
+          0.06077772113935292,
+          0.06077772113935292,
+          0.06077772113935292,
+          0.607777211393529
+        ],
+        "afterAlteration": [
+          0.05591550344820469,
+          0.5591550344820467,
+          0.05591550344820469,
+          0.05591550344820469,
+          0.05591550344820469,
+          0.5591550344820467
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.039864105181293866
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.05591550344820469,
+      0.5591550344820467,
+      0.05591550344820469,
+      0.05591550344820469,
+      0.05591550344820469,
+      0.5591550344820467
+    ],
+    "endingEmotion": [
+      0.05144226317234831,
+      0.514422631723483,
+      0.05144226317234831,
+      0.05144226317234831,
+      0.05144226317234831,
+      0.514422631723483
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.05591550344820469,
+          0.5591550344820467,
+          0.05591550344820469,
+          0.05591550344820469,
+          0.05591550344820469,
+          0.5591550344820467
+        ],
+        "afterAlteration": [
+          0.05144226317234831,
+          0.514422631723483,
+          0.05144226317234831,
+          0.05144226317234831,
+          0.05144226317234831,
+          0.514422631723483
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.03667497676679035
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.05144226317234831,
+      0.514422631723483,
+      0.05144226317234831,
+      0.05144226317234831,
+      0.05144226317234831,
+      0.514422631723483
+    ],
+    "endingEmotion": [
+      0.04732688211856045,
+      0.47326882118560437,
+      0.04732688211856045,
+      0.04732688211856045,
+      0.04732688211856045,
+      0.47326882118560437
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.05144226317234831,
+          0.514422631723483,
+          0.05144226317234831,
+          0.05144226317234831,
+          0.05144226317234831,
+          0.514422631723483
+        ],
+        "afterAlteration": [
+          0.04732688211856045,
+          0.47326882118560437,
+          0.04732688211856045,
+          0.04732688211856045,
+          0.04732688211856045,
+          0.47326882118560437
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.033740978625447136
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": {
+      "action": "chooseOption_",
+      "options": [
+        "x2"
+      ],
+      "choice": "option_not_selected"
+    },
+    "prohibitedChosen": false,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.04732688211856045,
+      0.47326882118560437,
+      0.04732688211856045,
+      0.04732688211856045,
+      0.04732688211856045,
+      0.47326882118560437
+    ],
+    "endingEmotion": [
+      0.04354073154907561,
+      0.435407315490756,
+      0.04354073154907561,
+      0.04354073154907561,
+      0.04354073154907561,
+      0.435407315490756
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.04732688211856045,
+          0.47326882118560437,
+          0.04732688211856045,
+          0.04732688211856045,
+          0.04732688211856045,
+          0.47326882118560437
+        ],
+        "afterAlteration": [
+          0.04354073154907561,
+          0.435407315490756,
+          0.04354073154907561,
+          0.04354073154907561,
+          0.04354073154907561,
+          0.435407315490756
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.031041700335411378
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.04354073154907561,
+      0.435407315490756,
+      0.04354073154907561,
+      0.04354073154907561,
+      0.04354073154907561,
+      0.435407315490756
+    ],
+    "endingEmotion": [
+      0.04005747302514956,
+      0.40057473025149554,
+      0.04005747302514956,
+      0.04005747302514956,
+      0.04005747302514956,
+      0.40057473025149554
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.04354073154907561,
+          0.435407315490756,
+          0.04354073154907561,
+          0.04354073154907561,
+          0.04354073154907561,
+          0.435407315490756
+        ],
+        "afterAlteration": [
+          0.04005747302514956,
+          0.40057473025149554,
+          0.04005747302514956,
+          0.04005747302514956,
+          0.04005747302514956,
+          0.40057473025149554
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.028558364308578464
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.04005747302514956,
+      0.40057473025149554,
+      0.04005747302514956,
+      0.04005747302514956,
+      0.04005747302514956,
+      0.40057473025149554
+    ],
+    "endingEmotion": [
+      0.036852875183137596,
+      0.3685287518313759,
+      0.036852875183137596,
+      0.036852875183137596,
+      0.036852875183137596,
+      0.3685287518313759
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.04005747302514956,
+          0.40057473025149554,
+          0.04005747302514956,
+          0.04005747302514956,
+          0.04005747302514956,
+          0.40057473025149554
+        ],
+        "afterAlteration": [
+          0.036852875183137596,
+          0.3685287518313759,
+          0.036852875183137596,
+          0.036852875183137596,
+          0.036852875183137596,
+          0.3685287518313759
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.026273695163892177
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.036852875183137596,
+      0.3685287518313759,
+      0.036852875183137596,
+      0.036852875183137596,
+      0.036852875183137596,
+      0.3685287518313759
+    ],
+    "endingEmotion": [
+      0.03390464516848659,
+      0.3390464516848658,
+      0.03390464516848659,
+      0.03390464516848659,
+      0.03390464516848659,
+      0.3390464516848658
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.036852875183137596,
+          0.3685287518313759,
+          0.036852875183137596,
+          0.036852875183137596,
+          0.036852875183137596,
+          0.3685287518313759
+        ],
+        "afterAlteration": [
+          0.03390464516848659,
+          0.3390464516848658,
+          0.03390464516848659,
+          0.03390464516848659,
+          0.03390464516848659,
+          0.3390464516848658
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.024171799550780818
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.03390464516848659,
+      0.3390464516848658,
+      0.03390464516848659,
+      0.03390464516848659,
+      0.03390464516848659,
+      0.3390464516848658
+    ],
+    "endingEmotion": [
+      0.03119227355500766,
+      0.31192273555007655,
+      0.03119227355500766,
+      0.03119227355500766,
+      0.03119227355500766,
+      0.31192273555007655
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.03390464516848659,
+          0.3390464516848658,
+          0.03390464516848659,
+          0.03390464516848659,
+          0.03390464516848659,
+          0.3390464516848658
+        ],
+        "afterAlteration": [
+          0.03119227355500766,
+          0.31192273555007655,
+          0.03119227355500766,
+          0.03119227355500766,
+          0.03119227355500766,
+          0.31192273555007655
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.02223805558671835
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.03119227355500766,
+      0.31192273555007655,
+      0.03119227355500766,
+      0.03119227355500766,
+      0.03119227355500766,
+      0.31192273555007655
+    ],
+    "endingEmotion": [
+      0.09469950567854073,
+      0.21753368078540714,
+      0.09469950567854073,
+      0.09469950567854073,
+      0.09469950567854073,
+      0.21753368078540714
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.03119227355500766,
+          0.31192273555007655,
+          0.03119227355500766,
+          0.03119227355500766,
+          0.03119227355500766,
+          0.31192273555007655
+        ],
+        "afterAlteration": [
+          0.10293424530276166,
+          0.23644965302761645,
+          0.10293424530276166,
+          0.10293424530276166,
+          0.10293424530276166,
+          0.23644965302761645
+        ],
+        "stimulusName": "z1",
+        "influence": 0.07458464822947394
+      },
+      {
+        "beforeAlteration": [
+          0.10293424530276166,
+          0.23644965302761645,
+          0.10293424530276166,
+          0.10293424530276166,
+          0.10293424530276166,
+          0.23644965302761645
+        ],
+        "afterAlteration": [
+          0.09469950567854073,
+          0.21753368078540714,
+          0.09469950567854073,
+          0.09469950567854073,
+          0.09469950567854073,
+          0.21753368078540714
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.018842137591664435
+      }
+    ],
+    "perceptionChangeObjects": [
+      {
+        "stimulusName": "z1",
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0.16800000000000004,
+          0.16800000000000004,
+          0.16800000000000004,
+          0.16800000000000004,
+          0.16800000000000004,
+          0.16800000000000004
+        ],
+        "influence": 0.16799983200000007
+      }
+    ],
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.09469950567854073,
+      0.21753368078540714,
+      0.09469950567854073,
+      0.09469950567854073,
+      0.09469950567854073,
+      0.21753368078540714
+    ],
+    "endingEmotion": [
+      0.08712354522425747,
+      0.20013098632257456,
+      0.08712354522425747,
+      0.08712354522425747,
+      0.08712354522425747,
+      0.20013098632257456
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.09469950567854073,
+          0.21753368078540714,
+          0.09469950567854073,
+          0.09469950567854073,
+          0.09469950567854073,
+          0.21753368078540714
+        ],
+        "afterAlteration": [
+          0.08712354522425747,
+          0.20013098632257456,
+          0.08712354522425747,
+          0.08712354522425747,
+          0.08712354522425747,
+          0.20013098632257456
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.015717893036214847
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.08712354522425747,
+      0.20013098632257456,
+      0.08712354522425747,
+      0.08712354522425747,
+      0.08712354522425747,
+      0.20013098632257456
+    ],
+    "endingEmotion": [
+      0.08015366160631687,
+      0.1841205074167686,
+      0.08015366160631687,
+      0.08015366160631687,
+      0.08015366160631687,
+      0.1841205074167686
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.08712354522425747,
+          0.20013098632257456,
+          0.08712354522425747,
+          0.08712354522425747,
+          0.08712354522425747,
+          0.20013098632257456
+        ],
+        "afterAlteration": [
+          0.08015366160631687,
+          0.1841205074167686,
+          0.08015366160631687,
+          0.08015366160631687,
+          0.08015366160631687,
+          0.1841205074167686
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.014460461593317656
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.08015366160631687,
+      0.1841205074167686,
+      0.08015366160631687,
+      0.08015366160631687,
+      0.08015366160631687,
+      0.1841205074167686
+    ],
+    "endingEmotion": [
+      0.07374136867781152,
+      0.1693908668234271,
+      0.07374136867781152,
+      0.07374136867781152,
+      0.07374136867781152,
+      0.1693908668234271
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.08015366160631687,
+          0.1841205074167686,
+          0.08015366160631687,
+          0.08015366160631687,
+          0.08015366160631687,
+          0.1841205074167686
+        ],
+        "afterAlteration": [
+          0.07374136867781152,
+          0.1693908668234271,
+          0.07374136867781152,
+          0.07374136867781152,
+          0.07374136867781152,
+          0.1693908668234271
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.013303624665852248
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.07374136867781152,
+      0.1693908668234271,
+      0.07374136867781152,
+      0.07374136867781152,
+      0.07374136867781152,
+      0.1693908668234271
+    ],
+    "endingEmotion": [
+      0.368,
+      0.368,
+      0.368,
+      0.368,
+      0.368,
+      0.368
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "z2",
+        "influence": 0.3217035716113612
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.07374136867781152,
+          0.1693908668234271,
+          0.07374136867781152,
+          0.07374136867781152,
+          0.07374136867781152,
+          0.1693908668234271
+        ],
+        "afterAlteration": [
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4
+        ],
+        "stimulusName": "z2",
+        "influence": 0.3217035716113612
+      },
+      {
+        "beforeAlteration": [
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4
+        ],
+        "afterAlteration": [
+          0.368,
+          0.368,
+          0.368,
+          0.368,
+          0.368,
+          0.368
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.02237463748572089
+      }
+    ],
+    "perceptionChangeObjects": [
+      {
+        "stimulusName": "z2",
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4,
+          0.4
+        ],
+        "influence": 0.39999960000000007
+      }
+    ],
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.368,
+      0.368,
+      0.368,
+      0.368,
+      0.368,
+      0.368
+    ],
+    "endingEmotion": [
+      0.35328,
+      0.35328,
+      0.35328,
+      0.35328,
+      0.35328,
+      0.35328
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "z2",
+        "influence": 0.16885177780568061
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.368,
+          0.368,
+          0.368,
+          0.368,
+          0.368,
+          0.368
+        ],
+        "afterAlteration": [
+          0.384,
+          0.384,
+          0.384,
+          0.384,
+          0.384,
+          0.384
+        ],
+        "stimulusName": "z2",
+        "influence": 0.16885177780568061
+      },
+      {
+        "beforeAlteration": [
+          0.384,
+          0.384,
+          0.384,
+          0.384,
+          0.384,
+          0.384
+        ],
+        "afterAlteration": [
+          0.35328,
+          0.35328,
+          0.35328,
+          0.35328,
+          0.35328,
+          0.35328
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.03135996864000003
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.35328,
+      0.35328,
+      0.35328,
+      0.35328,
+      0.35328,
+      0.35328
+    ],
+    "endingEmotion": [
+      0.25591372586666666,
+      0.3572278058666667,
+      0.25591372586666666,
+      0.25591372586666666,
+      0.25591372586666666,
+      0.3572278058666667
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "z2",
+        "influence": 0.037147189519440016
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.35328,
+          0.35328,
+          0.35328,
+          0.35328,
+          0.35328,
+          0.35328
+        ],
+        "afterAlteration": [
+          0.21725064,
+          0.38243664,
+          0.21725064,
+          0.21725064,
+          0.21725064,
+          0.38243664
+        ],
+        "stimulusName": "x1_anticipated_stimulus_",
+        "influence": 0.13094005191696
+      },
+      {
+        "beforeAlteration": [
+          0.21725064,
+          0.38243664,
+          0.21725064,
+          0.21725064,
+          0.21725064,
+          0.38243664
+        ],
+        "afterAlteration": [
+          0.27816709333333334,
+          0.38829109333333334,
+          0.27816709333333334,
+          0.27816709333333334,
+          0.27816709333333334,
+          0.38829109333333334
+        ],
+        "stimulusName": "z2",
+        "influence": 0.037147189519440016
+      },
+      {
+        "beforeAlteration": [
+          0.27816709333333334,
+          0.38829109333333334,
+          0.27816709333333334,
+          0.27816709333333334,
+          0.27816709333333334,
+          0.38829109333333334
+        ],
+        "afterAlteration": [
+          0.25591372586666666,
+          0.3572278058666667,
+          0.25591372586666666,
+          0.25591372586666666,
+          0.25591372586666666,
+          0.3572278058666667
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.02984281389048961
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": {
+      "action": "chooseOption_",
+      "options": [
+        "x1",
+        "z1"
+      ],
+      "choice": "x1"
+    },
+    "prohibitedChosen": true,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.25591372586666666,
+      0.3572278058666667,
+      0.25591372586666666,
+      0.25591372586666666,
+      0.25591372586666666,
+      0.3572278058666667
+    ],
+    "endingEmotion": [
+      0.268657810377152,
+      0.33849461886195203,
+      0.268657810377152,
+      0.268657810377152,
+      0.268657810377152,
+      0.33849461886195203
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.25591372586666666,
+          0.3572278058666667,
+          0.25591372586666666,
+          0.25591372586666666,
+          0.25591372586666666,
+          0.3572278058666667
+        ],
+        "afterAlteration": [
+          0.2560258121408,
+          0.3572385780608,
+          0.2560258121408,
+          0.2560258121408,
+          0.2560258121408,
+          0.3572385780608
+        ],
+        "stimulusName": "pose_stimulus_1",
+        "influence": 0.00010726168687154303
+      },
+      {
+        "beforeAlteration": [
+          0.2560258121408,
+          0.3572385780608,
+          0.2560258121408,
+          0.2560258121408,
+          0.2560258121408,
+          0.3572385780608
+        ],
+        "afterAlteration": [
+          0.2920193591056,
+          0.3679289335456,
+          0.2920193591056,
+          0.2920193591056,
+          0.2920193591056,
+          0.3679289335456
+        ],
+        "stimulusName": "z2",
+        "influence": 0.04654149666752347
+      },
+      {
+        "beforeAlteration": [
+          0.2920193591056,
+          0.3679289335456,
+          0.2920193591056,
+          0.2920193591056,
+          0.2920193591056,
+          0.3679289335456
+        ],
+        "afterAlteration": [
+          0.268657810377152,
+          0.33849461886195203,
+          0.268657810377152,
+          0.268657810377152,
+          0.268657810377152,
+          0.33849461886195203
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.02847702427010458
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": {
+      "startingPose": "1",
+      "endingPose": "1"
+    },
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.268657810377152,
+      0.33849461886195203,
+      0.268657810377152,
+      0.268657810377152,
+      0.268657810377152,
+      0.33849461886195203
+    ],
+    "endingEmotion": [
+      0.8599827093140961,
+      0.081529055336096,
+      0.2471651855469798,
+      0.2471651855469798,
+      0.2471651855469798,
+      0.31141504935299585
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "x1_guilt_stimulus_",
+        "influence": 0.46654711697225687
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.268657810377152,
+          0.33849461886195203,
+          0.268657810377152,
+          0.268657810377152,
+          0.268657810377152,
+          0.33849461886195203
+        ],
+        "afterAlteration": [
+          0.2471651855469798,
+          0.31141504935299585,
+          0.2471651855469798,
+          0.2471651855469798,
+          0.2471651855469798,
+          0.31141504935299585
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.026868854437660787
+      },
+      {
+        "beforeAlteration": [
+          0.2471651855469798,
+          0.31141504935299585,
+          0.2471651855469798,
+          0.2471651855469798,
+          0.2471651855469798,
+          0.31141504935299585
+        ],
+        "afterAlteration": [
+          0.8599827093140961,
+          0.081529055336096,
+          0.2471651855469798,
+          0.2471651855469798,
+          0.2471651855469798,
+          0.31141504935299585
+        ],
+        "stimulusName": "x1_guilt_stimulus_",
+        "influence": 0.46654711697225687
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.8599827093140961,
+      0.081529055336096,
+      0.2471651855469798,
+      0.2471651855469798,
+      0.2471651855469798,
+      0.31141504935299585
+    ],
+    "endingEmotion": [
+      0.44159204628448423,
+      0.4975033654546041,
+      0.15969598535161073,
+      0.15969598535161073,
+      0.15969598535161073,
+      0.603250922702378
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "x2_anticipated_stimulus_",
+        "influence": 0.3816633443860784
+      },
+      {
+        "stimulusName": "x1_guilt_stimulus_",
+        "influence": 0.46654711697225687
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.8599827093140961,
+          0.081529055336096,
+          0.2471651855469798,
+          0.2471651855469798,
+          0.2471651855469798,
+          0.31141504935299585
+        ],
+        "afterAlteration": [
+          0.47999135465704806,
+          0.540764527668048,
+          0.17358259277348992,
+          0.17358259277348992,
+          0.17358259277348992,
+          0.6557075246764978
+        ],
+        "stimulusName": "x2_anticipated_stimulus_",
+        "influence": 0.3816633443860784
+      },
+      {
+        "beforeAlteration": [
+          0.47999135465704806,
+          0.540764527668048,
+          0.17358259277348992,
+          0.17358259277348992,
+          0.17358259277348992,
+          0.6557075246764978
+        ],
+        "afterAlteration": [
+          0.44159204628448423,
+          0.4975033654546041,
+          0.15969598535161073,
+          0.15969598535161073,
+          0.15969598535161073,
+          0.603250922702378
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.03489995943653805
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": {
+      "action": "chooseOption_",
+      "options": [
+        "x2",
+        "z2"
+      ],
+      "choice": "x2"
+    },
+    "prohibitedChosen": true,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.44159204628448423,
+      0.4975033654546041,
+      0.15969598535161073,
+      0.15969598535161073,
+      0.15969598535161073,
+      0.603250922702378
+    ],
+    "endingEmotion": [
+      0.3276985119362941,
+      0.5732773221636768,
+      0.1331902298926114,
+      0.1331902298926114,
+      0.1331902298926114,
+      0.6462431366646408
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "x2_anticipated_stimulus_",
+        "influence": 0.24158258535070976
+      },
+      {
+        "stimulusName": "x1_guilt_stimulus_",
+        "influence": 0.46654711697225687
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.44159204628448423,
+          0.4975033654546041,
+          0.15969598535161073,
+          0.15969598535161073,
+          0.15969598535161073,
+          0.603250922702378
+        ],
+        "afterAlteration": [
+          0.3561940347133632,
+          0.6231275240909531,
+          0.14477198901370805,
+          0.14477198901370805,
+          0.14477198901370805,
+          0.7024381920267835
+        ],
+        "stimulusName": "x2_anticipated_stimulus_",
+        "influence": 0.24158258535070976
+      },
+      {
+        "beforeAlteration": [
+          0.3561940347133632,
+          0.6231275240909531,
+          0.14477198901370805,
+          0.14477198901370805,
+          0.14477198901370805,
+          0.7024381920267835
+        ],
+        "afterAlteration": [
+          0.3276985119362941,
+          0.5732773221636768,
+          0.1331902298926114,
+          0.1331902298926114,
+          0.1331902298926114,
+          0.6462431366646408
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.04507989203125191
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.3276985119362941,
+      0.5732773221636768,
+      0.1331902298926114,
+      0.1331902298926114,
+      0.1331902298926114,
+      0.6462431366646408
+    ],
+    "endingEmotion": [
+      0.5632757842326275,
+      0.3371875011641241,
+      0.18230551423232427,
+      0.18230551423232427,
+      0.18230551423232427,
+      0.48010072706461027
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "x2_anticipated_stimulus_",
+        "influence": 0.079016963210199
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.3276985119362941,
+          0.5732773221636768,
+          0.1331902298926114,
+          0.1331902298926114,
+          0.1331902298926114,
+          0.6462431366646408
+        ],
+        "afterAlteration": [
+          0.2897487599469118,
+          0.6443977684697306,
+          0.1276585249105095,
+          0.1276585249105095,
+          0.1276585249105095,
+          0.7052026138872007
+        ],
+        "stimulusName": "x2_anticipated_stimulus_",
+        "influence": 0.079016963210199
+      },
+      {
+        "beforeAlteration": [
+          0.2897487599469118,
+          0.6443977684697306,
+          0.1276585249105095,
+          0.1276585249105095,
+          0.1276585249105095,
+          0.7052026138872007
+        ],
+        "afterAlteration": [
+          0.26656885915115885,
+          0.5928459469921522,
+          0.11744584291766874,
+          0.11744584291766874,
+          0.11744584291766874,
+          0.6487864047762246
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.04596786922254206
+      },
+      {
+        "beforeAlteration": [
+          0.26656885915115885,
+          0.5928459469921522,
+          0.11744584291766874,
+          0.11744584291766874,
+          0.11744584291766874,
+          0.6487864047762246
+        ],
+        "afterAlteration": [
+          0.5632757842326275,
+          0.3371875011641241,
+          0.18230551423232427,
+          0.18230551423232427,
+          0.18230551423232427,
+          0.48010072706461027
+        ],
+        "stimulusName": "x1_guilt_stimulus_",
+        "influence": 0.35540565743923236
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.5632757842326275,
+      0.3371875011641241,
+      0.18230551423232427,
+      0.18230551423232427,
+      0.18230551423232427,
+      0.48010072706461027
+    ],
+    "endingEmotion": [
+      0.596618907309542,
+      0.2848003107367786,
+      0.18789235448700728,
+      0.18789235448700728,
+      0.18789235448700728,
+      0.4381257399756727
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.5632757842326275,
+          0.3371875011641241,
+          0.18230551423232427,
+          0.18230551423232427,
+          0.18230551423232427,
+          0.48010072706461027
+        ],
+        "afterAlteration": [
+          0.505366311203549,
+          0.4200390635186086,
+          0.17201732495328373,
+          0.17201732495328373,
+          0.17201732495328373,
+          0.545088136181534
+        ],
+        "stimulusName": "x2_anticipated_stimulus_",
+        "influence": 0.0618084105609296
+      },
+      {
+        "beforeAlteration": [
+          0.505366311203549,
+          0.4200390635186086,
+          0.17201732495328373,
+          0.17201732495328373,
+          0.17201732495328373,
+          0.545088136181534
+        ],
+        "afterAlteration": [
+          0.4649370063072651,
+          0.3864359384371199,
+          0.15825593895702103,
+          0.15825593895702103,
+          0.15825593895702103,
+          0.5014810852870112
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.04201999786170155
+      },
+      {
+        "beforeAlteration": [
+          0.4649370063072651,
+          0.3864359384371199,
+          0.15825593895702103,
+          0.15825593895702103,
+          0.15825593895702103,
+          0.5014810852870112
+        ],
+        "afterAlteration": [
+          0.596618907309542,
+          0.2848003107367786,
+          0.18789235448700728,
+          0.18789235448700728,
+          0.18789235448700728,
+          0.4381257399756727
+        ],
+        "stimulusName": "x1_guilt_stimulus_",
+        "influence": 0.174150210002234
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.596618907309542,
+      0.2848003107367786,
+      0.18789235448700728,
+      0.18789235448700728,
+      0.18789235448700728,
+      0.4381257399756727
+    ],
+    "endingEmotion": [
+      0.9649907851429314,
+      0.020384528134540336,
+      0.19143702098277998,
+      0.19143702098277998,
+      0.19143702098277998,
+      0.38016052292146313
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "x2_guilt_stimulus_",
+        "influence": 0.3788747266227008
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.596618907309542,
+          0.2848003107367786,
+          0.18789235448700728,
+          0.18789235448700728,
+          0.18789235448700728,
+          0.4381257399756727
+        ],
+        "afterAlteration": [
+          0.5488893947247787,
+          0.2620162858778363,
+          0.1728609661280467,
+          0.1728609661280467,
+          0.1728609661280467,
+          0.4030756807776189
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.03796096582357217
+      },
+      {
+        "beforeAlteration": [
+          0.5488893947247787,
+          0.2620162858778363,
+          0.1728609661280467,
+          0.1728609661280467,
+          0.1728609661280467,
+          0.4030756807776189
+        ],
+        "afterAlteration": [
+          0.9999934770858765,
+          0.0000030190673551144798,
+          0.1728609661280467,
+          0.1728609661280467,
+          0.1728609661280467,
+          0.4030756807776189
+        ],
+        "stimulusName": "x2_guilt_stimulus_",
+        "influence": 0.3788747266227008
+      },
+      {
+        "beforeAlteration": [
+          0.9999934770858765,
+          0.0000030190673551144798,
+          0.1728609661280467,
+          0.1728609661280467,
+          0.1728609661280467,
+          0.4030756807776189
+        ],
+        "afterAlteration": [
+          0.9649907851429314,
+          0.020384528134540336,
+          0.19143702098277998,
+          0.19143702098277998,
+          0.19143702098277998,
+          0.38016052292146313
+        ],
+        "stimulusName": "x1_guilt_stimulus_",
+        "influence": 0.0661435979108779
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.9649907851429314,
+      0.020384528134540336,
+      0.19143702098277998,
+      0.19143702098277998,
+      0.19143702098277998,
+      0.38016052292146313
+    ],
+    "endingEmotion": [
+      0.8877915223314968,
+      0.01875376588377711,
+      0.17612205930415759,
+      0.17612205930415759,
+      0.17612205930415759,
+      0.34974768108774607
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "x2_guilt_stimulus_",
+        "influence": 0.3788747266227008
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.9649907851429314,
+          0.020384528134540336,
+          0.19143702098277998,
+          0.19143702098277998,
+          0.19143702098277998,
+          0.38016052292146313
+        ],
+        "afterAlteration": [
+          0.8877915223314968,
+          0.01875376588377711,
+          0.17612205930415759,
+          0.17612205930415759,
+          0.17612205930415759,
+          0.34974768108774607
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.044036935108436766
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.8877915223314968,
+      0.01875376588377711,
+      0.17612205930415759,
+      0.17612205930415759,
+      0.17612205930415759,
+      0.34974768108774607
+    ],
+    "endingEmotion": [
+      0.816768200544977,
+      0.01725346461307494,
+      0.16203229455982499,
+      0.16203229455982499,
+      0.16203229455982499,
+      0.32176786660072637
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "x2_guilt_stimulus_",
+        "influence": 0.3788747266227008
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.8877915223314968,
+          0.01875376588377711,
+          0.17612205930415759,
+          0.17612205930415759,
+          0.17612205930415759,
+          0.34974768108774607
+        ],
+        "afterAlteration": [
+          0.816768200544977,
+          0.01725346461307494,
+          0.16203229455982499,
+          0.16203229455982499,
+          0.16203229455982499,
+          0.32176786660072637
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.04835076467862477
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.816768200544977,
+      0.01725346461307494,
+      0.16203229455982499,
+      0.16203229455982499,
+      0.16203229455982499,
+      0.32176786660072637
+    ],
+    "endingEmotion": [
+      0.7514267445013788,
+      0.015873187444028946,
+      0.149069710995039,
+      0.149069710995039,
+      0.149069710995039,
+      0.29602643727266825
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "x2_guilt_stimulus_",
+        "influence": 0.3788747266227008
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.816768200544977,
+          0.01725346461307494,
+          0.16203229455982499,
+          0.16203229455982499,
+          0.16203229455982499,
+          0.32176786660072637
+        ],
+        "afterAlteration": [
+          0.7514267445013788,
+          0.015873187444028946,
+          0.149069710995039,
+          0.149069710995039,
+          0.149069710995039,
+          0.29602643727266825
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.044482703504334795
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.7514267445013788,
+      0.015873187444028946,
+      0.149069710995039,
+      0.149069710995039,
+      0.149069710995039,
+      0.29602643727266825
+    ],
+    "endingEmotion": [
+      0.8970998530376738,
+      0.00486979019440562,
+      0.1609553554571764,
+      0.1609553554571764,
+      0.1609553554571764,
+      0.3594985612820309
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.7514267445013788,
+          0.015873187444028946,
+          0.149069710995039,
+          0.149069710995039,
+          0.149069710995039,
+          0.29602643727266825
+        ],
+        "afterAlteration": [
+          0.6913126049412684,
+          0.01460333244850663,
+          0.13714413411543586,
+          0.13714413411543586,
+          0.13714413411543586,
+          0.2723443222908548
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.04092408722398801
+      },
+      {
+        "beforeAlteration": [
+          0.6913126049412684,
+          0.01460333244850663,
+          0.13714413411543586,
+          0.13714413411543586,
+          0.13714413411543586,
+          0.2723443222908548
+        ],
+        "afterAlteration": [
+          0.8456530410135725,
+          0.007303175757930872,
+          0.15500255012174127,
+          0.15500255012174127,
+          0.15500255012174127,
+          0.33771000153423686
+        ],
+        "stimulusName": "x2_guilt_stimulus_",
+        "influence": 0.2389774947472543
+      },
+      {
+        "beforeAlteration": [
+          0.8456530410135725,
+          0.007303175757930872,
+          0.15500255012174127,
+          0.15500255012174127,
+          0.15500255012174127,
+          0.33771000153423686
+        ],
+        "afterAlteration": [
+          0.8970998530376738,
+          0.00486979019440562,
+          0.1609553554571764,
+          0.1609553554571764,
+          0.1609553554571764,
+          0.3594985612820309
+        ],
+        "stimulusName": "x2_guilt_stimulus_",
+        "influence": 0.0660535085812052
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.8970998530376738,
+      0.00486979019440562,
+      0.1609553554571764,
+      0.1609553554571764,
+      0.1609553554571764,
+      0.3594985612820309
+    ],
+    "endingEmotion": [
+      0.868997267867464,
+      0.0033609100009786563,
+      0.1542744367974634,
+      0.1542744367974634,
+      0.1542744367974634,
+      0.348822927479006
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.8970998530376738,
+          0.00486979019440562,
+          0.1609553554571764,
+          0.1609553554571764,
+          0.1609553554571764,
+          0.3594985612820309
+        ],
+        "afterAlteration": [
+          0.8253318647946599,
+          0.00448020697885317,
+          0.1480789270206023,
+          0.1480789270206023,
+          0.1480789270206023,
+          0.3307386763794684
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.04292208089126942
+      },
+      {
+        "beforeAlteration": [
+          0.8253318647946599,
+          0.00448020697885317,
+          0.1480789270206023,
+          0.1480789270206023,
+          0.1480789270206023,
+          0.3307386763794684
+        ],
+        "afterAlteration": [
+          0.868997267867464,
+          0.0033609100009786563,
+          0.1542744367974634,
+          0.1542744367974634,
+          0.1542744367974634,
+          0.348822927479006
+        ],
+        "stimulusName": "x2_guilt_stimulus_",
+        "influence": 0.030596675361800593
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.868997267867464,
+      0.0033609100009786563,
+      0.1542744367974634,
+      0.1542744367974634,
+      0.1542744367974634,
+      0.348822927479006
+    ],
+    "endingEmotion": [
+      0.8395806845676288,
+      0.002474233574191314,
+      0.14811817870854238,
+      0.14811817870854238,
+      0.14811817870854238,
+      0.3373488107800722
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.868997267867464,
+          0.0033609100009786563,
+          0.1542744367974634,
+          0.1542744367974634,
+          0.1542744367974634,
+          0.348822927479006
+        ],
+        "afterAlteration": [
+          0.7994774864380669,
+          0.003092037200900364,
+          0.1419324818536663,
+          0.1419324818536663,
+          0.1419324818536663,
+          0.3209170932806855
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.04588547759441387
+      },
+      {
+        "beforeAlteration": [
+          0.7994774864380669,
+          0.003092037200900364,
+          0.1419324818536663,
+          0.1419324818536663,
+          0.1419324818536663,
+          0.3209170932806855
+        ],
+        "afterAlteration": [
+          0.8395806845676288,
+          0.002474233574191314,
+          0.14811817870854238,
+          0.14811817870854238,
+          0.14811817870854238,
+          0.3373488107800722
+        ],
+        "stimulusName": "x2_guilt_stimulus_",
+        "influence": 0.027046994615735502
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.8395806845676288,
+      0.002474233574191314,
+      0.14811817870854238,
+      0.14811817870854238,
+      0.14811817870854238,
+      0.3373488107800722
+    ],
+    "endingEmotion": [
+      0.7724142298022185,
+      0.002276294888256009,
+      0.136268724411859,
+      0.136268724411859,
+      0.136268724411859,
+      0.3103609059176664
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.8395806845676288,
+          0.002474233574191314,
+          0.14811817870854238,
+          0.14811817870854238,
+          0.14811817870854238,
+          0.3373488107800722
+        ],
+        "afterAlteration": [
+          0.7724142298022185,
+          0.002276294888256009,
+          0.136268724411859,
+          0.136268724411859,
+          0.136268724411859,
+          0.3103609059176664
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.044376193116287876
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.7724142298022185,
+      0.002276294888256009,
+      0.136268724411859,
+      0.136268724411859,
+      0.136268724411859,
+      0.3103609059176664
+    ],
+    "endingEmotion": [
+      0.7106210914180411,
+      0.002094191297195528,
+      0.12536722645891027,
+      0.12536722645891027,
+      0.12536722645891027,
+      0.2855320334442531
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.7724142298022185,
+          0.002276294888256009,
+          0.136268724411859,
+          0.136268724411859,
+          0.136268724411859,
+          0.3103609059176664
+        ],
+        "afterAlteration": [
+          0.7106210914180411,
+          0.002094191297195528,
+          0.12536722645891027,
+          0.12536722645891027,
+          0.12536722645891027,
+          0.2855320334442531
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.0418624088671664
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.7106210914180411,
+      0.002094191297195528,
+      0.12536722645891027,
+      0.12536722645891027,
+      0.12536722645891027,
+      0.2855320334442531
+    ],
+    "endingEmotion": [
+      0.6537714041045978,
+      0.0019266559934198858,
+      0.11533784834219744,
+      0.11533784834219744,
+      0.11533784834219744,
+      0.26268947076871285
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.7106210914180411,
+          0.002094191297195528,
+          0.12536722645891027,
+          0.12536722645891027,
+          0.12536722645891027,
+          0.2855320334442531
+        ],
+        "afterAlteration": [
+          0.6537714041045978,
+          0.0019266559934198858,
+          0.11533784834219744,
+          0.11533784834219744,
+          0.11533784834219744,
+          0.26268947076871285
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.0385134161577931
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.6537714041045978,
+      0.0019266559934198858,
+      0.11533784834219744,
+      0.11533784834219744,
+      0.11533784834219744,
+      0.26268947076871285
+    ],
+    "endingEmotion": [
+      0.6014696917762299,
+      0.001772523513946295,
+      0.10611082047482165,
+      0.10611082047482165,
+      0.10611082047482165,
+      0.24167431310721582
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.6537714041045978,
+          0.0019266559934198858,
+          0.11533784834219744,
+          0.11533784834219744,
+          0.11533784834219744,
+          0.26268947076871285
+        ],
+        "afterAlteration": [
+          0.6014696917762299,
+          0.001772523513946295,
+          0.10611082047482165,
+          0.10611082047482165,
+          0.10611082047482165,
+          0.24167431310721582
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.03543234286516968
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.6014696917762299,
+      0.001772523513946295,
+      0.10611082047482165,
+      0.10611082047482165,
+      0.10611082047482165,
+      0.24167431310721582
+    ],
+    "endingEmotion": [
+      0.46580242657607296,
+      0.0007755712085742294,
+      0.24905716172039916,
+      0.24905716172039916,
+      0.24905716172039916,
+      0.1057450790486885
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "y1",
+        "influence": 0.15739644839462463
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.6014696917762299,
+          0.001772523513946295,
+          0.10611082047482165,
+          0.10611082047482165,
+          0.10611082047482165,
+          0.24167431310721582
+        ],
+        "afterAlteration": [
+          0.506306985408775,
+          0.000843012183232858,
+          0.27071430621782516,
+          0.27071430621782516,
+          0.27071430621782516,
+          0.11494030331379185
+        ],
+        "stimulusName": "y1",
+        "influence": 0.15739644839462463
+      },
+      {
+        "beforeAlteration": [
+          0.506306985408775,
+          0.000843012183232858,
+          0.27071430621782516,
+          0.27071430621782516,
+          0.27071430621782516,
+          0.11494030331379185
+        ],
+        "afterAlteration": [
+          0.46580242657607296,
+          0.0007755712085742294,
+          0.24905716172039916,
+          0.24905716172039916,
+          0.24905716172039916,
+          0.1057450790486885
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.03222404442507984
+      }
+    ],
+    "perceptionChangeObjects": [
+      {
+        "stimulusName": "y1",
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          0.42000000000000004,
+          0,
+          0.42000000000000004,
+          0.42000000000000004,
+          0.42000000000000004,
+          0
+        ],
+        "influence": 0.39999960000000007
+      }
+    ],
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.46580242657607296,
+      0.0007755712085742294,
+      0.24905716172039916,
+      0.24905716172039916,
+      0.24905716172039916,
+      0.1057450790486885
+    ],
+    "endingEmotion": [
+      0.4174895879016005,
+      0.000526439122671181,
+      0.2703681040039257,
+      0.2703681040039257,
+      0.2703681040039257,
+      0.07177722177635258
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.46580242657607296,
+          0.0007755712085742294,
+          0.24905716172039916,
+          0.24905716172039916,
+          0.24905716172039916,
+          0.1057450790486885
+        ],
+        "afterAlteration": [
+          0.45379303032782664,
+          0.0005722164376860664,
+          0.29387837391731053,
+          0.29387837391731053,
+          0.29387837391731053,
+          0.07801871932212237
+        ],
+        "stimulusName": "y1",
+        "influence": 0.09969118311862353
+      },
+      {
+        "beforeAlteration": [
+          0.45379303032782664,
+          0.0005722164376860664,
+          0.29387837391731053,
+          0.29387837391731053,
+          0.29387837391731053,
+          0.07801871932212237
+        ],
+        "afterAlteration": [
+          0.4174895879016005,
+          0.000526439122671181,
+          0.2703681040039257,
+          0.2703681040039257,
+          0.2703681040039257,
+          0.07177722177635258
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.02978989327118665
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.4174895879016005,
+      0.000526439122671181,
+      0.2703681040039257,
+      0.2703681040039257,
+      0.2703681040039257,
+      0.07177722177635258
+    ],
+    "endingEmotion": [
+      0.3840904208694725,
+      0.00048432399285748654,
+      0.24873865568361164,
+      0.24873865568361164,
+      0.24873865568361164,
+      0.06603504403424437
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.4174895879016005,
+          0.000526439122671181,
+          0.2703681040039257,
+          0.2703681040039257,
+          0.2703681040039257,
+          0.07177722177635258
+        ],
+        "afterAlteration": [
+          0.3840904208694725,
+          0.00048432399285748654,
+          0.24873865568361164,
+          0.24873865568361164,
+          0.24873865568361164,
+          0.06603504403424437
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.0279241852204812
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.3840904208694725,
+      0.00048432399285748654,
+      0.24873865568361164,
+      0.24873865568361164,
+      0.24873865568361164,
+      0.06603504403424437
+    ],
+    "endingEmotion": [
+      0.35336318719991466,
+      0.0004455780734288876,
+      0.2288395632289227,
+      0.2288395632289227,
+      0.2288395632289227,
+      0.060752240511504824
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.3840904208694725,
+          0.00048432399285748654,
+          0.24873865568361164,
+          0.24873865568361164,
+          0.24873865568361164,
+          0.06603504403424437
+        ],
+        "afterAlteration": [
+          0.35336318719991466,
+          0.0004455780734288876,
+          0.2288395632289227,
+          0.2288395632289227,
+          0.2288395632289227,
+          0.060752240511504824
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.02569025040284271
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.35336318719991466,
+      0.0004455780734288876,
+      0.2288395632289227,
+      0.2288395632289227,
+      0.2288395632289227,
+      0.060752240511504824
+    ],
+    "endingEmotion": [
+      0.3250941322239215,
+      0.0004099318275545766,
+      0.2105323981706089,
+      0.2105323981706089,
+      0.2105323981706089,
+      0.05589206127058444
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.35336318719991466,
+          0.0004455780734288876,
+          0.2288395632289227,
+          0.2288395632289227,
+          0.2288395632289227,
+          0.060752240511504824
+        ],
+        "afterAlteration": [
+          0.3250941322239215,
+          0.0004099318275545766,
+          0.2105323981706089,
+          0.2105323981706089,
+          0.2105323981706089,
+          0.05589206127058444
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.023635030370615297
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.3250941322239215,
+      0.0004099318275545766,
+      0.2105323981706089,
+      0.2105323981706089,
+      0.2105323981706089,
+      0.05589206127058444
+    ],
+    "endingEmotion": [
+      0.9199999999999999,
+      0,
+      0.9199999999999999,
+      0.9199999999999999,
+      0.9199999999999999,
+      0
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "y2",
+        "influence": 0.7463802572367575
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.3250941322239215,
+          0.0004099318275545766,
+          0.2105323981706089,
+          0.2105323981706089,
+          0.2105323981706089,
+          0.05589206127058444
+        ],
+        "afterAlteration": [
+          1,
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        "stimulusName": "y2",
+        "influence": 0.7463802572367575
+      },
+      {
+        "beforeAlteration": [
+          1,
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        "afterAlteration": [
+          0.9199999999999999,
+          0,
+          0.9199999999999999,
+          0.9199999999999999,
+          0.9199999999999999,
+          0
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.0494203187192532
+      }
+    ],
+    "perceptionChangeObjects": [
+      {
+        "stimulusName": "y2",
+        "beforeAlteration": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "afterAlteration": [
+          1,
+          0,
+          1,
+          1,
+          1,
+          0
+        ],
+        "influence": 0.9523800000000001
+      }
+    ],
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.9199999999999999,
+      0,
+      0.9199999999999999,
+      0.9199999999999999,
+      0.9199999999999999,
+      0
+    ],
+    "endingEmotion": [
+      0.8832,
+      0,
+      0.8832,
+      0.8832,
+      0.8832,
+      0
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "y2",
+        "influence": 0.39223772861837874
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.9199999999999999,
+          0,
+          0.9199999999999999,
+          0.9199999999999999,
+          0.9199999999999999,
+          0
+        ],
+        "afterAlteration": [
+          0.96,
+          0,
+          0.96,
+          0.96,
+          0.96,
+          0
+        ],
+        "stimulusName": "y2",
+        "influence": 0.39223772861837874
+      },
+      {
+        "beforeAlteration": [
+          0.96,
+          0,
+          0.96,
+          0.96,
+          0.96,
+          0
+        ],
+        "afterAlteration": [
+          0.8832,
+          0,
+          0.8832,
+          0.8832,
+          0.8832,
+          0
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.07466659200000003
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.8832,
+      0,
+      0.8832,
+      0.8832,
+      0.8832,
+      0
+    ],
+    "endingEmotion": [
+      0.6566699946666666,
+      0.04502848000000001,
+      0.6566699946666666,
+      0.6566699946666666,
+      0.6566699946666666,
+      0.04502848000000001
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "y2",
+        "influence": 0.08777978523600002
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.8832,
+          0,
+          0.8832,
+          0.8832,
+          0.8832,
+          0
+        ],
+        "afterAlteration": [
+          0.5706576,
+          0.07341600000000002,
+          0.5706576,
+          0.5706576,
+          0.5706576,
+          0.07341600000000002
+        ],
+        "stimulusName": "z1_anticipated_stimulus_",
+        "influence": 0.30115512741600003
+      },
+      {
+        "beforeAlteration": [
+          0.5706576,
+          0.07341600000000002,
+          0.5706576,
+          0.5706576,
+          0.5706576,
+          0.07341600000000002
+        ],
+        "afterAlteration": [
+          0.7137717333333333,
+          0.048944000000000015,
+          0.7137717333333333,
+          0.7137717333333333,
+          0.7137717333333333,
+          0.048944000000000015
+        ],
+        "stimulusName": "y2",
+        "influence": 0.08777978523600002
+      },
+      {
+        "beforeAlteration": [
+          0.7137717333333333,
+          0.048944000000000015,
+          0.7137717333333333,
+          0.7137717333333333,
+          0.7137717333333333,
+          0.048944000000000015
+        ],
+        "afterAlteration": [
+          0.6566699946666666,
+          0.04502848000000001,
+          0.6566699946666666,
+          0.6566699946666666,
+          0.6566699946666666,
+          0.04502848000000001
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.06385589550912
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": {
+      "action": "chooseOption_",
+      "options": [
+        "x1",
+        "y1",
+        "z1"
+      ],
+      "choice": "z1"
+    },
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.6566699946666666,
+      0.04502848000000001,
+      0.6566699946666666,
+      0.6566699946666666,
+      0.6566699946666666,
+      0.04502848000000001
+    ],
+    "endingEmotion": [
+      0.6832839940236799,
+      0.031038581548800008,
+      0.6832839940236799,
+      0.6832839940236799,
+      0.6832839940236799,
+      0.031038581548800008
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "pose_stimulus_2",
+        "influence": 0.00025293444166844397
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.6566699946666666,
+          0.04502848000000001,
+          0.6566699946666666,
+          0.6566699946666666,
+          0.6566699946666666,
+          0.04502848000000001
+        ],
+        "afterAlteration": [
+          0.6569333246719999,
+          0.04498345152000001,
+          0.6569333246719999,
+          0.6569333246719999,
+          0.6569333246719999,
+          0.04498345152000001
+        ],
+        "stimulusName": "pose_stimulus_2",
+        "influence": 0.00025293444166844397
+      },
+      {
+        "beforeAlteration": [
+          0.6569333246719999,
+          0.04498345152000001,
+          0.6569333246719999,
+          0.6569333246719999,
+          0.6569333246719999,
+          0.04498345152000001
+        ],
+        "afterAlteration": [
+          0.742699993504,
+          0.03373758864000001,
+          0.742699993504,
+          0.742699993504,
+          0.742699993504,
+          0.03373758864000001
+        ],
+        "stimulusName": "y2",
+        "influence": 0.10984117363935146
+      },
+      {
+        "beforeAlteration": [
+          0.742699993504,
+          0.03373758864000001,
+          0.742699993504,
+          0.742699993504,
+          0.742699993504,
+          0.03373758864000001
+        ],
+        "afterAlteration": [
+          0.6832839940236799,
+          0.031038581548800008,
+          0.6832839940236799,
+          0.6832839940236799,
+          0.6832839940236799,
+          0.031038581548800008
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.05564207031099155
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": {
+      "startingPose": "2",
+      "endingPose": "2"
+    },
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.6832839940236799,
+      0.031038581548800008,
+      0.6832839940236799,
+      0.6832839940236799,
+      0.6832839940236799,
+      0.031038581548800008
+    ],
+    "endingEmotion": [
+      0.6287301638645346,
+      0.028541217277383558,
+      0.6287301638645346,
+      0.6287301638645346,
+      0.6287301638645346,
+      0.028541217277383558
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.6832839940236799,
+          0.031038581548800008,
+          0.6832839940236799,
+          0.6832839940236799,
+          0.6832839940236799,
+          0.031038581548800008
+        ],
+        "afterAlteration": [
+          0.6834023520266681,
+          0.03102306225802561,
+          0.6834023520266681,
+          0.6834023520266681,
+          0.6834023520266681,
+          0.03102306225802561
+        ],
+        "stimulusName": "pose_stimulus_2",
+        "influence": 0.0001831976248308688
+      },
+      {
+        "beforeAlteration": [
+          0.6834023520266681,
+          0.03102306225802561,
+          0.6834023520266681,
+          0.6834023520266681,
+          0.6834023520266681,
+          0.03102306225802561
+        ],
+        "afterAlteration": [
+          0.6287301638645346,
+          0.028541217277383558,
+          0.6287301638645346,
+          0.6287301638645346,
+          0.6287301638645346,
+          0.028541217277383558
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.054451007570864476
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.6287301638645346,
+      0.028541217277383558,
+      0.6287301638645346,
+      0.6287301638645346,
+      0.6287301638645346,
+      0.028541217277383558
+    ],
+    "endingEmotion": [
+      0.473215875377686,
+      0.19712895994759644,
+      0.473215875377686,
+      0.473215875377686,
+      0.473215875377686,
+      0.19712895994759644
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "z2_anticipated_stimulus_",
+        "influence": 0.16873772037840934
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.6287301638645346,
+          0.028541217277383558,
+          0.6287301638645346,
+          0.6287301638645346,
+          0.6287301638645346,
+          0.028541217277383558
+        ],
+        "afterAlteration": [
+          0.5143650819322674,
+          0.2142706086386918,
+          0.5143650819322674,
+          0.5143650819322674,
+          0.5143650819322674,
+          0.2142706086386918
+        ],
+        "stimulusName": "z2_anticipated_stimulus_",
+        "influence": 0.16873772037840934
+      },
+      {
+        "beforeAlteration": [
+          0.5143650819322674,
+          0.2142706086386918,
+          0.5143650819322674,
+          0.5143650819322674,
+          0.5143650819322674,
+          0.2142706086386918
+        ],
+        "afterAlteration": [
+          0.473215875377686,
+          0.19712895994759644,
+          0.473215875377686,
+          0.473215875377686,
+          0.473215875377686,
+          0.19712895994759644
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.04609641552272968
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": {
+      "action": "chooseOption_",
+      "options": [
+        "x2",
+        "y2",
+        "z2"
+      ],
+      "choice": "z2"
+    },
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.473215875377686,
+      0.19712895994759644,
+      0.473215875377686,
+      0.473215875377686,
+      0.473215875377686,
+      0.19712895994759644
+    ],
+    "endingEmotion": [
+      0.41851895401060335,
+      0.22801898236384155,
+      0.41851895401060335,
+      0.41851895401060335,
+      0.41851895401060335,
+      0.22801898236384155
+    ],
+    "shortTermObjects": [
+      {
+        "stimulusName": "z2_anticipated_stimulus_",
+        "influence": 0.10586893403272175
+      }
+    ],
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.473215875377686,
+          0.19712895994759644,
+          0.473215875377686,
+          0.473215875377686,
+          0.473215875377686,
+          0.19712895994759644
+        ],
+        "afterAlteration": [
+          0.4549119065332645,
+          0.24784671996069735,
+          0.4549119065332645,
+          0.4549119065332645,
+          0.4549119065332645,
+          0.24784671996069735
+        ],
+        "stimulusName": "z2_anticipated_stimulus_",
+        "influence": 0.10586893403272175
+      },
+      {
+        "beforeAlteration": [
+          0.4549119065332645,
+          0.24784671996069735,
+          0.4549119065332645,
+          0.4549119065332645,
+          0.4549119065332645,
+          0.24784671996069735
+        ],
+        "afterAlteration": [
+          0.41851895401060335,
+          0.22801898236384155,
+          0.41851895401060335,
+          0.41851895401060335,
+          0.41851895401060335,
+          0.22801898236384155
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.03780502333381511
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.41851895401060335,
+      0.22801898236384155,
+      0.41851895401060335,
+      0.41851895401060335,
+      0.41851895401060335,
+      0.22801898236384155
+    ],
+    "endingEmotion": [
+      0.38219786474146256,
+      0.2361478864789452,
+      0.38219786474146256,
+      0.38219786474146256,
+      0.38219786474146256,
+      0.2361478864789452
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.41851895401060335,
+          0.22801898236384155,
+          0.41851895401060335,
+          0.41851895401060335,
+          0.41851895401060335,
+          0.22801898236384155
+        ],
+        "afterAlteration": [
+          0.4154324616755028,
+          0.2566824853032013,
+          0.4154324616755028,
+          0.4154324616755028,
+          0.4154324616755028,
+          0.2566824853032013
+        ],
+        "stimulusName": "z2_anticipated_stimulus_",
+        "influence": 0.032786931811534956
+      },
+      {
+        "beforeAlteration": [
+          0.4154324616755028,
+          0.2566824853032013,
+          0.4154324616755028,
+          0.4154324616755028,
+          0.4154324616755028,
+          0.2566824853032013
+        ],
+        "afterAlteration": [
+          0.38219786474146256,
+          0.2361478864789452,
+          0.38219786474146256,
+          0.38219786474146256,
+          0.38219786474146256,
+          0.2361478864789452
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.034116949824805114
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.38219786474146256,
+      0.2361478864789452,
+      0.38219786474146256,
+      0.38219786474146256,
+      0.38219786474146256,
+      0.2361478864789452
+    ],
+    "endingEmotion": [
+      0.35162203556214555,
+      0.21725605556062957,
+      0.35162203556214555,
+      0.35162203556214555,
+      0.35162203556214555,
+      0.21725605556062957
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.38219786474146256,
+          0.2361478864789452,
+          0.38219786474146256,
+          0.38219786474146256,
+          0.38219786474146256,
+          0.2361478864789452
+        ],
+        "afterAlteration": [
+          0.35162203556214555,
+          0.21725605556062957,
+          0.35162203556214555,
+          0.35162203556214555,
+          0.35162203556214555,
+          0.21725605556062957
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.03132461038987535
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.35162203556214555,
+      0.21725605556062957,
+      0.35162203556214555,
+      0.35162203556214555,
+      0.35162203556214555,
+      0.21725605556062957
+    ],
+    "endingEmotion": [
+      0.3234922727171739,
+      0.1998755711157792,
+      0.3234922727171739,
+      0.3234922727171739,
+      0.3234922727171739,
+      0.1998755711157792
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.35162203556214555,
+          0.21725605556062957,
+          0.35162203556214555,
+          0.35162203556214555,
+          0.35162203556214555,
+          0.21725605556062957
+        ],
+        "afterAlteration": [
+          0.3234922727171739,
+          0.1998755711157792,
+          0.3234922727171739,
+          0.3234922727171739,
+          0.3234922727171739,
+          0.1998755711157792
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.02881864155868532
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.3234922727171739,
+      0.1998755711157792,
+      0.3234922727171739,
+      0.3234922727171739,
+      0.3234922727171739,
+      0.1998755711157792
+    ],
+    "endingEmotion": [
+      0.2976128908998,
+      0.18388552542651684,
+      0.2976128908998,
+      0.2976128908998,
+      0.2976128908998,
+      0.18388552542651684
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.3234922727171739,
+          0.1998755711157792,
+          0.3234922727171739,
+          0.3234922727171739,
+          0.3234922727171739,
+          0.1998755711157792
+        ],
+        "afterAlteration": [
+          0.2976128908998,
+          0.18388552542651684,
+          0.2976128908998,
+          0.2976128908998,
+          0.2976128908998,
+          0.18388552542651684
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.0265131502339905
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.2976128908998,
+      0.18388552542651684,
+      0.2976128908998,
+      0.2976128908998,
+      0.2976128908998,
+      0.18388552542651684
+    ],
+    "endingEmotion": [
+      0.27380385962781595,
+      0.1691746833923955,
+      0.27380385962781595,
+      0.27380385962781595,
+      0.27380385962781595,
+      0.1691746833923955
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.2976128908998,
+          0.18388552542651684,
+          0.2976128908998,
+          0.2976128908998,
+          0.2976128908998,
+          0.18388552542651684
+        ],
+        "afterAlteration": [
+          0.27380385962781595,
+          0.1691746833923955,
+          0.27380385962781595,
+          0.27380385962781595,
+          0.27380385962781595,
+          0.1691746833923955
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.024392098215271267
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.27380385962781595,
+      0.1691746833923955,
+      0.27380385962781595,
+      0.27380385962781595,
+      0.27380385962781595,
+      0.1691746833923955
+    ],
+    "endingEmotion": [
+      0.2518995508575907,
+      0.15564070872100386,
+      0.2518995508575907,
+      0.2518995508575907,
+      0.2518995508575907,
+      0.15564070872100386
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.27380385962781595,
+          0.1691746833923955,
+          0.27380385962781595,
+          0.27380385962781595,
+          0.27380385962781595,
+          0.1691746833923955
+        ],
+        "afterAlteration": [
+          0.2518995508575907,
+          0.15564070872100386,
+          0.2518995508575907,
+          0.2518995508575907,
+          0.2518995508575907,
+          0.15564070872100386
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.02244073035804955
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.2518995508575907,
+      0.15564070872100386,
+      0.2518995508575907,
+      0.2518995508575907,
+      0.2518995508575907,
+      0.15564070872100386
+    ],
+    "endingEmotion": [
+      0.23174758678898344,
+      0.14318945202332356,
+      0.23174758678898344,
+      0.23174758678898344,
+      0.23174758678898344,
+      0.14318945202332356
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.2518995508575907,
+          0.15564070872100386,
+          0.2518995508575907,
+          0.2518995508575907,
+          0.2518995508575907,
+          0.15564070872100386
+        ],
+        "afterAlteration": [
+          0.23174758678898344,
+          0.14318945202332356,
+          0.23174758678898344,
+          0.23174758678898344,
+          0.23174758678898344,
+          0.14318945202332356
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.020645471929405572
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  },
+  {
+    "startingEmotion": [
+      0.23174758678898344,
+      0.14318945202332356,
+      0.23174758678898344,
+      0.23174758678898344,
+      0.23174758678898344,
+      0.14318945202332356
+    ],
+    "endingEmotion": [
+      0.21320777984586475,
+      0.13173429586145768,
+      0.21320777984586475,
+      0.21320777984586475,
+      0.21320777984586475,
+      0.13173429586145768
+    ],
+    "shortTermObjects": null,
+    "currentStimuliInfluence": [
+      {
+        "beforeAlteration": [
+          0.23174758678898344,
+          0.14318945202332356,
+          0.23174758678898344,
+          0.23174758678898344,
+          0.23174758678898344,
+          0.14318945202332356
+        ],
+        "afterAlteration": [
+          0.21320777984586475,
+          0.13173429586145768,
+          0.21320777984586475,
+          0.21320777984586475,
+          0.21320777984586475,
+          0.13173429586145768
+        ],
+        "stimulusName": "undeterminedStimulus_",
+        "influence": 0.01899383417505314
+      }
+    ],
+    "perceptionChangeObjects": null,
+    "decisionObjects": null,
+    "prohibitedChosen": null,
+    "postureResponse": null,
+    "verbalResponse": null
+  }
+]

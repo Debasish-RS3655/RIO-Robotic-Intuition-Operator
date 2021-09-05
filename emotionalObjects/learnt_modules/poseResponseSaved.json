@@ -1,0 +1,164 @@
+[
+    {
+        "startingPose": [
+            90,
+            90,
+            180,
+            0,
+            180,
+            0,
+            90,
+            90,
+            90,
+            90,
+            90,
+            180,
+            0
+        ],
+        "endingPose": [
+            110,
+            80,
+            170,
+            10,
+            170,
+            10,
+            95,
+            80,
+            85,
+            95,
+            95,
+            175,
+            5
+        ],
+        "poseInterval": 2000,
+        "startingEmotion": [
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
+        ],
+        "endingEmotion": [
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
+        ],
+        "openness": 0.3,
+        "conscientiousness": 0.3,
+        "extraversion": 0.3,
+        "agreeableness": 0.3,
+        "neuroticism": 0.3
+    },
+    {
+        "startingPose": [
+            110,
+            80,
+            170,
+            10,
+            170,
+            10,
+            95,
+            80,
+            85,
+            95,
+            95,
+            175,
+            5
+        ],
+        "endingPose": [
+            90,
+            90,
+            180,
+            0,
+            180,
+            0,
+            90,
+            90,
+            90,
+            90,
+            90,
+            180,
+            0
+        ],
+        "poseInterval": 1500,
+        "startingEmotion": [
+            0.4,
+            0.4,
+            0.4,
+            0.4,
+            0.4,
+            0.4
+        ],
+        "endingEmotion": [
+            0.4,
+            0.4,
+            0.4,
+            0.4,
+            0.4,
+            0.4
+        ],
+        "openness": 0.3,
+        "conscientiousness": 0.3,
+        "extraversion": 0.3,
+        "agreeableness": 0.3,
+        "neuroticism": 0.3
+    },
+    {
+        "startingPose": [
+            90,
+            90,
+            180,
+            180,
+            166,
+            139,
+            98,
+            94,
+            90,
+            90,
+            90,
+            180,
+            0
+        ],
+        "endingPose": [
+            90,
+            90,
+            119,
+            1,
+            171,
+            96,
+            129,
+            124,
+            78,
+            90,
+            90,
+            79,
+            78
+        ],
+        "poseInterval": 10057,
+        "startingEmotion": [
+            0.285871,
+            0.645384,
+            0.059534,
+            0.007805,
+            0.042363,
+            0.4
+        ],
+        "endingEmotion": [
+            0.285871,
+            0.645384,
+            0.059534,
+            0.007805,
+            0.042363,
+            0.4
+        ],
+        "openness": 0.3,
+        "conscientiousness": 0.3,
+        "extraversion": 0.3,
+        "agreeableness": 0.3,
+        "neuroticism": 0.3
+    }
+]

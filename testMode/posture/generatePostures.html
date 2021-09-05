@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <!--import the tensorflow posenet file-->
+    <script src='./@1.7.0tf.min.js'></script>
+    <script src='./posenet.js'></script>
+    <h2 align="center">Posture diagram</h2><br>
+    <img src="./happy position.jpg" class="postures" height="300" width="250">
+    <img src="./neutral position.jpg" class="postures" height="300" width="250">
+    <img src="./sad position.jpg" class="postures" height="300" width="250">
+    <br>
+    <canvas id="happyCanvas" style="border:1px solid #000000;" height="300" width="250"
+        crossorigin='anonymous'></canvas><br>
+    <canvas id="neutralCanvas" style="border:1px solid #000000;" height="300" width="250"
+        crossorigin='anonymous'></canvas><br>
+    <canvas id="sadCanvas" style="border:1px solid #000000;" height="300" width="250" crossorigin='anonymous'></canvas>
+    <script>
+        //get the images now
+        const happyImage = document.getElementsByClassName("postures")[0];
+        const neutralImage = document.getElementsByClassName("postures")[1];
+        const sadImage = document.getElementsByClassName("postures")[2];
+        var pose_net;
+        async function poseDetectLoad() {
+            pose_net = await posenet.load({
+                architecture: 'MobileNetV1',
+                outputStride: 16,//32
+                inputResolution: { width: 250, height: 300 },
+                multiplier: 0.75
+                //quantBytes: 2
+            });
+            console.log("Posenet loaded.")
+        }
+        poseDetectLoad().then(() => {
+            //for the happy emotion
+            drawPoseDiagram(happyImage, "happy");
+            //neutral emotion
+            drawPoseDiagram(neutralImage, "neutral");
+            //sad pose
+            drawPoseDiagram(sadImage, "sad");
+        });
+        async function drawPoseDiagram(image, emotion) {
+            //do the pose estimation
+            const positions = await pose_net.estimateSinglePose(image, {
+                flipHorizontal: false
+            });
+            console.log(JSON.stringify(positions));
+            //extract the positions now
+            var detectedPositionsX = new Array(0);
+            var detectedPositionsY = new Array(0);
+            for (var x = 0; x < positions.keypoints.length; x++) {
+                detectedPositionsX[x] = positions.keypoints[x].position.x;
+                detectedPositionsY[x] = positions.keypoints[x].position.y;
+            }
+            //order of the parts in the array------
+            //0 nose                  //11 leftHip
+            //1 leftEye               //12 rightHip
+            //2 rightEye              //13 leftKnee
+            //3 leftEar               //14 rightKnee
+            //4 rightEar              //15 leftAnkle
+            //5 leftShoulder          //16 rightAnkle
+            //6 rightShoulder         
+            //7 leftElbow
+            //8 rightElbow
+            //9 leftWrist
+            //10 rightWrist
+            var canvas = document.getElementById(emotion + "Canvas");
+            var ctx = canvas.getContext('2d');
+            //drawing all the points
+            for (var i = 0; i < detectedPositionsX.length; i++) {
+                ctx.fillRect(detectedPositionsX[i], detectedPositionsY[i], 5, 5)
+            }
+            //finally drawing out the poitions
+            //between right shoulder and left shoulder
+            ctx.moveTo(detectedPositionsX[5], detectedPositionsY[5]);
+            ctx.lineTo(detectedPositionsX[6], detectedPositionsY[6]);
+            //right shoulder and right elbow
+            ctx.moveTo(detectedPositionsX[6], detectedPositionsY[6]);
+            ctx.lineTo(detectedPositionsX[8], detectedPositionsY[8]);
+            //right elbow and right wrist
+            ctx.moveTo(detectedPositionsX[8], detectedPositionsY[8]);
+            ctx.lineTo(detectedPositionsX[10], detectedPositionsY[10]);
+            //left shoulder and left elbow
+            ctx.moveTo(detectedPositionsX[5], detectedPositionsY[5]);
+            ctx.lineTo(detectedPositionsX[7], detectedPositionsY[7]);
+            //left elbow and left wrist
+            ctx.moveTo(detectedPositionsX[7], detectedPositionsY[7]);
+            ctx.lineTo(detectedPositionsX[9], detectedPositionsY[9]);
+            //right shoulder and right hip
+            ctx.moveTo(detectedPositionsX[6], detectedPositionsY[6]);
+            ctx.lineTo(detectedPositionsX[12], detectedPositionsY[12]);
+            //left shoulder and left hip
+            ctx.moveTo(detectedPositionsX[5], detectedPositionsY[5]);
+            ctx.lineTo(detectedPositionsX[11], detectedPositionsY[11]);
+            //left hip and right hip
+            ctx.moveTo(detectedPositionsX[11], detectedPositionsY[11]);
+            ctx.lineTo(detectedPositionsX[12], detectedPositionsY[12]);
+            //right hip and right knee
+            ctx.moveTo(detectedPositionsX[12], detectedPositionsY[12]);
+            ctx.lineTo(detectedPositionsX[14], detectedPositionsY[14]);
+            //left hip and left knee
+            ctx.moveTo(detectedPositionsX[11], detectedPositionsY[11]);
+            ctx.lineTo(detectedPositionsX[13], detectedPositionsY[13]);
+            //right knee and right ankle
+            ctx.moveTo(detectedPositionsX[14], detectedPositionsY[14]);
+            ctx.lineTo(detectedPositionsX[16], detectedPositionsY[16]);
+            //left knee and left ankle
+            ctx.moveTo(detectedPositionsX[13], detectedPositionsY[13]);
+            ctx.lineTo(detectedPositionsX[15], detectedPositionsY[15]);
+            //nose and neck joint
+            const neckJointX = (detectedPositionsX[5] + detectedPositionsX[6]) / 2;
+            const neckJointY = (detectedPositionsY[5] + detectedPositionsY[6]) / 2;
+            ctx.moveTo(detectedPositionsX[0], detectedPositionsY[0]);
+            ctx.lineTo(neckJointX, neckJointY);
+            ctx.stroke();
+        }
+    </script>
+</body>
+
+</html>

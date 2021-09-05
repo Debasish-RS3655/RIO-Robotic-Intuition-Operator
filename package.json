@@ -1,0 +1,52 @@
+{
+  "name": "robotic_intuition_operator",
+  "version": "1.0.0",
+  "description": "Real Emotion feeling system",
+  "main": "backend.js",
+  "private": true,
+  "dependencies": {
+    "@tensorflow-models/knn-classifier": "^1.2.2",
+    "@tensorflow/tfjs": "^2.8.6",
+    "@tensorflow/tfjs-core": "^1.2.1",
+    "@tensorflow/tfjs-node-gpu": "^2.8.6",
+    "base64-arraybuffer": "^0.2.0",
+    "bigfive": "^3.0.0",
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.1",
+    "child_process": "^1.0.2",
+    "exceljs": "^4.2.1",
+    "express": "^4.17.1",
+    "fibers": "^4.0.1",
+    "filereader": "^0.10.3",
+    "fs": "^0.0.1-security",
+    "gender-detection": "^0.1.0",
+    "ibm-watson": "^6.0.4",
+    "loudness": "^0.3.0",
+    "midi-converter": "^0.1.5",
+    "midi-json-parser": "^8.0.9",
+    "midi-writer-js": "^1.7.4",
+    "node-fetch": "^2.6.1",
+    "node-pre-gyp": "^0.15.0",
+    "overload-protection": "^1.2.1",
+    "path": "^0.12.7",
+    "personality-text-summary": "^2.2.0",
+    "pitch-analyser": "^1.1.0",
+    "rollup": "^0.60.0",
+    "serialport": "^9.0.7",
+    "sleep": "^6.1.0",
+    "subject-extractor": "^1.0.6",
+    "thesaurus": "^0.0.1",
+    "util": "^0.12.3",
+    "verbutils": "^0.0.1",
+    "wordpos": "^2.1.0",
+    "wordpos-web": "^1.0.2"
+  },
+  "devDependencies": {
+    "node-wav-player": "^0.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Debashish Buragohain",
+  "license": "ISC"
+}

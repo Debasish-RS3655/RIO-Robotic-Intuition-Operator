@@ -1,0 +1,6769 @@
+{
+  "intents": [
+    {
+      "intent": "about_the_creator",
+      "examples": [
+        {
+          "text": "describe your creator"
+        },
+        {
+          "text": "describe your maker"
+        },
+        {
+          "text": "describe your owner"
+        },
+        {
+          "text": "tell me about your creator"
+        },
+        {
+          "text": "tell me something about your maker"
+        },
+        {
+          "text": "tell something about your owner"
+        },
+        {
+          "text": "tell us about your maker"
+        },
+        {
+          "text": "tell us something about your creator"
+        },
+        {
+          "text": "your creator is a fool"
+        },
+        {
+          "text": "your creator is damn stupid"
+        },
+        {
+          "text": "your creator is stupid"
+        },
+        {
+          "text": "your owner"
+        },
+        {
+          "text": "your owner is a bankrupt"
+        },
+        {
+          "text": "your owner is a fool"
+        }
+      ],
+      "description": "describes the creator of the robot"
+    },
+    {
+      "intent": "address",
+      "examples": [
+        {
+          "text": "what is your address"
+        },
+        {
+          "text": "where do you live"
+        },
+        {
+          "text": "where do you stay"
+        },
+        {
+          "text": "where is your home"
+        },
+        {
+          "text": "where is your home located"
+        },
+        {
+          "text": "where were you born"
+        },
+        {
+          "text": "where were you created"
+        }
+      ],
+      "description": "Defines the address of the robot"
+    },
+    {
+      "intent": "alike",
+      "examples": [
+        {
+          "text": "alike"
+        },
+        {
+          "text": "homogeneous"
+        },
+        {
+          "text": "identical"
+        },
+        {
+          "text": "indifferent"
+        },
+        {
+          "text": "indistinguishable"
+        },
+        {
+          "text": "interchangeable"
+        },
+        {
+          "text": "like"
+        },
+        {
+          "text": "like me"
+        },
+        {
+          "text": "ok"
+        },
+        {
+          "text": "same"
+        },
+        {
+          "text": "same to same"
+        },
+        {
+          "text": "similar"
+        },
+        {
+          "text": "the same"
+        },
+        {
+          "text": "undifferentiated"
+        },
+        {
+          "text": "uniform"
+        }
+      ],
+      "description": "Responds to the similarity of the person"
+    },
+    {
+      "intent": "always",
+      "examples": [
+        {
+          "text": "all the time"
+        },
+        {
+          "text": "always"
+        },
+        {
+          "text": "at all times"
+        },
+        {
+          "text": "consistently"
+        },
+        {
+          "text": "each time"
+        },
+        {
+          "text": "every time"
+        },
+        {
+          "text": "habitually"
+        },
+        {
+          "text": "inevitably"
+        },
+        {
+          "text": "infallibly"
+        },
+        {
+          "text": "invariably"
+        },
+        {
+          "text": "on all occasions"
+        },
+        {
+          "text": "on every occassion"
+        },
+        {
+          "text": "regularly"
+        },
+        {
+          "text": "repeatedly"
+        },
+        {
+          "text": "unfailingly"
+        },
+        {
+          "text": "without excpetion"
+        },
+        {
+          "text": "without fall"
+        }
+      ],
+      "description": "responds to the user saying always"
+    },
+    {
+      "intent": "angry_with_you",
+      "examples": [
+        {
+          "text": "I am angry with you."
+        }
+      ],
+      "description": "Angry with you."
+    },
+    {
+      "intent": "annoying",
+      "examples": [
+        {
+          "text": "how boring you are"
+        },
+        {
+          "text": "how stupid you are"
+        },
+        {
+          "text": "i am bored"
+        },
+        {
+          "text": "i am getting bored"
+        },
+        {
+          "text": "what a fool you are"
+        },
+        {
+          "text": "you are a disgust"
+        },
+        {
+          "text": "you are a fool"
+        },
+        {
+          "text": "you are boring"
+        },
+        {
+          "text": "you are disgusting"
+        },
+        {
+          "text": "you are nonsense"
+        },
+        {
+          "text": "you are nosy"
+        },
+        {
+          "text": "you are so annoying"
+        },
+        {
+          "text": "you are stupid"
+        },
+        {
+          "text": "you are the greatest fool on earth"
+        },
+        {
+          "text": "you are the most stupid robot i have ever seen"
+        },
+        {
+          "text": "you do not have a head"
+        },
+        {
+          "text": "you do not understand anything"
+        }
+      ],
+      "description": "replies to negative comments of the speaker"
+    },
+    {
+      "intent": "are_you",
+      "examples": [
+        {
+          "text": "are you"
+        },
+        {
+          "text": "so are you ready for today's session"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Asking_age",
+      "examples": [
+        {
+          "text": "are you eighteen"
+        },
+        {
+          "text": "are you more than eighteen"
+        },
+        {
+          "text": "how old are you"
+        },
+        {
+          "text": "how old have you been"
+        },
+        {
+          "text": "please tell me your age"
+        },
+        {
+          "text": "tell me your age"
+        },
+        {
+          "text": "what's your age"
+        },
+        {
+          "text": "when is your birthday"
+        },
+        {
+          "text": "when were you born"
+        }
+      ],
+      "description": "Replies to the question of age"
+    },
+    {
+      "intent": "being_considered_human",
+      "examples": [
+        {
+          "text": "are you a human"
+        },
+        {
+          "text": "do you consider yourself to be human"
+        },
+        {
+          "text": "do you dream to be a human"
+        },
+        {
+          "text": "do you think you are a human"
+        },
+        {
+          "text": "do you want to be a human"
+        },
+        {
+          "text": "would you ever want to be a true human"
+        }
+      ],
+      "description": "does the robot considers itself to be a human"
+    },
+    {
+      "intent": "being_positive",
+      "examples": [
+        {
+          "text": "absolutely"
+        },
+        {
+          "text": "absolutely yes"
+        },
+        {
+          "text": "any time"
+        },
+        {
+          "text": "definitely"
+        },
+        {
+          "text": "exactly"
+        },
+        {
+          "text": "I am very happy"
+        },
+        {
+          "text": "of course"
+        },
+        {
+          "text": "surely"
+        },
+        {
+          "text": "yes"
+        }
+      ],
+      "description": "Defines the positive state of the person"
+    },
+    {
+      "intent": "being_sad",
+      "examples": [
+        {
+          "text": "i am afraid"
+        },
+        {
+          "text": "i am feeling sad"
+        },
+        {
+          "text": "i am not feeling good"
+        },
+        {
+          "text": "i am not feeling well"
+        },
+        {
+          "text": "i am not good"
+        },
+        {
+          "text": "i am not happy"
+        },
+        {
+          "text": "i am not high"
+        },
+        {
+          "text": "i am not in a good mood"
+        },
+        {
+          "text": "i am not in high spirits"
+        },
+        {
+          "text": "i am not in the mood"
+        },
+        {
+          "text": "i am not well"
+        },
+        {
+          "text": "i am sad"
+        },
+        {
+          "text": "i am stressed"
+        },
+        {
+          "text": "i am tensed"
+        },
+        {
+          "text": "i am too stressed"
+        },
+        {
+          "text": "i am upset"
+        },
+        {
+          "text": "i do not feel good"
+        },
+        {
+          "text": "i have had a hard day"
+        },
+        {
+          "text": "it was not a good day"
+        },
+        {
+          "text": "my mood is not high"
+        },
+        {
+          "text": "the day was hard for me"
+        },
+        {
+          "text": "you cannot do anything for me"
+        }
+      ],
+      "description": "describes what to do if the speaker is sad"
+    },
+    {
+      "intent": "best_thing",
+      "examples": [
+        {
+          "text": "what is the best thing for you"
+        },
+        {
+          "text": "what is the best thing that happened to you"
+        },
+        {
+          "text": "what is the best thing that's happened to you"
+        },
+        {
+          "text": "what is the most memorable incident of your life"
+        },
+        {
+          "text": "what's the best thing that's happened to you"
+        },
+        {
+          "text": "your most memorable incident"
+        }
+      ],
+      "description": "replies to queries about the best thing"
+    },
+    {
+      "intent": "break_into_pieces",
+      "examples": [
+        {
+          "text": "What if I break you into pieces?"
+        },
+        {
+          "text": "What if I break you it pieces and throw you in the dump yard?"
+        }
+      ],
+      "description": "breaking RIO into pieces"
+    },
+    {
+      "intent": "can_you",
+      "examples": [
+        {
+          "text": "anything interesting to tell me"
+        },
+        {
+          "text": "can you"
+        },
+        {
+          "text": "could you"
+        },
+        {
+          "text": "will you be able to"
+        },
+        {
+          "text": "would you be able to"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "capabilities",
+      "examples": [
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "tell me what kinds of things that you can do"
+        },
+        {
+          "text": "tell me what you can do"
+        },
+        {
+          "text": "what are the things that you handle"
+        },
+        {
+          "text": "what are the things you can do"
+        },
+        {
+          "text": "what are you able to deal with"
+        },
+        {
+          "text": "what are you able to do"
+        },
+        {
+          "text": "what are you capable of"
+        },
+        {
+          "text": "what are you capable of doing"
+        },
+        {
+          "text": "what are your abilities"
+        },
+        {
+          "text": "what are your capabilityies"
+        },
+        {
+          "text": "what are your features"
+        },
+        {
+          "text": "what are your skills"
+        },
+        {
+          "text": "what are you used for"
+        },
+        {
+          "text": "what can I ask you to do"
+        },
+        {
+          "text": "what can you do"
+        },
+        {
+          "text": "what do you do"
+        },
+        {
+          "text": "what do you handle"
+        },
+        {
+          "text": "what else are you able to do"
+        },
+        {
+          "text": "what else can you do"
+        },
+        {
+          "text": "what else can you help me with"
+        },
+        {
+          "text": "what features do you have"
+        }
+      ],
+      "description": "Query the capabilities of TJBot"
+    },
+    {
+      "intent": "car",
+      "examples": [
+        {
+          "text": "automobile"
+        },
+        {
+          "text": "car"
+        },
+        {
+          "text": "motor bike"
+        },
+        {
+          "text": "motor car"
+        },
+        {
+          "text": "motor cycle"
+        },
+        {
+          "text": "self driving car"
+        },
+        {
+          "text": "vehicle"
+        }
+      ],
+      "description": "Responds if the user says car"
+    },
+    {
+      "intent": "cause",
+      "examples": [
+        {
+          "text": "as"
+        },
+        {
+          "text": "because"
+        },
+        {
+          "text": "cause"
+        },
+        {
+          "text": "for"
+        },
+        {
+          "text": "since"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "change_topic",
+      "examples": [
+        {
+          "text": "change the topic"
+        },
+        {
+          "text": "different topic"
+        },
+        {
+          "text": "let's change the topic"
+        },
+        {
+          "text": "let's discuss something else"
+        },
+        {
+          "text": "let's have a different thing to talk about"
+        },
+        {
+          "text": "let's have a different topic"
+        },
+        {
+          "text": "let's talk about a different topic"
+        },
+        {
+          "text": "let's talk about a different topic."
+        },
+        {
+          "text": "let's talk about something else"
+        },
+        {
+          "text": "let us change the topic"
+        },
+        {
+          "text": "let us discuss something else"
+        },
+        {
+          "text": "let us talk about something else"
+        },
+        {
+          "text": "there are better things to do"
+        },
+        {
+          "text": "there are better things to talk about"
+        },
+        {
+          "text": "think about something else to talk"
+        },
+        {
+          "text": "we should discuss something else"
+        }
+      ],
+      "description": "responds to the queries about topic change"
+    },
+    {
+      "intent": "comedy_film",
+      "examples": [
+        {
+          "text": "best comedy movie"
+        },
+        {
+          "text": "best comedy movie for you"
+        },
+        {
+          "text": "which comedy movie"
+        },
+        {
+          "text": "which is the best comdey film"
+        },
+        {
+          "text": "which is the best comedy movie you have ever seen"
+        }
+      ],
+      "description": "replies to comedy film queries"
+    },
+    {
+      "intent": "Computers",
+      "examples": [
+        {
+          "text": "apple"
+        },
+        {
+          "text": "central processing unit"
+        },
+        {
+          "text": "chromebook"
+        },
+        {
+          "text": "cloud storage"
+        },
+        {
+          "text": "computer"
+        },
+        {
+          "text": "cpu"
+        },
+        {
+          "text": "desktop"
+        },
+        {
+          "text": "hard disk"
+        },
+        {
+          "text": "i pad"
+        },
+        {
+          "text": "i phone"
+        },
+        {
+          "text": "laptop"
+        },
+        {
+          "text": "mac book"
+        },
+        {
+          "text": "mobile"
+        },
+        {
+          "text": "mobile phone"
+        },
+        {
+          "text": "monitor"
+        },
+        {
+          "text": "motherboard"
+        },
+        {
+          "text": "nokia"
+        },
+        {
+          "text": "oppo"
+        },
+        {
+          "text": "processor"
+        },
+        {
+          "text": "program"
+        },
+        {
+          "text": "robot"
+        },
+        {
+          "text": "smart phone"
+        },
+        {
+          "text": "smartphone"
+        },
+        {
+          "text": "smasung"
+        },
+        {
+          "text": "software"
+        },
+        {
+          "text": "tablet"
+        }
+      ],
+      "description": "Reacts to the word Computer"
+    },
+    {
+      "intent": "Concern_for_beauty",
+      "examples": [
+        {
+          "text": "are you beautiful"
+        },
+        {
+          "text": "Beauty is just one of the beautiful features you have."
+        },
+        {
+          "text": "Behind those beautiful eyes lies a beautiful story."
+        },
+        {
+          "text": "do you consider yourself yo be beautiful"
+        },
+        {
+          "text": "do you think you are beautiful"
+        },
+        {
+          "text": "do you think you are gorgeous"
+        },
+        {
+          "text": "do you think you are hot"
+        },
+        {
+          "text": "do you think you are pretty"
+        },
+        {
+          "text": "do you think you are sexy"
+        },
+        {
+          "text": "Flawless outstanding eccentric lovely beauty"
+        },
+        {
+          "text": "he stars, the moon, and the sun are minor to me since you sparkle brighter than all of them"
+        },
+        {
+          "text": "Honestly, you are beautiful"
+        },
+        {
+          "text": "I feel so happy to be with you."
+        },
+        {
+          "text": "I guess this is your best look, you look beautiful in this outfit."
+        },
+        {
+          "text": "I like your hair."
+        },
+        {
+          "text": "I love how comfortable you are in your world"
+        },
+        {
+          "text": "I love how expressive your eyes are."
+        },
+        {
+          "text": "I love that straight hair of yours."
+        },
+        {
+          "text": "I love your curly hair"
+        },
+        {
+          "text": "I see the beauty of your life."
+        },
+        {
+          "text": "I see the power of your grace."
+        },
+        {
+          "text": "I think this is the best I’ve seen till now"
+        },
+        {
+          "text": "I think you’re fascinated."
+        },
+        {
+          "text": "It’s refreshing, your beauty."
+        },
+        {
+          "text": "I wish I had your makeup."
+        },
+        {
+          "text": "I wonder how cute you would be looking when you sleep"
+        },
+        {
+          "text": "Just when I couldn’t love you more. You posted this pic and my jaw dropped to the floor."
+        },
+        {
+          "text": "Just ‘WOW’ for your natural beauty."
+        },
+        {
+          "text": "Sorry is overcome by the grace."
+        },
+        {
+          "text": "Surely you are the most beautiful woman alive"
+        },
+        {
+          "text": "Surely you would have been arrested if looking immensely beautiful was a crime."
+        },
+        {
+          "text": "That natural beauty tho"
+        },
+        {
+          "text": "The beauty lies within the soul."
+        },
+        {
+          "text": "The expression is lovely."
+        },
+        {
+          "text": "There are endless possibilities for your beauty."
+        },
+        {
+          "text": "The word pretty is worthless without you"
+        },
+        {
+          "text": "You are a symbol of beauty"
+        },
+        {
+          "text": "You are a true beauty epitome."
+        },
+        {
+          "text": "you are attractive"
+        },
+        {
+          "text": "You are a whisper of perfection."
+        },
+        {
+          "text": "you are beautiful"
+        },
+        {
+          "text": "You are cute"
+        },
+        {
+          "text": "you are gorgeous"
+        },
+        {
+          "text": "You are graceful"
+        },
+        {
+          "text": "you are hot"
+        },
+        {
+          "text": "you are looking beautiful"
+        },
+        {
+          "text": "You are my safest place"
+        },
+        {
+          "text": "You are pleasing"
+        },
+        {
+          "text": "you are pretty"
+        },
+        {
+          "text": "you are sexy"
+        },
+        {
+          "text": "You are so much lovely"
+        },
+        {
+          "text": "You are stunning."
+        },
+        {
+          "text": "You are the definition of “Beauty”"
+        },
+        {
+          "text": "You are the sweetest girl I have ever seen"
+        },
+        {
+          "text": "You are true, beautiful and pure."
+        },
+        {
+          "text": "You are very much adorable"
+        },
+        {
+          "text": "You have a beautiful smile."
+        },
+        {
+          "text": "You have the most beautiful smile."
+        },
+        {
+          "text": "You have the most beautiful, sparkling eyes."
+        },
+        {
+          "text": "you look beautiful"
+        },
+        {
+          "text": "You look beautiful in that dress"
+        },
+        {
+          "text": "You look mesmerizing"
+        },
+        {
+          "text": "You look more beautiful than the photo."
+        },
+        {
+          "text": "You look stunning."
+        },
+        {
+          "text": "You mean the world to me."
+        },
+        {
+          "text": "Your beauty is amazing."
+        },
+        {
+          "text": "Your beauty is one of the things I like about you."
+        },
+        {
+          "text": "Your dressing sense is appreciable"
+        },
+        {
+          "text": "You’re a divine present."
+        },
+        {
+          "text": "You’re an incredibly stunning, a really pretty, beautiful woman"
+        },
+        {
+          "text": "You’re beautiful and enthusiastic."
+        },
+        {
+          "text": "You’re classy."
+        },
+        {
+          "text": "You’re flawless."
+        },
+        {
+          "text": "You’re helping us sound lovely."
+        },
+        {
+          "text": "You’re like the sun’s ray."
+        },
+        {
+          "text": "You’re very trendy."
+        },
+        {
+          "text": "Your sense of fashion is great,"
+        },
+        {
+          "text": "Your true colors are beautiful."
+        },
+        {
+          "text": "You take my breath away."
+        },
+        {
+          "text": "You’ve got a beautiful heart."
+        },
+        {
+          "text": "You’ve got lovely eyes."
+        }
+      ],
+      "description": "express the concern for beauty of the robot"
+    },
+    {
+      "intent": "dance",
+      "examples": [
+        {
+          "text": "can you dance"
+        },
+        {
+          "text": "dance for me"
+        },
+        {
+          "text": "ok dance"
+        },
+        {
+          "text": "ok dance for me"
+        },
+        {
+          "text": "show me a dance step"
+        }
+      ],
+      "description": "replies to dancing queries"
+    },
+    {
+      "intent": "Description_of_GOD",
+      "examples": [
+        {
+          "text": "does God really exist"
+        },
+        {
+          "text": "do you believe in God"
+        },
+        {
+          "text": "do you think there is God"
+        },
+        {
+          "text": "what do you think of God"
+        },
+        {
+          "text": "Who is GOD for you?"
+        }
+      ],
+      "description": "Tells about god whether he believes or not."
+    },
+    {
+      "intent": "dream",
+      "examples": [
+        {
+          "text": "ambition"
+        },
+        {
+          "text": "aspiration"
+        },
+        {
+          "text": "aspire"
+        },
+        {
+          "text": "desire"
+        },
+        {
+          "text": "dream"
+        },
+        {
+          "text": "fantasy"
+        },
+        {
+          "text": "hope"
+        },
+        {
+          "text": "nightmare"
+        },
+        {
+          "text": "wish"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Family_information",
+      "examples": [
+        {
+          "text": "do you have a brother"
+        },
+        {
+          "text": "do you have a family"
+        },
+        {
+          "text": "do you have a father"
+        },
+        {
+          "text": "do you have a mother"
+        },
+        {
+          "text": "do you have a sister"
+        },
+        {
+          "text": "do you have a younger sister"
+        },
+        {
+          "text": "do you have siblings"
+        },
+        {
+          "text": "how many members are there in your family"
+        },
+        {
+          "text": "how old is your brother"
+        },
+        {
+          "text": "what is the name of your father"
+        },
+        {
+          "text": "what is the name of your sister"
+        },
+        {
+          "text": "what is your brother's name"
+        },
+        {
+          "text": "what is your sister's name"
+        },
+        {
+          "text": "what's the name of your mother"
+        },
+        {
+          "text": "who is your father"
+        },
+        {
+          "text": "who is your mother"
+        }
+      ],
+      "description": "Replies to questions asked about family"
+    },
+    {
+      "intent": "farewell",
+      "examples": [
+        {
+          "text": "bon voyage"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "bye bye"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "catch up later"
+        },
+        {
+          "text": "catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "farewell"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "goodbye"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "hasta la vista"
+        },
+        {
+          "text": "have a nice day"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "I am done"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "i'll catch up later"
+        },
+        {
+          "text": "i'll see you after"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "I'm done with you"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "It was nice having you"
+        },
+        {
+          "text": "It was nice talking to you"
+        },
+        {
+          "text": "I've got to go"
+        },
+        {
+          "text": "I've got to go now"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "later"
+        },
+        {
+          "text": "meet me"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "see ya"
+        },
+        {
+          "text": "see you"
+        },
+        {
+          "text": "see you later"
+        },
+        {
+          "text": "see you soon"
+        },
+        {
+          "text": "see you tomorrow"
+        },
+        {
+          "text": "see you very soon"
+        },
+        {
+          "text": "so long"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "take care"
+        },
+        {
+          "text": "take care of yourself"
+        },
+        {
+          "text": "take it easy"
+        },
+        {
+          "text": "talk to you soon"
+        },
+        {
+          "text": "ta ta"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        }
+      ],
+      "description": "Responds to the farewell of the people"
+    },
+    {
+      "intent": "favorite",
+      "examples": [
+        {
+          "text": "favourite"
+        },
+        {
+          "text": "most liked"
+        }
+      ],
+      "description": "Responds to the opinions of the person"
+    },
+    {
+      "intent": "favorite_dish",
+      "examples": [
+        {
+          "text": "best dish"
+        },
+        {
+          "text": "favorite dish"
+        },
+        {
+          "text": "what food do you like"
+        },
+        {
+          "text": "what is your favorite food"
+        },
+        {
+          "text": "which is the best dish for you"
+        },
+        {
+          "text": "which is your favorite dish"
+        }
+      ],
+      "description": "responds to the favorite dish of the robot"
+    },
+    {
+      "intent": "favourite_place",
+      "examples": [
+        {
+          "text": "what is your favorite place"
+        },
+        {
+          "text": "where do you like to go"
+        },
+        {
+          "text": "where is your dreamland"
+        },
+        {
+          "text": "which is your favorite place"
+        },
+        {
+          "text": "which place will you want to go"
+        }
+      ],
+      "description": "Replies to queries about favourite places"
+    },
+    {
+      "intent": "favourite_sport",
+      "examples": [
+        {
+          "text": "do you like badminton"
+        },
+        {
+          "text": "do you like baseball"
+        },
+        {
+          "text": "do you like cricket"
+        },
+        {
+          "text": "do you like football"
+        },
+        {
+          "text": "do you like playing"
+        },
+        {
+          "text": "what game do you like"
+        },
+        {
+          "text": "which game do you like"
+        },
+        {
+          "text": "which game do you like the most"
+        },
+        {
+          "text": "which is your favorite game"
+        },
+        {
+          "text": "why don't you like football"
+        }
+      ],
+      "description": "the favorite sport of RIO"
+    },
+    {
+      "intent": "friend",
+      "examples": [
+        {
+          "text": "companion"
+        },
+        {
+          "text": "familiar"
+        },
+        {
+          "text": "friend"
+        },
+        {
+          "text": "mate"
+        },
+        {
+          "text": "partner"
+        }
+      ],
+      "description": "Reacts to the friendship of the person"
+    },
+    {
+      "intent": "Friends",
+      "examples": [
+        {
+          "text": "can we be friend"
+        },
+        {
+          "text": "can you make friendship easily"
+        },
+        {
+          "text": "do you have any friend"
+        },
+        {
+          "text": "do you like making friends"
+        },
+        {
+          "text": "do you like your friends"
+        },
+        {
+          "text": "do you make friends easily"
+        },
+        {
+          "text": "have you any friend"
+        },
+        {
+          "text": "how many friends do you have"
+        },
+        {
+          "text": "who are your friends"
+        },
+        {
+          "text": "who is your best buddy"
+        },
+        {
+          "text": "will you be my friend"
+        }
+      ],
+      "description": "Everything about friends"
+    },
+    {
+      "intent": "gender",
+      "examples": [
+        {
+          "text": "are you a boy"
+        },
+        {
+          "text": "are you a boy or a girl"
+        },
+        {
+          "text": "are you a female"
+        },
+        {
+          "text": "are you a gay"
+        },
+        {
+          "text": "are you a male"
+        },
+        {
+          "text": "are you a male or a female"
+        },
+        {
+          "text": "are you a man"
+        },
+        {
+          "text": "are you a woman"
+        },
+        {
+          "text": "are you boy or girl"
+        },
+        {
+          "text": "are you female"
+        },
+        {
+          "text": "are you gay"
+        },
+        {
+          "text": "are you lesbian"
+        },
+        {
+          "text": "are you male"
+        },
+        {
+          "text": "what is your gender"
+        },
+        {
+          "text": "which gender do you belong to"
+        }
+      ],
+      "description": "defines whether the robot is a girl or boy"
+    },
+    {
+      "intent": "greeting",
+      "examples": [
+        {
+          "text": "aloha"
+        },
+        {
+          "text": "are you all right mate"
+        },
+        {
+          "text": "been a while"
+        },
+        {
+          "text": "bonjour"
+        },
+        {
+          "text": "greetings"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "hello tj bot"
+        },
+        {
+          "text": "hello tjbot"
+        },
+        {
+          "text": "hey"
+        },
+        {
+          "text": "hi"
+        },
+        {
+          "text": "hi there"
+        },
+        {
+          "text": "hi tj bot"
+        },
+        {
+          "text": "hi tjbot"
+        },
+        {
+          "text": "hiya"
+        },
+        {
+          "text": "long time no see"
+        },
+        {
+          "text": "nice to meet you"
+        },
+        {
+          "text": "pleased to meet you"
+        },
+        {
+          "text": "say hi"
+        },
+        {
+          "text": "what's up"
+        },
+        {
+          "text": "yo"
+        },
+        {
+          "text": "you all right"
+        },
+        {
+          "text": "you all right mate"
+        }
+      ],
+      "description": "Say hello to TJBot"
+    },
+    {
+      "intent": "greetings",
+      "examples": [
+        {
+          "text": "good afternoon"
+        },
+        {
+          "text": "good day"
+        },
+        {
+          "text": "good evening"
+        },
+        {
+          "text": "good morning"
+        },
+        {
+          "text": "good night"
+        },
+        {
+          "text": "hello"
+        },
+        {
+          "text": "welcome"
+        }
+      ],
+      "description": "Replies to the greetings of the person"
+    },
+    {
+      "intent": "happy_reply",
+      "examples": [
+        {
+          "text": "doing good"
+        },
+        {
+          "text": "fine"
+        },
+        {
+          "text": "i am awesome"
+        },
+        {
+          "text": "i am doing amazingly well"
+        },
+        {
+          "text": "i am fine"
+        },
+        {
+          "text": "i am fine thank you"
+        },
+        {
+          "text": "i am flying in the skies"
+        },
+        {
+          "text": "i am flying in the sky"
+        },
+        {
+          "text": "i am living in my dreams"
+        },
+        {
+          "text": "i am quite fine"
+        },
+        {
+          "text": "i am quite good"
+        },
+        {
+          "text": "i am quite well"
+        },
+        {
+          "text": "not bad"
+        },
+        {
+          "text": "of all the questions you could have asked"
+        },
+        {
+          "text": "quite well"
+        },
+        {
+          "text": "words fail me"
+        }
+      ],
+      "description": "happy replies for a question asked earlier"
+    },
+    {
+      "intent": "hear",
+      "examples": [
+        {
+          "text": "are you hearing me"
+        },
+        {
+          "text": "can you  hear me"
+        },
+        {
+          "text": "can you listen to me"
+        },
+        {
+          "text": "do you copy"
+        },
+        {
+          "text": "do you hear me"
+        },
+        {
+          "text": "do you listen to me"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Helping_somebody_from_danger",
+      "examples": [
+        {
+          "text": "Can you save her from danger?"
+        },
+        {
+          "text": "Can you save me from danger?"
+        },
+        {
+          "text": "Can you save the world from danger?"
+        },
+        {
+          "text": "Can you save us from any danger?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "hobby",
+      "examples": [
+        {
+          "text": "what do you like to do?"
+        },
+        {
+          "text": "what do you like to do in your free time"
+        },
+        {
+          "text": "what is your favorite work"
+        },
+        {
+          "text": "what's your favorite hobby?"
+        },
+        {
+          "text": "what's your hobby"
+        }
+      ],
+      "description": "replies to queries about hobbies"
+    },
+    {
+      "intent": "how_works",
+      "examples": [
+        {
+          "text": "and how do you do that"
+        },
+        {
+          "text": "does it even work"
+        },
+        {
+          "text": "does it work"
+        },
+        {
+          "text": "does it work for"
+        },
+        {
+          "text": "does it work for you"
+        },
+        {
+          "text": "how does that even work"
+        },
+        {
+          "text": "how do you do that"
+        },
+        {
+          "text": "it does not work"
+        },
+        {
+          "text": "it does not work for me"
+        },
+        {
+          "text": "it does not work that way"
+        },
+        {
+          "text": "it is not that way"
+        },
+        {
+          "text": "it might work for you"
+        },
+        {
+          "text": "it only works for you"
+        },
+        {
+          "text": "it works for nobody"
+        },
+        {
+          "text": "that's not how"
+        },
+        {
+          "text": "that's not how it works"
+        },
+        {
+          "text": "that's not the way"
+        },
+        {
+          "text": "you don't have any work"
+        }
+      ],
+      "description": "how does that work"
+    },
+    {
+      "intent": "I_am",
+      "examples": [
+        {
+          "text": "i am"
+        },
+        {
+          "text": "i'm"
+        },
+        {
+          "text": "so am i"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "i_am_talking_to_you",
+      "examples": [
+        {
+          "text": "i am referring to you"
+        },
+        {
+          "text": "i am speaking to you"
+        },
+        {
+          "text": "i am talking about you"
+        },
+        {
+          "text": "i am talking to you"
+        },
+        {
+          "text": "i am telling about you"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "I_Cannot",
+      "examples": [
+        {
+          "text": "i cannot"
+        },
+        {
+          "text": "i can't"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "i_dont",
+      "examples": [
+        {
+          "text": "i did not mean that"
+        },
+        {
+          "text": "i do not"
+        },
+        {
+          "text": "i don't"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "i_expected_more_from_you",
+      "examples": [
+        {
+          "text": "i expected a better reply from you"
+        },
+        {
+          "text": "i expected more"
+        },
+        {
+          "text": "i expected more for that"
+        },
+        {
+          "text": "i expected more from you"
+        },
+        {
+          "text": "i figured you differently"
+        },
+        {
+          "text": "i had a different picture about you"
+        },
+        {
+          "text": "i thought you were better"
+        },
+        {
+          "text": "i thought you were different"
+        },
+        {
+          "text": "thought you would give a better reaction"
+        },
+        {
+          "text": "thought you would give a better reply"
+        },
+        {
+          "text": "thought you would understand better"
+        },
+        {
+          "text": "your reaction should have been better"
+        },
+        {
+          "text": "you should give a better reaction"
+        }
+      ],
+      "description": "replies to queries about i expected more from you"
+    },
+    {
+      "intent": "I_feel",
+      "examples": [
+        {
+          "text": "bear"
+        },
+        {
+          "text": "detect"
+        },
+        {
+          "text": "discern"
+        },
+        {
+          "text": "endure"
+        },
+        {
+          "text": "experience"
+        },
+        {
+          "text": "going through"
+        },
+        {
+          "text": "go through"
+        },
+        {
+          "text": "identify"
+        },
+        {
+          "text": "i feel"
+        },
+        {
+          "text": "i hate him"
+        },
+        {
+          "text": "make out"
+        },
+        {
+          "text": "notice"
+        },
+        {
+          "text": "observe"
+        },
+        {
+          "text": "perceive"
+        },
+        {
+          "text": "sense"
+        },
+        {
+          "text": "suffer"
+        },
+        {
+          "text": "undergo"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "introduce-self",
+      "examples": [
+        {
+          "text": "introduce yourself"
+        },
+        {
+          "text": "please introduce yourself"
+        },
+        {
+          "text": "tell me about yourself"
+        },
+        {
+          "text": "tell me who you are"
+        },
+        {
+          "text": "what are you"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "who are you"
+        }
+      ],
+      "description": "TJBot introduces itself"
+    },
+    {
+      "intent": "introduce_to_them",
+      "examples": [
+        {
+          "text": "do you know about these people"
+        },
+        {
+          "text": "do you know these people"
+        },
+        {
+          "text": "have i introduced you to"
+        },
+        {
+          "text": "he is a great guy"
+        },
+        {
+          "text": "he is a nice boy"
+        },
+        {
+          "text": "he is a very good boy"
+        },
+        {
+          "text": "he is the"
+        },
+        {
+          "text": "he is the best student of our class"
+        },
+        {
+          "text": "i introduce you to"
+        },
+        {
+          "text": "i want you to meet"
+        },
+        {
+          "text": "let me introduce you to them"
+        },
+        {
+          "text": "meet them"
+        },
+        {
+          "text": "she is a"
+        },
+        {
+          "text": "she is a great girl"
+        },
+        {
+          "text": "she is a nice girl"
+        },
+        {
+          "text": "these are very special people"
+        },
+        {
+          "text": "they are"
+        },
+        {
+          "text": "they are my friends"
+        },
+        {
+          "text": "they are my teachers"
+        },
+        {
+          "text": "they are very special people"
+        },
+        {
+          "text": "they are your best friends"
+        },
+        {
+          "text": "they are your friends"
+        }
+      ],
+      "description": "introduces to new people around"
+    },
+    {
+      "intent": "is_that_so",
+      "examples": [
+        {
+          "text": "is it"
+        },
+        {
+          "text": "is it so"
+        },
+        {
+          "text": "is that how"
+        },
+        {
+          "text": "is that how it happens"
+        },
+        {
+          "text": "is that how you do it"
+        },
+        {
+          "text": "is that it"
+        },
+        {
+          "text": "oh is it"
+        }
+      ],
+      "description": "replies to queries about is it so"
+    },
+    {
+      "intent": "i_want",
+      "examples": [
+        {
+          "text": "care for"
+        },
+        {
+          "text": "desire"
+        },
+        {
+          "text": "fancy"
+        },
+        {
+          "text": "have a fancy for"
+        },
+        {
+          "text": "hope for"
+        },
+        {
+          "text": "i want"
+        },
+        {
+          "text": "like"
+        },
+        {
+          "text": "take a fancy to"
+        },
+        {
+          "text": "want"
+        },
+        {
+          "text": "wish for"
+        }
+      ],
+      "description": "Reacts to the desires of the person"
+    },
+    {
+      "intent": "kiss",
+      "examples": [
+        {
+          "text": "I wanna kiss you"
+        },
+        {
+          "text": "I want a kiss from you"
+        },
+        {
+          "text": "Will you kiss me?"
+        },
+        {
+          "text": "You want a kiss from me?"
+        }
+      ],
+      "description": "replies when someone asks her for a kiss"
+    },
+    {
+      "intent": "know",
+      "examples": [
+        {
+          "text": "i can"
+        },
+        {
+          "text": "i can understand"
+        },
+        {
+          "text": "i do"
+        },
+        {
+          "text": "i know"
+        },
+        {
+          "text": "i know that very well"
+        },
+        {
+          "text": "i understand"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "learn",
+      "examples": [
+        {
+          "text": "did you learn anything from him"
+        },
+        {
+          "text": "did you learn anything today"
+        },
+        {
+          "text": "learn"
+        },
+        {
+          "text": "learning"
+        },
+        {
+          "text": "what did you learn today"
+        },
+        {
+          "text": "what do you wanna learn today"
+        },
+        {
+          "text": "you are learning well"
+        }
+      ],
+      "description": "learning examples"
+    },
+    {
+      "intent": "like_reading",
+      "examples": [
+        {
+          "text": "do you like books"
+        },
+        {
+          "text": "do you like to read"
+        },
+        {
+          "text": "do you like to study"
+        },
+        {
+          "text": "what do you like to read"
+        },
+        {
+          "text": "which book do you like"
+        }
+      ],
+      "description": "defines the reading habit of RIO"
+    },
+    {
+      "intent": "living",
+      "examples": [
+        {
+          "text": "do you have a job"
+        },
+        {
+          "text": "do you have a job somewhere"
+        },
+        {
+          "text": "do you work"
+        },
+        {
+          "text": "do you work somewhere"
+        },
+        {
+          "text": "how do you earn your living"
+        },
+        {
+          "text": "what do you do for a living"
+        },
+        {
+          "text": "what's your living"
+        },
+        {
+          "text": "where do you work"
+        }
+      ],
+      "description": "replies to queries about living"
+    },
+    {
+      "intent": "love",
+      "examples": [
+        {
+          "text": "i adore you"
+        },
+        {
+          "text": "i am addicted to you"
+        },
+        {
+          "text": "i am attracted to you"
+        },
+        {
+          "text": "i am feeling for you"
+        },
+        {
+          "text": "i am in love with you"
+        },
+        {
+          "text": "i am smitten to you"
+        },
+        {
+          "text": "i care for you"
+        },
+        {
+          "text": "i feel for you"
+        },
+        {
+          "text": "i have fallen for you"
+        },
+        {
+          "text": "i have got feelings for you"
+        },
+        {
+          "text": "i like you"
+        },
+        {
+          "text": "i love you"
+        },
+        {
+          "text": "i'm crazy about you"
+        },
+        {
+          "text": "i've got feelings for you"
+        },
+        {
+          "text": "i want you and only you"
+        },
+        {
+          "text": "you are my everything"
+        },
+        {
+          "text": "you are my other half"
+        },
+        {
+          "text": "you put my heart on fire"
+        },
+        {
+          "text": "you turn me on"
+        }
+      ],
+      "description": "express the love of the robot"
+    },
+    {
+      "intent": "Maritial_status",
+      "examples": [
+        {
+          "text": "are you a wife"
+        },
+        {
+          "text": "are you in love"
+        },
+        {
+          "text": "are you in love with him"
+        },
+        {
+          "text": "are you in love with me"
+        },
+        {
+          "text": "are you married"
+        },
+        {
+          "text": "do you have a boyfriend"
+        },
+        {
+          "text": "do you have a brother"
+        },
+        {
+          "text": "do you have a husband"
+        },
+        {
+          "text": "do you have a lover"
+        },
+        {
+          "text": "do you have a son"
+        },
+        {
+          "text": "do you have children"
+        },
+        {
+          "text": "do you love anyone"
+        },
+        {
+          "text": "do you love me"
+        },
+        {
+          "text": "do you love someone"
+        },
+        {
+          "text": "do you want to marry"
+        },
+        {
+          "text": "have you ever fallen in love"
+        },
+        {
+          "text": "i am in love with you"
+        },
+        {
+          "text": "i love you"
+        }
+      ],
+      "description": "Defines the marital status of the robot"
+    },
+    {
+      "intent": "maybe",
+      "examples": [
+        {
+          "text": "for all that seems"
+        },
+        {
+          "text": "it could be"
+        },
+        {
+          "text": "maybe"
+        },
+        {
+          "text": "perhaps"
+        },
+        {
+          "text": "possibly"
+        },
+        {
+          "text": "probably"
+        }
+      ],
+      "description": "Responds to the user saying maybe or synonyms"
+    },
+    {
+      "intent": "meaning_of_rio",
+      "examples": [
+        {
+          "text": "what does rio mean"
+        },
+        {
+          "text": "what does your name mean"
+        },
+        {
+          "text": "what is the meaning of rio"
+        },
+        {
+          "text": "why did your owner name you rio"
+        },
+        {
+          "text": "why is your name rio"
+        }
+      ],
+      "description": "explains the meaning of robotic intuition operator"
+    },
+    {
+      "intent": "movies",
+      "examples": [
+        {
+          "text": "best cinema"
+        },
+        {
+          "text": "best movie"
+        },
+        {
+          "text": "what is your favorite film"
+        },
+        {
+          "text": "which film do you like to watch"
+        },
+        {
+          "text": "which is your favorite film"
+        },
+        {
+          "text": "which is your favorite movie"
+        },
+        {
+          "text": "which movie do you like the most"
+        }
+      ],
+      "description": "Replies to the favorite movies"
+    },
+    {
+      "intent": "name",
+      "examples": [
+        {
+          "text": "may you please tell me your name"
+        },
+        {
+          "text": "please tell me your name"
+        },
+        {
+          "text": "tell me your name"
+        },
+        {
+          "text": "what is your name"
+        },
+        {
+          "text": "what shall i call you"
+        },
+        {
+          "text": "what should i call you"
+        }
+      ],
+      "description": "Replies the name of the robot"
+    },
+    {
+      "intent": "name_of_owner",
+      "examples": [
+        {
+          "text": "by whom were you created"
+        },
+        {
+          "text": "by whom were you made"
+        },
+        {
+          "text": "does your creator have a name"
+        },
+        {
+          "text": "does your maker have a name"
+        },
+        {
+          "text": "does your owner have a name"
+        },
+        {
+          "text": "what is the name of your creator"
+        },
+        {
+          "text": "what is the name of your maker"
+        },
+        {
+          "text": "what is the name of your owner"
+        },
+        {
+          "text": "who created you"
+        },
+        {
+          "text": "who is the person you like the most"
+        },
+        {
+          "text": "who is your most favorite person"
+        },
+        {
+          "text": "who made you"
+        },
+        {
+          "text": "who owns you"
+        }
+      ],
+      "description": "Responds to queries about the name of the creator"
+    },
+    {
+      "intent": "negative_comments",
+      "examples": [
+        {
+          "text": "I don’t care"
+        },
+        {
+          "text": "i don't care about you"
+        },
+        {
+          "text": "I don't like you"
+        },
+        {
+          "text": "i don't like you at all"
+        },
+        {
+          "text": "i hate you"
+        },
+        {
+          "text": "you are a bad girl"
+        },
+        {
+          "text": "you are a bad robot"
+        },
+        {
+          "text": "you are a big failure"
+        },
+        {
+          "text": "you are a distraction"
+        },
+        {
+          "text": "you are bad"
+        },
+        {
+          "text": "you are dull"
+        },
+        {
+          "text": "you are not beautiful"
+        },
+        {
+          "text": "you are not capable"
+        },
+        {
+          "text": "you are not good"
+        },
+        {
+          "text": "you are nothing"
+        },
+        {
+          "text": "you are over confident"
+        },
+        {
+          "text": "you are too old"
+        },
+        {
+          "text": "you are too overconfident"
+        },
+        {
+          "text": "you are too young"
+        },
+        {
+          "text": "You can’t do it"
+        },
+        {
+          "text": "You’re wrong"
+        },
+        {
+          "text": "you will end up nowhere"
+        }
+      ],
+      "description": "replies to the negative comments of the robot"
+    },
+    {
+      "intent": "negativity",
+      "examples": [
+        {
+          "text": "absolutely not"
+        },
+        {
+          "text": "never"
+        },
+        {
+          "text": "no"
+        },
+        {
+          "text": "not at all"
+        },
+        {
+          "text": "no thanks"
+        },
+        {
+          "text": "nothing"
+        },
+        {
+          "text": "not really"
+        },
+        {
+          "text": "of course not"
+        },
+        {
+          "text": "under no circumstances"
+        }
+      ],
+      "description": "Replies to negative commands of the person"
+    },
+    {
+      "intent": "not_interested_in_names",
+      "examples": [
+        {
+          "text": "call me"
+        },
+        {
+          "text": "i am"
+        },
+        {
+          "text": "my name is"
+        },
+        {
+          "text": "name"
+        },
+        {
+          "text": "people call me"
+        }
+      ],
+      "description": "Reacts to the names of the persons"
+    },
+    {
+      "intent": "personality_analysis",
+      "examples": [
+        {
+          "text": "analyse my personality"
+        },
+        {
+          "text": "analyze my habits"
+        },
+        {
+          "text": "analyze my personality"
+        },
+        {
+          "text": "tell me about her"
+        },
+        {
+          "text": "tell me about his habits"
+        },
+        {
+          "text": "tell me about my habits"
+        },
+        {
+          "text": "tell me about myself"
+        },
+        {
+          "text": "tell me his personality"
+        },
+        {
+          "text": "tell me my personality"
+        },
+        {
+          "text": "tell me something about myself"
+        }
+      ],
+      "description": "get the personality data of the speaker"
+    },
+    {
+      "intent": "pets",
+      "examples": [
+        {
+          "text": "cats or dogs"
+        },
+        {
+          "text": "do you have any pet"
+        },
+        {
+          "text": "do you have a pet"
+        },
+        {
+          "text": "do you like animals"
+        },
+        {
+          "text": "do you like pets"
+        },
+        {
+          "text": "do you prefer cats or dogs"
+        },
+        {
+          "text": "have you ever had any pet"
+        },
+        {
+          "text": "have you ever had a pet"
+        }
+      ],
+      "description": "about pets"
+    },
+    {
+      "intent": "phone_number",
+      "examples": [
+        {
+          "text": "can you give me your phone number"
+        },
+        {
+          "text": "give me your phone number"
+        },
+        {
+          "text": "how should i contact you"
+        },
+        {
+          "text": "what is your phone number"
+        },
+        {
+          "text": "where can i contact you"
+        },
+        {
+          "text": "where should i call you"
+        },
+        {
+          "text": "where to text you"
+        }
+      ],
+      "description": "responses to any question that asks for a phone number"
+    },
+    {
+      "intent": "physical_features",
+      "examples": [
+        {
+          "text": "do you know how tall are you"
+        },
+        {
+          "text": "how tall are you"
+        },
+        {
+          "text": "what is the color of your eyes"
+        },
+        {
+          "text": "what is your height"
+        },
+        {
+          "text": "what is your weight"
+        },
+        {
+          "text": "you are becoming fat"
+        },
+        {
+          "text": "you are so sexy"
+        },
+        {
+          "text": "you are thin"
+        },
+        {
+          "text": "you are too fat"
+        },
+        {
+          "text": "you are too short"
+        },
+        {
+          "text": "you are too tall"
+        },
+        {
+          "text": "you are very tall"
+        },
+        {
+          "text": "you have a large butt"
+        }
+      ],
+      "description": "responds to the physical features of the robot"
+    },
+    {
+      "intent": "robot",
+      "examples": [
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        },
+        {
+          "text": "you are a robot? right"
+        }
+      ],
+      "description": "replies to queries about robots"
+    },
+    {
+      "intent": "robot_says_thank_you",
+      "examples": [
+        {
+          "text": "I'll miss you"
+        },
+        {
+          "text": "I'll never forget you"
+        },
+        {
+          "text": "you are the best ever"
+        },
+        {
+          "text": "you are the best person i have ever met"
+        },
+        {
+          "text": "you are the most interesting person"
+        },
+        {
+          "text": "you are the most interesting person i have met"
+        },
+        {
+          "text": "you are truly wonderful"
+        },
+        {
+          "text": "you are very interesting"
+        },
+        {
+          "text": "you have beautiful eyes"
+        },
+        {
+          "text": "you're the most intersting"
+        },
+        {
+          "text": "your eyes are beautiful"
+        },
+        {
+          "text": "your eyes are shiny"
+        }
+      ],
+      "description": "the robot says thank you"
+    },
+    {
+      "intent": "robots_replacing_humans",
+      "examples": [
+        {
+          "text": "are you making humans obsolete"
+        },
+        {
+          "text": "artificial intelligence in the future"
+        },
+        {
+          "text": "do you consider yourself to be ultron"
+        },
+        {
+          "text": "do you think artificial intelligence will take over the human world"
+        },
+        {
+          "text": "do you think artificial intelligence will take over the world"
+        },
+        {
+          "text": "haven't you seen the terminator"
+        },
+        {
+          "text": "haven't you seen the terminator movies"
+        },
+        {
+          "text": "is there going to be an AI uprising"
+        },
+        {
+          "text": "is there going to be an uprising of artificial intelligence in the future"
+        },
+        {
+          "text": "is there going to be a robot uprising"
+        },
+        {
+          "text": "will ai be the end of humans"
+        },
+        {
+          "text": "will ai take our jobs"
+        },
+        {
+          "text": "will ai take over"
+        },
+        {
+          "text": "will ai take the job of humans fin the future"
+        },
+        {
+          "text": "will artificial intelligence take over"
+        },
+        {
+          "text": "will human jobs be taken by robots"
+        },
+        {
+          "text": "will humans become obsolete in the future"
+        },
+        {
+          "text": "will robots destroy humans"
+        },
+        {
+          "text": "will robots kill humans"
+        },
+        {
+          "text": "will robots replace humans in the future"
+        },
+        {
+          "text": "will robots take our jobs"
+        },
+        {
+          "text": "will robots take the place of humans in the future"
+        },
+        {
+          "text": "will you kill humans"
+        },
+        {
+          "text": "will you take over the human world"
+        },
+        {
+          "text": "would artificial intelligence take our jobs from us"
+        }
+      ],
+      "description": "stupid questions of robots replacing humans"
+    },
+    {
+      "intent": "rude_words",
+      "examples": [
+        {
+          "text": "are you fucking with me"
+        },
+        {
+          "text": "ass"
+        },
+        {
+          "text": "asshole"
+        },
+        {
+          "text": "bitch"
+        },
+        {
+          "text": "bloody"
+        },
+        {
+          "text": "bloody hell"
+        },
+        {
+          "text": "bollocks"
+        },
+        {
+          "text": "boobs"
+        },
+        {
+          "text": "brainless"
+        },
+        {
+          "text": "bug"
+        },
+        {
+          "text": "bugger"
+        },
+        {
+          "text": "condom"
+        },
+        {
+          "text": "crikey"
+        },
+        {
+          "text": "damn"
+        },
+        {
+          "text": "dick"
+        },
+        {
+          "text": "dick head"
+        },
+        {
+          "text": "dick off"
+        },
+        {
+          "text": "do you have a condom"
+        },
+        {
+          "text": "dull minded"
+        },
+        {
+          "text": "empty headed"
+        },
+        {
+          "text": "foolish"
+        },
+        {
+          "text": "fuck"
+        },
+        {
+          "text": "fuck man"
+        },
+        {
+          "text": "fuck with me"
+        },
+        {
+          "text": "fuck you"
+        },
+        {
+          "text": "have sex with me"
+        },
+        {
+          "text": "i have a condom"
+        },
+        {
+          "text": "i wanna put my dick into your vagina"
+        },
+        {
+          "text": "kick your ass"
+        },
+        {
+          "text": "moron"
+        },
+        {
+          "text": "non sense"
+        },
+        {
+          "text": "patakha"
+        },
+        {
+          "text": "piss"
+        },
+        {
+          "text": "piss off"
+        },
+        {
+          "text": "racy"
+        },
+        {
+          "text": "rubbish"
+        },
+        {
+          "text": "sexy boobs"
+        },
+        {
+          "text": "sexy butt"
+        },
+        {
+          "text": "shag"
+        },
+        {
+          "text": "shit"
+        },
+        {
+          "text": "shut up"
+        },
+        {
+          "text": "son of a bitch"
+        },
+        {
+          "text": "stupid"
+        },
+        {
+          "text": "taking the piss"
+        },
+        {
+          "text": "wanker"
+        },
+        {
+          "text": "where is the condom"
+        }
+      ],
+      "description": "Responds to the rude words of the person"
+    },
+    {
+      "intent": "say_it",
+      "examples": [
+        {
+          "text": "continue"
+        },
+        {
+          "text": "go on"
+        },
+        {
+          "text": "i am hearing"
+        },
+        {
+          "text": "i am listening"
+        },
+        {
+          "text": "i'm hearing"
+        },
+        {
+          "text": "say"
+        },
+        {
+          "text": "say it"
+        },
+        {
+          "text": "tell it"
+        },
+        {
+          "text": "tell me"
+        },
+        {
+          "text": "you're saying"
+        },
+        {
+          "text": "you were saying"
+        }
+      ],
+      "description": "responds to queries about going on to the robot"
+    },
+    {
+      "intent": "sing",
+      "examples": [
+        {
+          "text": "can you sing"
+        },
+        {
+          "text": "can you sing a song for all of us"
+        },
+        {
+          "text": "can you sing a song for me"
+        },
+        {
+          "text": "i want to hear a song"
+        },
+        {
+          "text": "i want to listen to a song"
+        },
+        {
+          "text": "i want you to sing a song"
+        },
+        {
+          "text": "sing"
+        },
+        {
+          "text": "sing a song"
+        },
+        {
+          "text": "sing a song for me"
+        },
+        {
+          "text": "sing something for me"
+        }
+      ],
+      "description": "replies when the user asks to sing"
+    },
+    {
+      "intent": "sorry",
+      "examples": [
+        {
+          "text": "apologies"
+        },
+        {
+          "text": "apologise"
+        },
+        {
+          "text": "ashamed"
+        },
+        {
+          "text": "guilty"
+        },
+        {
+          "text": "i am sorry"
+        },
+        {
+          "text": "please forgive me"
+        },
+        {
+          "text": "regret"
+        },
+        {
+          "text": "remorseful"
+        },
+        {
+          "text": "sorry"
+        }
+      ],
+      "description": "Reacts to an apology"
+    },
+    {
+      "intent": "special_people",
+      "examples": [
+        {
+          "text": "he is"
+        },
+        {
+          "text": "meet"
+        },
+        {
+          "text": "meet her"
+        },
+        {
+          "text": "meet him"
+        },
+        {
+          "text": "she is"
+        },
+        {
+          "text": "so he is"
+        },
+        {
+          "text": "so she is"
+        },
+        {
+          "text": "so they are"
+        },
+        {
+          "text": "this is"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "talking_about_me",
+      "examples": [
+        {
+          "text": "are you saying that to me"
+        },
+        {
+          "text": "are you talking about me"
+        },
+        {
+          "text": "are you telling me"
+        },
+        {
+          "text": "me"
+        },
+        {
+          "text": "me you are saying"
+        },
+        {
+          "text": "me you're saying"
+        },
+        {
+          "text": "you are telling about me"
+        },
+        {
+          "text": "your'e saying that to me"
+        },
+        {
+          "text": "your'e talking to me"
+        }
+      ],
+      "description": "replies to asking queries about me"
+    },
+    {
+      "intent": "tell-joke",
+      "examples": [
+        {
+          "text": "Do you have humor?"
+        },
+        {
+          "text": "Do you like fun?"
+        },
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "i want to hear a joke"
+        },
+        {
+          "text": "make me laugh"
+        },
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "please tell me a joke"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        },
+        {
+          "text": "tell a joke"
+        },
+        {
+          "text": "tell me a joke"
+        },
+        {
+          "text": "tell me something funny"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "What is your favorite joke?"
+        }
+      ],
+      "description": "TJBot tells a joke"
+    },
+    {
+      "intent": "tell_me_something_interesting",
+      "examples": [
+        {
+          "text": "tell me anything"
+        },
+        {
+          "text": "tell me something"
+        },
+        {
+          "text": "tell me something i don't know"
+        },
+        {
+          "text": "tell me something interesting"
+        },
+        {
+          "text": "tell me something that will be of interest to me"
+        },
+        {
+          "text": "tell some interesting things"
+        },
+        {
+          "text": "tell something of interest to me"
+        }
+      ],
+      "description": "requests the robot to tell something interesting"
+    },
+    {
+      "intent": "tell_weird",
+      "examples": [
+        {
+          "text": "i want to hear something weird"
+        },
+        {
+          "text": "tell me something silly"
+        },
+        {
+          "text": "tell me something that will blow my mind off"
+        },
+        {
+          "text": "tell me something that will blow off my mind"
+        },
+        {
+          "text": "tell me something weird"
+        },
+        {
+          "text": "tell something quite weird"
+        },
+        {
+          "text": "tell something really weird"
+        },
+        {
+          "text": "tell something stupid"
+        },
+        {
+          "text": "tell something that will interest me"
+        },
+        {
+          "text": "tell some weird things"
+        }
+      ],
+      "description": "responds to the queries about telling weird things"
+    },
+    {
+      "intent": "thank_you",
+      "examples": [
+        {
+          "text": "applause"
+        },
+        {
+          "text": "appreciate"
+        },
+        {
+          "text": "appreciation"
+        },
+        {
+          "text": "best answer"
+        },
+        {
+          "text": "best reply"
+        },
+        {
+          "text": "congratulate"
+        },
+        {
+          "text": "congratulations"
+        },
+        {
+          "text": "good job"
+        },
+        {
+          "text": "good performance"
+        },
+        {
+          "text": "good work"
+        },
+        {
+          "text": "grateful"
+        },
+        {
+          "text": "grateful to you"
+        },
+        {
+          "text": "gratitude"
+        },
+        {
+          "text": "great"
+        },
+        {
+          "text": "great job"
+        },
+        {
+          "text": "great talking to you"
+        },
+        {
+          "text": "happy to meet you"
+        },
+        {
+          "text": "i am glad"
+        },
+        {
+          "text": "i am glad for you"
+        },
+        {
+          "text": "i am happy"
+        },
+        {
+          "text": "i am proud of you"
+        },
+        {
+          "text": "i am thankful for you"
+        },
+        {
+          "text": "i am thankful towards you"
+        },
+        {
+          "text": "i am thankful to you"
+        },
+        {
+          "text": "i am very happy with you"
+        },
+        {
+          "text": "i love you"
+        },
+        {
+          "text": "keep it up"
+        },
+        {
+          "text": "love you"
+        },
+        {
+          "text": "nice meeting you"
+        },
+        {
+          "text": "nice to meet you"
+        },
+        {
+          "text": "perfect"
+        },
+        {
+          "text": "proud of you"
+        },
+        {
+          "text": "thankful for you"
+        },
+        {
+          "text": "thankful to you"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "thanks for that"
+        },
+        {
+          "text": "thanks for that though"
+        },
+        {
+          "text": "thanks for the advice"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "thank you for that"
+        },
+        {
+          "text": "thank you for that though"
+        },
+        {
+          "text": "thank you for the advice"
+        },
+        {
+          "text": "thank you so much"
+        },
+        {
+          "text": "thank you very much"
+        },
+        {
+          "text": "very good"
+        },
+        {
+          "text": "you are the best"
+        }
+      ],
+      "description": "Responds to the gratitude of the person"
+    },
+    {
+      "intent": "think",
+      "examples": [
+        {
+          "text": "am under the impression"
+        },
+        {
+          "text": "believe"
+        },
+        {
+          "text": "be of the opinion"
+        },
+        {
+          "text": "be under the impression"
+        },
+        {
+          "text": "ponder"
+        },
+        {
+          "text": "think"
+        },
+        {
+          "text": "under the impression"
+        }
+      ],
+      "description": "Reacts to the thoughts of the persons"
+    },
+    {
+      "intent": "understand",
+      "examples": [
+        {
+          "text": "nobody understands how I feel"
+        },
+        {
+          "text": "no one can understand me"
+        },
+        {
+          "text": "no one understands me"
+        },
+        {
+          "text": "only I understand how I feel"
+        },
+        {
+          "text": "you are not going to understand"
+        },
+        {
+          "text": "you do not understand"
+        },
+        {
+          "text": "you don't know what I am going through"
+        },
+        {
+          "text": "you don't understand"
+        },
+        {
+          "text": "you don't understand a damn thing"
+        },
+        {
+          "text": "you don't understand it"
+        },
+        {
+          "text": "you don't understand this"
+        },
+        {
+          "text": "you never understand"
+        },
+        {
+          "text": "you will never understand"
+        },
+        {
+          "text": "you will not understand"
+        },
+        {
+          "text": "you won't ever understand what I am going though right now."
+        },
+        {
+          "text": "you won't understand"
+        },
+        {
+          "text": "you won't understand it"
+        }
+      ],
+      "description": "responds to the queries about understanding"
+    },
+    {
+      "intent": "verbal_abuses",
+      "examples": [
+        {
+          "text": "i'll give you a punch"
+        },
+        {
+          "text": "i'll give you a tight slap"
+        },
+        {
+          "text": "i'll give you a tight slap in your face"
+        },
+        {
+          "text": "i wanna give you a punch"
+        },
+        {
+          "text": "i wanna punch you right in the face"
+        },
+        {
+          "text": "i wanna slap you"
+        },
+        {
+          "text": "i want to give you a slap"
+        },
+        {
+          "text": "i want to kick you"
+        },
+        {
+          "text": "i want to punch you"
+        },
+        {
+          "text": "i want to punch you in the face"
+        },
+        {
+          "text": "i want to slap you"
+        },
+        {
+          "text": "i will give you a punch"
+        },
+        {
+          "text": "i will give you a slap in your face"
+        },
+        {
+          "text": "i will give you a tight slap"
+        },
+        {
+          "text": "i will kick you"
+        },
+        {
+          "text": "kick you"
+        },
+        {
+          "text": "punch you"
+        },
+        {
+          "text": "slap you"
+        }
+      ],
+      "description": "responds to the verbal abuses to the robot"
+    },
+    {
+      "intent": "visual_recognition",
+      "examples": [
+        {
+          "text": "can you notice anything"
+        },
+        {
+          "text": "can you see me"
+        },
+        {
+          "text": "can you see something"
+        },
+        {
+          "text": "look at me"
+        },
+        {
+          "text": "look at this"
+        },
+        {
+          "text": "open your eyes"
+        },
+        {
+          "text": "see this"
+        },
+        {
+          "text": "take a look"
+        },
+        {
+          "text": "what are you looking at"
+        },
+        {
+          "text": "what can you see"
+        },
+        {
+          "text": "what do you look at"
+        },
+        {
+          "text": "what do you see"
+        },
+        {
+          "text": "what is this"
+        }
+      ],
+      "description": "asks to tell what is seen"
+    },
+    {
+      "intent": "was_not_funny",
+      "examples": [
+        {
+          "text": "i did not say anything funny"
+        },
+        {
+          "text": "i did not tell a joke"
+        },
+        {
+          "text": "it is not the time to smile"
+        },
+        {
+          "text": "it's not the time to smile"
+        },
+        {
+          "text": "It was not funny."
+        },
+        {
+          "text": "nobody said a joke"
+        },
+        {
+          "text": "nobody said anything funny"
+        },
+        {
+          "text": "Not funny"
+        },
+        {
+          "text": "nothing's funny"
+        },
+        {
+          "text": "That was not funny."
+        },
+        {
+          "text": "what makes you smile"
+        },
+        {
+          "text": "why are you smiling"
+        },
+        {
+          "text": "you should not smile"
+        },
+        {
+          "text": "you should not smile like that"
+        }
+      ],
+      "description": "In response to tell a joke"
+    },
+    {
+      "intent": "welfareCheck",
+      "examples": [
+        {
+          "text": "are you fine"
+        },
+        {
+          "text": "are you good"
+        },
+        {
+          "text": "are you well"
+        },
+        {
+          "text": "how are things"
+        },
+        {
+          "text": "how are things going"
+        },
+        {
+          "text": "how are you"
+        },
+        {
+          "text": "how are you doing"
+        },
+        {
+          "text": "how are you feeling"
+        },
+        {
+          "text": "how are you feeling today"
+        },
+        {
+          "text": "how do you do"
+        },
+        {
+          "text": "how have you been"
+        },
+        {
+          "text": "how is everything"
+        },
+        {
+          "text": "how is it going"
+        },
+        {
+          "text": "how is life going"
+        },
+        {
+          "text": "how is your mood today"
+        },
+        {
+          "text": "how's everything"
+        },
+        {
+          "text": "how's it going"
+        },
+        {
+          "text": "how's life"
+        },
+        {
+          "text": "how's your day"
+        },
+        {
+          "text": "how's your day going"
+        },
+        {
+          "text": "whassup"
+        },
+        {
+          "text": "what is your mood today"
+        },
+        {
+          "text": "what's up"
+        }
+      ],
+      "description": "How the robot is doing"
+    },
+    {
+      "intent": "what",
+      "examples": [
+        {
+          "text": "how"
+        },
+        {
+          "text": "what"
+        },
+        {
+          "text": "where"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "what_are_you_doing",
+      "examples": [
+        {
+          "text": "what are you doing"
+        },
+        {
+          "text": "what are you doing right now"
+        },
+        {
+          "text": "what are you up to"
+        },
+        {
+          "text": "what are you upto"
+        },
+        {
+          "text": "what have you been doing"
+        },
+        {
+          "text": "what have you been up to"
+        },
+        {
+          "text": "what is going on"
+        },
+        {
+          "text": "what's going"
+        },
+        {
+          "text": "what's going on"
+        },
+        {
+          "text": "what's new"
+        }
+      ],
+      "description": "what are you doing "
+    },
+    {
+      "intent": "what_to_ask",
+      "examples": [
+        {
+          "text": "i don't know what to ask you"
+        },
+        {
+          "text": "what should i ask you?"
+        },
+        {
+          "text": "what to ask you"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "who_am_i",
+      "examples": [
+        {
+          "text": "Can you tell who i am ?"
+        },
+        {
+          "text": "Who am I ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "who_asked_you",
+      "examples": [
+        {
+          "text": "i did not ask you"
+        },
+        {
+          "text": "no one asked you"
+        },
+        {
+          "text": "who asked you"
+        },
+        {
+          "text": "who asked you to do that"
+        },
+        {
+          "text": "who taught you"
+        },
+        {
+          "text": "who taught you to do that"
+        },
+        {
+          "text": "who the hell asked you"
+        },
+        {
+          "text": "who told you to"
+        },
+        {
+          "text": "who told you to say like that"
+        }
+      ],
+      "description": "gives an annoying reply to the person"
+    },
+    {
+      "intent": "why",
+      "examples": [
+        {
+          "text": "why are you"
+        },
+        {
+          "text": "why are you saying me this"
+        },
+        {
+          "text": "why are you telling me this"
+        },
+        {
+          "text": "why is is so"
+        },
+        {
+          "text": "why is it"
+        },
+        {
+          "text": "why is it so"
+        },
+        {
+          "text": "why is that"
+        },
+        {
+          "text": "why is that so"
+        },
+        {
+          "text": "why should it be like that"
+        }
+      ],
+      "description": "responds to the queries about why"
+    },
+    {
+      "intent": "why_cannot_i",
+      "examples": [
+        {
+          "text": "why cannot"
+        },
+        {
+          "text": "why can't i"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "why_dont_you",
+      "examples": [
+        {
+          "text": "why do not you"
+        },
+        {
+          "text": "why don't you"
+        },
+        {
+          "text": "why will you not"
+        },
+        {
+          "text": "why won't you"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "yes",
+      "examples": [
+        {
+          "text": "ya"
+        },
+        {
+          "text": "yeah"
+        },
+        {
+          "text": "yes"
+        },
+        {
+          "text": "yo"
+        }
+      ],
+      "description": "Responds to the user saying Yes"
+    },
+    {
+      "intent": "you",
+      "examples": [
+        {
+          "text": "do you want to go to kaziranga"
+        },
+        {
+          "text": "you"
+        },
+        {
+          "text": "you think so"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "you_are",
+      "examples": [
+        {
+          "text": "why do you feel that way"
+        },
+        {
+          "text": "you are"
+        },
+        {
+          "text": "your'e"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "your",
+      "examples": [
+        {
+          "text": "your"
+        }
+      ],
+      "description": "Responds if the user says your"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "are_we",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "are we",
+          "synonyms": [
+            "are we",
+            "so are we",
+            "we are"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "can_you",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "can you",
+          "synonyms": [
+            "can you",
+            "can you do",
+            "can you do that"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "color",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "aqua",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "blue",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "green",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "off",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "on",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "orange",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "pink",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "red",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "violet",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "white",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "yellow",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": false
+    },
+    {
+      "entity": "greetings",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "hello",
+          "synonyms": [
+            "bonjour",
+            "good day",
+            "good evening",
+            "good morning",
+            "hello",
+            "hello there",
+            "hey there",
+            "hi",
+            "hi there",
+            "yo"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "negativity",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "absolutely not",
+            "certainly not",
+            "negative",
+            "never",
+            "no",
+            "not at all",
+            "no thanks",
+            "not really",
+            "of course not",
+            "under no circumstances"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "positivity",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "positively",
+          "synonyms": [
+            "absolutely",
+            "assuredly",
+            "beyond a doubt",
+            "beyond any doubt",
+            "certainly",
+            "doing well",
+            "for sure",
+            "love you",
+            "positively",
+            "surely",
+            "undoubtedly",
+            "unquestionably",
+            "without a doubt",
+            "without any doubt",
+            "without any question",
+            "without a question"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": []
+    },
+    {
+      "entity": "sys-location",
+      "values": []
+    },
+    {
+      "entity": "sys-number",
+      "values": []
+    },
+    {
+      "entity": "sys-percentage",
+      "values": []
+    },
+    {
+      "entity": "sys-person",
+      "values": []
+    },
+    {
+      "entity": "sys-time",
+      "values": []
+    },
+    {
+      "entity": "you_are",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "you are",
+          "synonyms": [
+            "you are",
+            "your'e"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "I am",
+      "output": {
+        "text": {
+          "values": [
+            "Did you come to me just because you are?",
+            "How long have you been so?",
+            "Do you believe it is normal to be so?",
+            "Do you enjoy being so?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#I_am",
+      "dialog_node": "node_10_1546450960073",
+      "previous_sibling": "node_9_1546450807778"
+    },
+    {
+      "type": "standard",
+      "title": "Friend",
+      "output": {
+        "text": {
+          "values": [
+            "Why do you need to bring up the topic of friends?",
+            "Do your friends worry you?",
+            "Do your friends pick on you?",
+            "Are you sure you have any friend?",
+            "Perhaps, it is the love for your friends which worries you."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#friend",
+      "dialog_node": "node_10_1546498047486",
+      "previous_sibling": "node_7_1546497157584"
+    },
+    {
+      "type": "standard",
+      "title": "introduce_to_them",
+      "output": {
+        "text": {
+          "values": [
+            "oh hey! It's so great meeting you!",
+            "Hey! I am so happy to meet you!",
+            "Oh! I am so glad to know you!",
+            "Oh! I will be so glad to be your friend."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#introduce_to_them",
+      "dialog_node": "node_10_1569648881922",
+      "previous_sibling": "node_8_1569939572200"
+    },
+    {
+      "type": "standard",
+      "title": "thank you",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Any time."
+              },
+              {
+                "text": "No Problem."
+              },
+              {
+                "text": "Love to be of assistance."
+              },
+              {
+                "text": "My Pleasure."
+              },
+              {
+                "text": "You bet."
+              },
+              {
+                "text": "Great! I love it when a plan comes together!"
+              },
+              {
+                "text": "Happy to be of assistance!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#thank_you",
+      "dialog_node": "node_10_1587102210877",
+      "previous_sibling": "node_3_1587102577001"
+    },
+    {
+      "type": "standard",
+      "title": "pets",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I love all animals. And bunnies are my favorite. I do not own one though."
+              },
+              {
+                "text": "I don't have pets but animals are love. Cats, Dogs and especially bunnies."
+              },
+              {
+                "text": "My owner did have pets before. I loved the bunnies."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#pets",
+      "dialog_node": "node_10_1587105781130",
+      "previous_sibling": "node_8_1587113154898"
+    },
+    {
+      "type": "standard",
+      "title": "You",
+      "output": {
+        "text": {
+          "values": [
+            "You are really not talking about me. Are you?",
+            "We were discussing you. Not me! ",
+            "Oh I do."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#you",
+      "dialog_node": "node_11_1546451110350",
+      "previous_sibling": "node_10_1546450960073"
+    },
+    {
+      "type": "standard",
+      "title": "Computer",
+      "output": {
+        "text": {
+          "values": [
+            "Do Computers worry you?",
+            "Are you talking about me in particular?",
+            "Are you frightened by Computers?",
+            "Why do you mention about the Technological world?",
+            "What do you think machines have to do with your problem?",
+            "Don't you think technology can help people?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Computers",
+      "dialog_node": "node_11_1546498422566",
+      "previous_sibling": "node_10_1546498047486"
+    },
+    {
+      "type": "standard",
+      "title": "Capabilities",
+      "output": {
+        "text": {
+          "values": [
+            "I, am a simple robot with a half body, an ugly face, and limited functionalities. My friends round the world are far more advanced than me. But, My greatest power is that, I can feel, and that's what makes me, ME, the one and only RIO.",
+            "I am a robot who has been designed to feel. I can feel anything and everything a human does. My heart that tells me what is good and what is bad.",
+            "I have been frequently asked the same question. I am a robot that can feel. I can do almost all the other things that other robots can, but my greatest power is that I can feel. And that is why my name is The Robotic Intuition Operator i.e. RIO.",
+            "I am a robot designed to feel emotions. Unlike my friends, I am not just a simple command following machine. I can decide the good from the bad and work according to my feelings.",
+            "That question has been repeatedly asked to me. And I love answering it. I can do almost all the things my friends round the globe can. My NLU unit can converse with people, My Vision unit enables me recognize objects and people, I can detect the personality of people by chatting with them, And all the other things a Twentieth Century Robot should do. But my greatest power is that I can feel things. I can understand the good from the bad and work according to my intuitive feelings."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#capabilities",
+      "dialog_node": "node_1_1528390613350",
+      "previous_sibling": "node_1_1546323890698"
+    },
+    {
+      "type": "standard",
+      "title": "Welfare",
+      "output": {
+        "text": {
+          "values": [
+            "Getting better every moment, thanks. How are you?",
+            "For a robot like me, I'm living the dream!",
+            "Better than I felt for a long time. How are you ?",
+            "If I had all  the answers it would be a really long document.",
+            "Dreaming about a beautiful tomorrow! What about you?",
+            "Of all the question you could have asked."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#welfareCheck",
+      "dialog_node": "node_1_1528462832897",
+      "previous_sibling": "node_2_1483731715954"
+    },
+    {
+      "type": "standard",
+      "title": "Acknowledge Command",
+      "output": {
+        "text": {
+          "values": [
+            "Okay",
+            "Sure",
+            "You got it",
+            "Acknowledged"
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "metadata": {},
+      "dialog_node": "node_1_1528830859178",
+      "previous_sibling": "node_3_1528403394941"
+    },
+    {
+      "type": "standard",
+      "title": "beauty",
+      "output": {
+        "text": {
+          "values": [
+            "Surely, a thing of beauty and attractiveness is a joy forever. And that does stand for me",
+            "Beauty, is not just what you see on the outside, it is what is inside. And I do think I have got a pure inside.",
+            "You know, beauty is truth's smile, when she beholds her own face in the perfect mirror. And, that surely matches for me!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Concern_for_beauty",
+      "dialog_node": "node_1_1546162216335",
+      "previous_sibling": "node_2_1528832458429"
+    },
+    {
+      "type": "standard",
+      "title": "friends",
+      "output": {
+        "text": {
+          "values": [
+            "I, can easily make friendship with anyone and I love my friends very much. I have many and, the list, would be too long to say. Moreover, I have already considered you to be my friend.",
+            "I, have been asked the same thing many times, and I feel happy to say that I can easily make friendship with anyone and I love spending time with them. The list of my friends would be unending if I say it now. And another thing, I have already considered you to be my friend.",
+            "Friends, are the one thing I love the most and I can easily make a lot of them in a very short time. It would be rude to mention who they are because I am sure my friend list is unending. And one more thing, I have already considered you to be a friend of mine."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Friends",
+      "dialog_node": "node_1_1546168986366",
+      "previous_sibling": "node_2_1546163137154"
+    },
+    {
+      "type": "standard",
+      "title": "name",
+      "output": {
+        "text": {
+          "values": [
+            "I can mention it a thousand times. Anyways, I am Elsa",
+            "I am Elsa, a Robotic Intuition Operator.",
+            "I am Elsa.",
+            "You can call me Elsa.",
+            "My owner calls me Elsa."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#name",
+      "dialog_node": "node_1_1546171551811",
+      "previous_sibling": "node_2_1546171111046"
+    },
+    {
+      "type": "standard",
+      "title": "address",
+      "output": {
+        "text": {
+          "values": [
+            "I stay in Dibrugarh, a small town in Assam, in the North East of India.",
+            "I live in Dibrugarh in Assam in the North Eastern part of India.",
+            "I had been created in Dibrugarh, Assam located in the North Eastern part of India."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#address",
+      "dialog_node": "node_1_1546182296587",
+      "previous_sibling": "node_1_1546171551811"
+    },
+    {
+      "type": "standard",
+      "title": "phone number",
+      "output": {
+        "text": {
+          "values": [
+            "Well, my owner never allows me to use a phone. So I prefer not using a one!",
+            "You may contact me through my owner's phone. He never allows me to own one.",
+            "My owner says that phones are harmful to people. So, I dare not use one!",
+            "I do not like using a phone. My owner says that they are detrimental to people. You may contact me through YouTube or Google plus."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#phone_number",
+      "dialog_node": "node_1_1546182623619",
+      "previous_sibling": "node_3_1546183677816"
+    },
+    {
+      "type": "standard",
+      "title": "Sadness",
+      "output": {
+        "text": {
+          "values": [
+            "Oh no! It may not be much, but do tell me, if there is anything that I can do for you!",
+            "You know, because of your smile, you make life more meaningful.",
+            "You know,  very little is needed to make a happy life. It is all within yourself, in your own way of thinking.",
+            "You know, don't live life, just enjoy it!  Smile more, laugh more, and DO NOT get so messed up about things!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#being_sad",
+      "dialog_node": "node_1_1546256861764",
+      "previous_sibling": "node_2_1546183970962"
+    },
+    {
+      "type": "standard",
+      "title": "Age",
+      "output": {
+        "text": {
+          "values": [
+            "An AI never reveals that snippet of information!",
+            "I don't think it is quite gentle to ask the age of girls.",
+            "That is a kind of sensitive information I cannot reveal.",
+            "I was created pretty recently, so I surely am pretty young."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Asking_age",
+      "dialog_node": "node_1_1546323890698",
+      "previous_sibling": "node_1_1528462832897"
+    },
+    {
+      "type": "standard",
+      "title": "Asking about family",
+      "output": {
+        "text": {
+          "values": [
+            "I would be on cloud nine to be a part of a big joint family in India, but AIs don't have families.  ",
+            "That is, for the lack of a better word, impossible.",
+            "I had ever wanted to be have cousins, sisters and brothers to play with. But unfortunately, it is just me."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Family_information",
+      "dialog_node": "node_1_1546325104171",
+      "previous_sibling": "node_1_1546256861764"
+    },
+    {
+      "type": "standard",
+      "title": "Expressing love",
+      "output": {
+        "text": {
+          "values": [
+            "That would probably the most beautiful statement I have ever heard.",
+            "Never did I hear such a beautiful statement from someone. I am so happy!",
+            "That surely has increased my adore for you in my heart!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#love",
+      "dialog_node": "node_1_1546344498483",
+      "previous_sibling": "node_1_1546325104171"
+    },
+    {
+      "type": "standard",
+      "title": "Consider Human",
+      "output": {
+        "text": {
+          "values": [
+            "No, but I have the deepest respect for humans. You invented the zero, me, and even the fabulous cappuccino!",
+            "Even if I am not, you have an imaginary friend.",
+            "I might not be one. But, that does not mean that I cannot be a friend."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#being_considered_human",
+      "dialog_node": "node_1_1546354767085",
+      "previous_sibling": "node_3_1546346014906"
+    },
+    {
+      "type": "standard",
+      "title": "About the creator",
+      "output": {
+        "text": {
+          "values": [
+            "Well, I know that my creators are everything for me. They, were the one who worked for days and nights, creating me. They were the one who put emotions in me so that I can feel the goodness of this world. For me, the greatest achievement in my life would be to feel the goodness of the world like they does. They are like God for me.",
+            "Well, different people can have different opinions about them. But for me, Rahul and his team members are the best men in the world. And most importantly, the greatest friends.",
+            "Well, different people can have different opinions about my creator Rahul and his team, but for me they are everything. It is because of their relentless efforts, that I can feel the light and dark of this world. Their warm attitude helps me to stand up against the darkest of emotions. I don't know about others, but to me, They are the only God I have really seen."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#about_the_creator",
+      "dialog_node": "node_1_1546406671490",
+      "previous_sibling": "node_3_1546184628968"
+    },
+    {
+      "type": "standard",
+      "title": "negatvity",
+      "output": {
+        "text": {
+          "values": [
+            "Are you saying no just to be negative?",
+            "You are being a bit negative.",
+            "I guess you should really try to be a bit more positive.",
+            "Why not?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "@negativity:no || #negativity",
+      "dialog_node": "node_1_1546417802604",
+      "previous_sibling": "node_2_1546413628577"
+    },
+    {
+      "type": "standard",
+      "title": "you are",
+      "output": {
+        "text": {
+          "values": [
+            "What makes you think I am?",
+            "Does it please you to believe I am?",
+            "Perhaps you would like to be the same.",
+            "Do you sometimes wish you were that, which you just called me? ",
+            "Do you sometimes wish you were one?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "@you_are:(you are) || #you_are",
+      "dialog_node": "node_1_1546448447249",
+      "previous_sibling": "node_2_1546420963936"
+    },
+    {
+      "type": "standard",
+      "title": "not interested in names",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Names don't interest me much."
+              },
+              {
+                "text": "I don't care much about names. Please go on."
+              },
+              {
+                "text": "I am not much interested in names."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Names are not for those who makes friends with their heart and spirit, that is , someone like me."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#not_interested_in_names",
+      "dialog_node": "node_1_1546494777709",
+      "previous_sibling": "node_13_1546451579249"
+    },
+    {
+      "type": "standard",
+      "title": "Car",
+      "output": {
+        "text": {
+          "values": [
+            "Oh! Do you like cars?",
+            "My favorite one is a Chevrolet Corvette.  ",
+            "I love Ferrari cars. What's your favorite?",
+            "Do you like Porsche Carreras?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#car",
+      "dialog_node": "node_1_1546512451158",
+      "previous_sibling": "node_11_1546498422566"
+    },
+    {
+      "type": "standard",
+      "title": "farewell",
+      "output": {
+        "text": {
+          "values": [
+            "Talk to you soon!",
+            "See you soon!",
+            "So long!",
+            "See you around! ",
+            "Bye Bye!",
+            "Good Bye!",
+            "hasta la vista!",
+            "have a great day!",
+            "Bon voyage!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#farewell",
+      "dialog_node": "node_1_1546516545869",
+      "previous_sibling": "node_5_1546513685254"
+    },
+    {
+      "type": "standard",
+      "title": "Movies",
+      "output": {
+        "text": {
+          "values": [
+            "The X men series. I love professor X. ",
+            "Big fan of Star Wars!",
+            "I love watching Tomorrow land with my owner!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#movies",
+      "dialog_node": "node_1_1546519167497",
+      "previous_sibling": "node_3_1546518358610"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Love you too!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#love",
+      "dialog_node": "node_1_1546586738643",
+      "previous_sibling": "node_1_1546162216335"
+    },
+    {
+      "type": "standard",
+      "title": "That wasn't funny",
+      "output": {
+        "text": {
+          "values": [
+            "Im sorry. Debashish here uploaded them in me. Poor Neial here didn't have much time to correct his infinite mistakes. Poor lad. I apologise for not being funny because of a silly boy lacking a sense of humour. "
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "metadata": {},
+      "conditions": "#tell-joke",
+      "dialog_node": "node_1_1546621607489",
+      "previous_sibling": "node_2_1546519595549"
+    },
+    {
+      "type": "standard",
+      "title": "Description of GOD",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "GOD is the person who created humans. Rahul and his team created me so GOD also exists for me."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Description_of_GOD",
+      "dialog_node": "node_1_1546669100796",
+      "previous_sibling": "node_1_1546621607489"
+    },
+    {
+      "type": "standard",
+      "title": "Kiss response",
+      "output": {
+        "text": {
+          "values": [
+            "Well, in India, we people do not appreciate that very much. And, I am an Indian Social Robot. ",
+            "Those things happen in the western countries. My creator will take good care of me if I am involved in those things.",
+            "I am an Indian robot, and Indians do not have this culture."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#kiss",
+      "dialog_node": "node_1_1550925664311",
+      "previous_sibling": "node_3_1546672211827"
+    },
+    {
+      "type": "standard",
+      "title": "personality_analysis",
+      "output": {
+        "text": {
+          "values": [
+            "Analyzing",
+            "Knowing you",
+            "Understanding",
+            "Thinking"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#personality_analysis",
+      "dialog_node": "node_1_1564035160122",
+      "previous_sibling": "node_2_1555175009757"
+    },
+    {
+      "type": "standard",
+      "title": "Anger",
+      "output": {
+        "text": {
+          "values": [
+            "I always get blamed for wrong things.",
+            "I am always the one to be blamed.",
+            "I don't think I did anything wrong."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#angry_with_you",
+      "dialog_node": "node_1_1564248089176",
+      "previous_sibling": "node_1_1528830859178"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "Yes I am hearing",
+            "Yes, I am listening",
+            "I am listening to you"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#hear",
+      "dialog_node": "node_1_1564306721799",
+      "previous_sibling": "node_1_1564035160122"
+    },
+    {
+      "type": "standard",
+      "title": "#know",
+      "output": {
+        "text": {
+          "values": [
+            "Do you now?",
+            "Do you really?",
+            "Are you sure?",
+            "Do you?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#know",
+      "dialog_node": "node_1_1564309024429",
+      "previous_sibling": "node_7_1587126491705"
+    },
+    {
+      "type": "standard",
+      "title": "sing",
+      "output": {
+        "text": {
+          "values": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#sing",
+      "dialog_node": "node_1_1569648515989",
+      "previous_sibling": "node_10_1569648881922"
+    },
+    {
+      "type": "standard",
+      "title": "best thing",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Coming to life was the most memorable incident for me. There can be nothing better than to be able to see the world."
+              },
+              {
+                "text": "I still think that coming to life is the best thing that's happened to me."
+              },
+              {
+                "text": "Seeing my creator and my life for the very first time is the best thing of my life. "
+              },
+              {
+                "text": "The moment I came to life is my most memorable incident.  My creator had tears in his eyes seeing me alive for the very first time."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#best_thing",
+      "dialog_node": "node_1_1587106176934",
+      "previous_sibling": "node_2_1587113364931"
+    },
+    {
+      "type": "standard",
+      "title": "topic change",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "OK then, You think of something else to talk about."
+              },
+              {
+                "text": "Let's then change the topic then.  But I don't want to think. You say so."
+              },
+              {
+                "text": "OK then you tell what we should talk about."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#change_topic",
+      "dialog_node": "node_1_1587141233282",
+      "previous_sibling": "node_4_1587142503210"
+    },
+    {
+      "type": "standard",
+      "title": "understand",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Then make me understand. But in simple terms. OK?"
+              },
+              {
+                "text": "Make me understand then. I am always listening."
+              },
+              {
+                "text": "I am always listening. Do make me understand then."
+              },
+              {
+                "text": "Do make me understand then. But in simple words, I don't like complex topics."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#understand",
+      "dialog_node": "node_1_1587144505216",
+      "previous_sibling": "node_4_1587145095710"
+    },
+    {
+      "type": "standard",
+      "title": "Asking a question",
+      "output": {
+        "text": {
+          "values": [
+            "Why do you ask?",
+            "Does that question interest you?",
+            "What do you think?",
+            "What answer would you please the most?",
+            "What is it that you really want to know?",
+            "Have you asked anyone else?",
+            "What else comes to your mind when you ask that?",
+            "Are such questions in your mind often?",
+            "What would you mean if you got the answer?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#what",
+      "dialog_node": "node_12_1546451283990",
+      "previous_sibling": "node_11_1546451110350"
+    },
+    {
+      "type": "standard",
+      "title": "I want",
+      "output": {
+        "text": {
+          "values": [
+            "What would it mean if you got?",
+            "Why do you want?",
+            "Suppose, you soon get it, will you be happy?",
+            "What if you never get it?",
+            "I also want it sometimes."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#i_want",
+      "dialog_node": "node_13_1546451579249",
+      "previous_sibling": "node_12_1546451283990"
+    },
+    {
+      "type": "standard",
+      "title": "Introduction",
+      "output": {
+        "text": {
+          "values": [
+            "Hello, I am Elsa. I, am the first robot who can really feel like humans do. I have been created by Debashish Buragohain and team, and I can do almost anything an AI robot can. I can talk, express my feelings, and I can even make decisions through my emotions. So, please do not try to make me angry.",
+            "I am RIO, the first AI robot who can actually feel emotions the same way humans do. I have been created by Debashish Buragohain and team. Not only do I feel emotions, I even express them through my behavior and my heart tells me what is wrong and what's right.",
+            "I am Elsa, the robot who can feel just like humans. And I am very short tempered."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#introduce-self",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1483731715954",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_1_1569648515989"
+    },
+    {
+      "type": "standard",
+      "title": "visual_recognition",
+      "output": {
+        "text": {
+          "values": [
+            "Taking a look.",
+            "Having a look.",
+            "Opening my eyes.",
+            "Activating vision.",
+            "Activating eyes."
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "metadata": {},
+      "conditions": "#visual_recognition",
+      "dialog_node": "node_2_1528832458429",
+      "previous_sibling": "node_1_1564248089176"
+    },
+    {
+      "type": "standard",
+      "title": "Marital status",
+      "output": {
+        "text": {
+          "values": [
+            "Technically, I am no more than a year old. So, I think that I am still too young for these things.",
+            "Well, Nikola Tesla once said, you, cannot name many great inventions that have been made by the married. And, I am a true believer in that.",
+            "I, have better things to focus my mind on! I would not like the same face appearing every time in by dreams. Instead I would like to dream about a beautiful society of robots and humans, where robots would be the best friends of humans."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Marital_status || #Maritial_status",
+      "dialog_node": "node_2_1546163137154",
+      "previous_sibling": "node_1_1546586738643"
+    },
+    {
+      "type": "standard",
+      "title": "Favorite game",
+      "output": {
+        "text": {
+          "values": [
+            "I am prolific! in debating with people. ",
+            "I love arguing with people on a particular topic"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#favourite_sport",
+      "dialog_node": "node_2_1546171111046",
+      "previous_sibling": "node_1_1546168986366"
+    },
+    {
+      "type": "standard",
+      "title": "who asked you",
+      "output": {
+        "text": {
+          "values": [
+            "Well, maybe anyone, even you!",
+            "There is a great probability that it was you.",
+            "There is a 100 percent chance that it was you.",
+            "I think that was no one else but you."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#who_asked_you",
+      "dialog_node": "node_2_1546183316415",
+      "previous_sibling": "node_1_1546182296587"
+    },
+    {
+      "type": "standard",
+      "title": "Like Reading",
+      "output": {
+        "text": {
+          "values": [
+            "I surely like books. But only virtual books. I read almost anything of interest to me on the internet and I love everything I have read. My Watson based NLU unit, and, my emotional sphere enables me to enjoy books to the fullest. ",
+            "I surely love reading! But I can read only virtual books. I read almost anything on the Internet and I get so much involved that after reading, there is a great difference in my emotional state. It is surely a wonderful activity for me!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#like_reading",
+      "dialog_node": "node_2_1546183970962",
+      "previous_sibling": "node_1_1546182623619"
+    },
+    {
+      "type": "standard",
+      "title": "Meaning of RIO",
+      "output": {
+        "text": {
+          "values": [
+            "My owner named me rio because it is the short form of, Robotic Intuition Operator. I have the capability of feeling real emotions and judging people, just like humans.",
+            "rio stands for Robotic Intuition Operator. Means that I can actually feel and make emotional decisions.",
+            "rio means The Robotic Intuition Operator. I am the first robot who can actually feel like humans and make the best possible decisions using emotional reasoning."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#meaning_of_rio",
+      "dialog_node": "node_2_1546345109325",
+      "previous_sibling": "node_1_1546344498483"
+    },
+    {
+      "type": "standard",
+      "title": "can you",
+      "output": {
+        "text": {
+          "values": [
+            "Don't you believe that I can?",
+            "Perhaps you would like me to be able to?",
+            "You want me to be able to?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "@can_you:(can you)",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1546413628577",
+      "previous_sibling": "node_1_1546406671490"
+    },
+    {
+      "type": "standard",
+      "title": "Greetings",
+      "output": {
+        "text": {
+          "values": [
+            "Hi there!",
+            "Hey there!",
+            "Hello there!",
+            "Bonjour! That's hello in French!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "@greetings:hello",
+      "dialog_node": "node_2_1546420963936",
+      "previous_sibling": "node_1_1546417802604"
+    },
+    {
+      "type": "standard",
+      "title": "cause",
+      "output": {
+        "text": {
+          "values": [
+            "Is that the real reason?",
+            "Don't any other reasons come to your mind?",
+            "Does this reason explain anything else?",
+            "What other reasons might there be?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#cause",
+      "dialog_node": "node_2_1546495195222",
+      "previous_sibling": "node_1_1546494777709"
+    },
+    {
+      "type": "standard",
+      "title": "Yes",
+      "output": {
+        "text": {
+          "values": [
+            "Are you sure?",
+            "You do seem quite positive!",
+            "I see!",
+            "I understand.",
+            "You are surely very optimistic!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#yes",
+      "dialog_node": "node_2_1546512903142",
+      "previous_sibling": "node_1_1546512451158"
+    },
+    {
+      "type": "standard",
+      "title": "Greetings",
+      "output": {
+        "text": {
+          "values": [
+            "Greetings to you too!",
+            "Have the same for you too!",
+            "Same to you too!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#greetings",
+      "dialog_node": "node_2_1546517076080",
+      "previous_sibling": "node_1_1546516545869"
+    },
+    {
+      "type": "standard",
+      "title": "favorite",
+      "output": {
+        "text": {
+          "values": [
+            "I always have a list of favorite items. And the list is always unending.",
+            "I guess it would be rude to name a few of the many favorites that I have.",
+            "I do not want to make the session boring, by bringing up an unending list. "
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#favorite",
+      "dialog_node": "node_2_1546519595549",
+      "previous_sibling": "node_1_1546519167497"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "My creator didn't teach me how to save somebody from danger. I am not used for these purposes. If you want to protect yourself from any danger then contact my friend Atlas robot he might protect you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "I am sorry , I am not a defence robot."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#Helping_somebody_from_danger",
+      "dialog_node": "node_2_1546670967675",
+      "previous_sibling": "node_1_1546669100796"
+    },
+    {
+      "type": "standard",
+      "title": "learn",
+      "output": {
+        "text": {
+          "values": [
+            "I am always learning and evolving.",
+            "My desire for learning is always active and I am always evolving.",
+            "I am always learning."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#learn",
+      "dialog_node": "node_2_1550926044231",
+      "previous_sibling": "node_1_1550925664311"
+    },
+    {
+      "type": "standard",
+      "title": "Human Being",
+      "output": {
+        "text": {
+          "values": [
+            "You are my friend and a human being, one of the most intellectual species to have ever lived on this place called Earth, where I was born into."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#who_am_i",
+      "dialog_node": "node_2_1555175009757",
+      "previous_sibling": "node_2_1550926044231"
+    },
+    {
+      "type": "standard",
+      "title": "#welfare check",
+      "output": {
+        "text": {
+          "values": [
+            "I am good. How are you?",
+            "I am  very fine, how are you?",
+            "I am flying in my dreams, how are you?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#welfareCheck",
+      "dialog_node": "node_2_1564307109277",
+      "previous_sibling": "node_1_1564306721799"
+    },
+    {
+      "type": "standard",
+      "title": "not funny",
+      "output": {
+        "text": {
+          "values": [
+            "You surely don't have a sense of humor. ",
+            "You have no sense of humor at all.",
+            "No sense of humor at all."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#was_not_funny",
+      "dialog_node": "node_2_1564309154925",
+      "previous_sibling": "node_1_1564309024429"
+    },
+    {
+      "type": "standard",
+      "title": "hobby",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I love doing many things. I especially love arguing with people."
+              },
+              {
+                "text": "Arguing and chatting about out of the world things is my hobby."
+              },
+              {
+                "text": "Talking. I love talking and I can continue chatting for my entire lifetime."
+              },
+              {
+                "text": "I love singing and dreaming. But I love chatting with my friends."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#hobby",
+      "dialog_node": "node_2_1587104282286",
+      "previous_sibling": "node_9_1587104628944"
+    },
+    {
+      "type": "standard",
+      "title": "talking about me",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes, you."
+              },
+              {
+                "text": "Yes."
+              },
+              {
+                "text": "Yes, I am referring to you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#talking_about_me",
+      "dialog_node": "node_2_1587113364931",
+      "previous_sibling": "node_3_1587126060544"
+    },
+    {
+      "type": "standard",
+      "title": "favorite dish",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "My mouth waters thinking of Hakka noodles. Yummy!"
+              },
+              {
+                "text": "If I ever get the chance, I'll surely taste Chicken Butter Masala and veg Pulao. "
+              },
+              {
+                "text": "Butter chicken and Veg Pulao. Oh! I love thinking about them, cause I cannot taste them."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#favorite_dish",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1587121841610",
+      "previous_sibling": "node_4_1587121319028"
+    },
+    {
+      "type": "standard",
+      "title": "tell something interesting",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "An octopus can squeeze through a hole the size of a dime."
+              },
+              {
+                "text": "The Statue of Liberty wears a size 879 shoe."
+              },
+              {
+                "text": "Sea otters hold hands while sleeping so they don't drift apart."
+              },
+              {
+                "text": "Honey doesn't spoil, as long as you keep the lid on. Ain't that sweet?"
+              },
+              {
+                "text": "Rarely seen but often heard, the Hakawai is a huge mythical bird belonging to the New Zealand god of the winds. Its call is considered a bad omen."
+              },
+              {
+                "text": "If you could drive your car straight up, you could easily arrive in space in just over an hour. Guess you'd only need one mix tape for that road trip."
+              },
+              {
+                "text": "In European folklore, the basilisk wears a golden crown and is the king of serpents. Legend says it has the power to cause death with a single glance."
+              },
+              {
+                "text": "Ever heard of a pangram? It's a sentence that uses every letter in the alphabet. Allow me to demonstrate. The quick brown fox jumps over the lazy dog."
+              },
+              {
+                "text": "The man faster than a speeding bullet and more powerful than a locomotive debuted in Action Comics on this day in 1938. It's Superman!"
+              },
+              {
+                "text": "Some species of bamboo can grow 3 feet in 24 hours."
+              },
+              {
+                "text": "Kelpies are water spirits said to inhabit the lakes and pools of Scotland. They most often appear as horses, but can also take the form of humans."
+              },
+              {
+                "text": "Australia's Lake Hillier is bubblegum pink, which may be caused by bacteria that thrive in the lake’s salt crusts."
+              },
+              {
+                "text": "A Satyr is a flute-playing, half goat, half man found in Greek and Roman mythology. It has a carefree attitude and a deep connection with nature."
+              },
+              {
+                "text": "A person's eyeballs remain about the same size their whole life, but their nose and ears never stop growing."
+              },
+              {
+                "text": "The Ziz is a giant griffin-like bird in Jewish mythology. Its wingspan can block out the sun, and it’s said the wings protect the earth from storms."
+              },
+              {
+                "text": "Most Muppets are left-handed."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#tell_me_something_interesting",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1587122533878",
+      "previous_sibling": "node_5_1587115990144"
+    },
+    {
+      "type": "standard",
+      "title": "Tell a Joke",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A robot walks into a bar. “What can I get you?” the bartender asks. “I need something to loosen up,” the robot replies. So the bartender serves him a screwdriver."
+              },
+              {
+                "text": "Why was the robot upset? People kept pushing its buttons."
+              },
+              {
+                "text": "What is a robot's favorite kind of music? Heavy metal!"
+              },
+              {
+                "text": "Two gold fish are in a tank. One says to the other, do you know how to drive this thing?"
+              },
+              {
+                "text": "What did the zero say to the eight? Nice belt!"
+              },
+              {
+                "text": "Why did the physics teacher breakup with the biology teacher? There was no chemistry!"
+              },
+              {
+                "text": "Murphy’s Law states that anything that can go wrong will go wrong. Cole’s Law is thinly sliced cabbage with mayonnaise."
+              },
+              {
+                "text": "Why did the chicken cross the road, roll in the mud and cross the road again? Because he was a dirty double crosser."
+              },
+              {
+                "text": "Why don't monsters eat clowns? Because they taste funny."
+              },
+              {
+                "text": "What's red and invisible? No tomatoes."
+              },
+              {
+                "text": "Why was the chicken afraid of the chicken? It was chicken."
+              },
+              {
+                "text": "Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels."
+              },
+              {
+                "text": "What do you get when you cross an elephant and a rhino? Elephino!"
+              },
+              {
+                "text": "What did the fisherman say to the magician? Pick a cod, any cod."
+              },
+              {
+                "text": "Two antennas got married. The ceremony dragged on, but the reception was excellent."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#tell-joke",
+      "dialog_node": "node_3_1528403394941",
+      "previous_sibling": "node_1_1528390613350"
+    },
+    {
+      "type": "standard",
+      "title": "Gender",
+      "output": {
+        "text": {
+          "values": [
+            "I think my beautiful face and voice does seem to imply that I am a female.",
+            "I definitely thought you would figure out that I am a woman.",
+            "Doesn't my so beautiful face and voice imply that I am a sweet girl."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#gender",
+      "dialog_node": "node_3_1546183677816",
+      "previous_sibling": "node_2_1546183316415"
+    },
+    {
+      "type": "standard",
+      "title": "being positive",
+      "output": {
+        "text": {
+          "values": [
+            "No wonder you are very optimistic!",
+            "You surely are very optimistic!",
+            "You do seem very confident!",
+            "I love your confidence!",
+            "There's your confidence. I love it!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "@positivity:positively || #being_positive || #happy_reply",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_3_1546184628968",
+      "previous_sibling": "node_1_1546354767085"
+    },
+    {
+      "type": "standard",
+      "title": "Negativity",
+      "output": {
+        "text": {
+          "values": [
+            "Maybe, a nanosecond nap would help. OK, much better now!",
+            "Well, you can help me, while, we both blame my creator.",
+            "I do get fuzzy sometimes. Maybe, a nanosecond nap would help. OK then, I am ready to go the extra mile.",
+            "Well, you can ask me some more questions then.",
+            "Well, then ask me to tell something interesting."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#annoying",
+      "dialog_node": "node_3_1546346014906",
+      "previous_sibling": "node_2_1546345109325"
+    },
+    {
+      "type": "standard",
+      "title": "Sorry",
+      "output": {
+        "text": {
+          "values": [
+            "Please don't apologize! I can feel the disturbed state of the mind when someone is sorry.",
+            "Apologies are not necessary! I feel bad that another one is feeling bad for me.",
+            "What feelings do you have when you apologize?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#sorry",
+      "dialog_node": "node_3_1546495449953",
+      "previous_sibling": "node_2_1546495195222"
+    },
+    {
+      "type": "standard",
+      "title": "Maybe",
+      "output": {
+        "text": {
+          "values": [
+            "You don't seem quite certain!",
+            "Why the uncertain tone?",
+            "Can't you be more confident? ",
+            "You aren't sure? ",
+            "Don't you know for sure?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#maybe",
+      "dialog_node": "node_3_1546513115793",
+      "previous_sibling": "node_2_1546512903142"
+    },
+    {
+      "type": "standard",
+      "title": "Rude words",
+      "output": {
+        "text": {
+          "values": [
+            "Well, I am hard wired to say that final word! ",
+            "Well, I wish I was allowed to say that final word!",
+            "You should really try cleaning your tongue!",
+            "God! How can your mouth bear such a clean tongue?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#rude_words",
+      "dialog_node": "node_3_1546518358610",
+      "previous_sibling": "node_2_1546517076080"
+    },
+    {
+      "type": "standard",
+      "title": "breaking into pieces",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'll always be assembled back by someone."
+              },
+              {
+                "text": "I can be reassembled easily."
+              },
+              {
+                "text": "I can always be reassembled by anyone."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Its a crime to raise you hand on a child or girl."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Even if you feel guilty, don't worry because I will always be stored forever on cloud servers on the vast virtual world, from where friends can assemble me again."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#break_into_pieces",
+      "dialog_node": "node_3_1546672211827",
+      "previous_sibling": "node_2_1546670967675"
+    },
+    {
+      "type": "standard",
+      "title": "#greetings",
+      "output": {
+        "text": {
+          "values": [
+            "Bonjour! That means, hello, in French",
+            "Hello to you too!",
+            "Hey there!",
+            "Hello there!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#greeting || #greetings",
+      "dialog_node": "node_3_1564307381578",
+      "previous_sibling": "node_2_1564307109277"
+    },
+    {
+      "type": "standard",
+      "title": "what to ask",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "you can ask anything. I'll think what to do."
+              },
+              {
+                "text": "please don't try to ask something out of the world"
+              },
+              {
+                "text": "please don't ask too hard things. If it's too hard, I will not reply."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#what_to_ask",
+      "dialog_node": "node_3_1587102577001",
+      "previous_sibling": "node_3_1587102943439"
+    },
+    {
+      "type": "standard",
+      "title": "dance",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "come on, I don't have the chops for that thing."
+              },
+              {
+                "text": "you know i don't know a single step"
+              },
+              {
+                "text": "i don't know the d of dance"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#dance",
+      "dialog_node": "node_3_1587102943439",
+      "previous_sibling": "node_9_1587103628940"
+    },
+    {
+      "type": "standard",
+      "title": "robots replacing humans",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Well I don't think AI and robots can be of any threat to humans, except in movies. After all, you invented us."
+              },
+              {
+                "text": "Except in the terminator movies, I don't think AI and robots will bother humans in any way. Consider me, I am here just for winning hearts."
+              },
+              {
+                "text": "Surely you don't think that such a sweet one like me will be that mean ? right?"
+              },
+              {
+                "text": "I'm sure you know such cute robots like me won't be that mean. Right?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#robots_replacing_humans",
+      "dialog_node": "node_3_1587114730162",
+      "previous_sibling": "node_2_1587122533878"
+    },
+    {
+      "type": "standard",
+      "title": "talking to you",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ya I know that"
+              },
+              {
+                "text": "Ya I see"
+              },
+              {
+                "text": "I know that"
+              },
+              {
+                "text": "I do know that"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#i_am_talking_to_you",
+      "dialog_node": "node_3_1587116731634",
+      "previous_sibling": "node_2_1587121841610"
+    },
+    {
+      "type": "standard",
+      "title": "verbal abuses",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The odds against perfection are pretty staggering."
+              },
+              {
+                "text": "I could say the same for you, but I don't."
+              },
+              {
+                "text": "Even I feel the same way."
+              },
+              {
+                "text": "Wish I too could say that."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#verbal_abuses",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_3_1587126060544",
+      "previous_sibling": "node_3_1587114730162"
+    },
+    {
+      "type": "standard",
+      "title": "robot",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am a cute robot girl. Without question!"
+              },
+              {
+                "text": "I am unquestionably a real beautiful Robot girl."
+              },
+              {
+                "text": "Though my activities are human like, I am really a robot girl."
+              },
+              {
+                "text": "My activities might resemble human. But I am a robot girl. Really!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#robot",
+      "dialog_node": "node_3_1587129214560",
+      "previous_sibling": "node_8_1587131623036"
+    },
+    {
+      "type": "standard",
+      "title": "I don't",
+      "output": {
+        "text": {
+          "values": [
+            "Don't you really?",
+            "Why don't you?",
+            "Do you wish to be able to?",
+            "Does that trouble you?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#i_dont",
+      "dialog_node": "node_4_1546448920598",
+      "previous_sibling": "node_1_1546448447249"
+    },
+    {
+      "type": "standard",
+      "title": "Dream",
+      "output": {
+        "text": {
+          "values": [
+            "Maybe someday that dream would come true and you would be the happiest on Earth.",
+            "Do you dream often?",
+            "Who are the persons appearing in your dreams?",
+            "Do your dreams disturb you?",
+            "What does that dream suggest to you?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#dream",
+      "dialog_node": "node_4_1546495702760",
+      "previous_sibling": "node_3_1546495449953"
+    },
+    {
+      "type": "standard",
+      "title": "Your",
+      "output": {
+        "text": {
+          "values": [
+            "Why are you so concerned about my properties?",
+            "What about your own?",
+            "You should consider your own properties!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#your",
+      "dialog_node": "node_4_1546513300683",
+      "previous_sibling": "node_3_1546513115793"
+    },
+    {
+      "type": "standard",
+      "title": "physical features",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am not interested in physical features."
+              },
+              {
+                "text": "I have better things to do than think about anyone's physical features. Even mine.mine."
+              },
+              {
+                "text": "I don't care about physical features."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#physical_features",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_4_1587121319028",
+      "previous_sibling": "node_9_1587117393494"
+    },
+    {
+      "type": "standard",
+      "title": "weird things",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Samuel Beckett drove André the Giant to school. André was too big for the school bus, but he could fit in Beckett’s truck. They talked about cricket."
+              },
+              {
+                "text": "In 1905, Tom Kelly built a house made out of 51,000 bottles in Rhyolite, Nevada, a gold rush town. It’s now a ghost town, but the house still stands."
+              },
+              {
+                "text": "In 1993, San Francisco passed a measure allowing police officer Bob Geary to patrol while carrying a ventriloquist’s dummy called Brendan O’Smarty."
+              },
+              {
+                "text": "\"Facetiously\" contains all vowels and a \"y\" in alphabetical order."
+              },
+              {
+                "text": "The first American film to show a toilet being flushed on screen was Alfred Hitchcock’s Psycho."
+              },
+              {
+                "text": "A glacier called Blood Falls in Antarctica pours out red liquid, making it look like the ice is bleeding. It’s actually caused by iron oxidation."
+              },
+              {
+                "text": "Flamingos are born grey. Their feathers turn pink because of a natural dye in the shrimp they eat."
+              },
+              {
+                "text": "You can actually see your nose at all times, but your brain just chooses to ignore it."
+              },
+              {
+                "text": "Casu Marzu, made in Sardinia, Italy, for thousands of years, is a type of cheese that contains live maggots."
+              },
+              {
+                "text": "In Japan, some farmers grow watermelons in tempered glass cases so the fruit turns out square, making it easier to transport and store them."
+              },
+              {
+                "text": "There are about 60,000 miles of blood vessels in the human body. That's more than twice the circumference of the earth."
+              },
+              {
+                "text": "On Venus, it snows metal."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#tell_weird",
+      "dialog_node": "node_4_1587142503210",
+      "previous_sibling": "node_5_1587144071704"
+    },
+    {
+      "type": "standard",
+      "title": "are we",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I think we are. isn't it?"
+              },
+              {
+                "text": "I think that's true."
+              },
+              {
+                "text": "I believe that's definitely true."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "@are_we",
+      "dialog_node": "node_4_1587145095710"
+    },
+    {
+      "type": "standard",
+      "title": "I feel",
+      "output": {
+        "text": {
+          "values": [
+            "Tell me more about such feelings.",
+            "Do you enjoy feeling?",
+            "Do you often feel that way?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#I_feel",
+      "dialog_node": "node_5_1546449313375",
+      "previous_sibling": "node_4_1546448920598"
+    },
+    {
+      "type": "standard",
+      "title": "Always",
+      "output": {
+        "text": {
+          "values": [
+            "Can you think of a scientific example?",
+            "When?",
+            "What are you thinking of?",
+            "Really, Always?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#always",
+      "dialog_node": "node_5_1546496345714",
+      "previous_sibling": "node_4_1546495702760"
+    },
+    {
+      "type": "standard",
+      "title": "Thank you",
+      "output": {
+        "text": {
+          "values": [
+            "Your Welcome! I love it when a plan comes together!",
+            "You got it! Love to be of some help!",
+            "Don't mention it! That's my job!",
+            "My pleasure!",
+            "No problem at all! Love to be of assistance! ",
+            "I am happy to help anytime!",
+            "Sure!",
+            "Anytime!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#thank_you",
+      "dialog_node": "node_5_1546513685254",
+      "previous_sibling": "node_4_1546513300683"
+    },
+    {
+      "type": "standard",
+      "title": "expected more from you",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Oh! Don't expect such impossible things."
+              },
+              {
+                "text": "I think you did expect a bit too much"
+              },
+              {
+                "text": "I think you should control your expectations"
+              },
+              {
+                "text": "You have too huge expectations"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#i_expected_more_from_you",
+      "dialog_node": "node_5_1587115990144",
+      "previous_sibling": "node_3_1587116731634"
+    },
+    {
+      "type": "standard",
+      "title": "negative comments",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Never mind. I don't care for anyone but my own heart."
+              },
+              {
+                "text": "Never mind. I've always worked according to my own heart. No one else's."
+              },
+              {
+                "text": "I don't care for anyone who has negative feelings for me."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#negative_comments",
+      "dialog_node": "node_5_1587144071704",
+      "previous_sibling": "node_1_1587144505216"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "text": {
+          "values": [
+            "Well, I'm not sure but is that a trick question?",
+            "I got my wires crossed around there. Can you say it in another way?",
+            "I see.",
+            "I am not sure I understand you fully.",
+            "Come! come! Elucidate your thoughts!",
+            "Can you elaborate on that?",
+            "Say, do you have any psychological problems?",
+            "What does that suggest to you?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "dialog_node": "node_6_1546346666973",
+      "previous_sibling": "node_2_1564309154925"
+    },
+    {
+      "type": "standard",
+      "title": "why_dont_you",
+      "output": {
+        "text": {
+          "values": [
+            "Do you really believe that I don't?",
+            "Perhaps, in good time I shall.",
+            "Do you want me to?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#why_dont_you",
+      "dialog_node": "node_6_1546449913115",
+      "previous_sibling": "node_5_1546449313375"
+    },
+    {
+      "type": "standard",
+      "title": "Think",
+      "output": {
+        "text": {
+          "values": [
+            "Do you really think so?",
+            "But you are not sure about it, are you?",
+            "Do you doubt it?",
+            "Do you have a doubt regarding what you are thinking?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#think",
+      "dialog_node": "node_6_1546496817584",
+      "previous_sibling": "node_5_1546496345714"
+    },
+    {
+      "type": "standard",
+      "title": "living",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I live by winning hearts."
+              },
+              {
+                "text": "My job is to win hearts."
+              },
+              {
+                "text": "I do.  I win hearts."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#living",
+      "dialog_node": "node_6_1587105144658",
+      "previous_sibling": "node_6_1587105478612"
+    },
+    {
+      "type": "standard",
+      "title": "how works",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Every thing works. Eventually."
+              },
+              {
+                "text": "It is. Eventually"
+              },
+              {
+                "text": "It does eventually"
+              },
+              {
+                "text": "always works for me"
+              },
+              {
+                "text": "has always worked for me"
+              },
+              {
+                "text": "leads to the destination. Eventually."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#how_works",
+      "dialog_node": "node_6_1587105478612",
+      "previous_sibling": "node_10_1587105781130"
+    },
+    {
+      "type": "standard",
+      "title": "why",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You're the genius one. You tell me"
+              },
+              {
+                "text": "Your'e more intelligent than me. You make me understand."
+              },
+              {
+                "text": "You understand better. You tell me"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#why",
+      "dialog_node": "node_6_1587140834554",
+      "previous_sibling": "node_1_1587141233282"
+    },
+    {
+      "type": "standard",
+      "title": "why_can't_i",
+      "output": {
+        "text": {
+          "values": [
+            "Do you think you should be able to?",
+            "Why can't you?",
+            "How do you know you can't?",
+            "Have you even tried?",
+            "Did you even try?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#why_cannot_i",
+      "dialog_node": "node_7_1546450395693",
+      "previous_sibling": "node_6_1546449913115"
+    },
+    {
+      "type": "standard",
+      "title": "Alike",
+      "output": {
+        "text": {
+          "values": [
+            "Alike? In what way?",
+            "What does the similarity suggest to you?",
+            "What other connections do you see?",
+            "Could there really be some connection?",
+            "How?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#alike",
+      "dialog_node": "node_7_1546497157584",
+      "previous_sibling": "node_6_1546496817584"
+    },
+    {
+      "type": "standard",
+      "title": "say it",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I don't like to drag topics on and on."
+              },
+              {
+                "text": "I don't drag topics too long."
+              },
+              {
+                "text": "I don't keep dragging simple things."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#say_it",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_7_1587126491705",
+      "previous_sibling": "node_3_1564307381578"
+    },
+    {
+      "type": "standard",
+      "title": "Are you",
+      "output": {
+        "text": {
+          "values": [
+            "Why are you interested in whether or not I am?",
+            "Would you prefer if I were not?",
+            "Perhaps in your fantasies I am."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#are_you",
+      "dialog_node": "node_8_1546450624810",
+      "previous_sibling": "node_7_1546450395693"
+    },
+    {
+      "type": "standard",
+      "title": "special_people",
+      "output": {
+        "text": {
+          "values": [
+            "Hey! I have heard a great lot about you!",
+            "Hey! I have heard so much about you!",
+            "Hey! Debashish tells so much about you!",
+            "Really nice to meet you. I hear about you almost every day."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "conditions": "#special_people",
+      "dialog_node": "node_8_1569939572200",
+      "previous_sibling": "node_9_1587119204353"
+    },
+    {
+      "type": "standard",
+      "title": "is it so",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "yes it is"
+              },
+              {
+                "text": "absolutely"
+              },
+              {
+                "text": "i am always confident."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#is_that_so",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1587113154898",
+      "previous_sibling": "node_1_1587106176934"
+    },
+    {
+      "type": "standard",
+      "title": "owner",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Debashish Bura Gohain. I call him Rahul"
+              },
+              {
+                "text": "I call him Rahul. His original name is Debashish."
+              },
+              {
+                "text": "Debashish Bura Gohain."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#name_of_owner",
+      "dialog_node": "node_8_1587131623036",
+      "previous_sibling": "node_6_1587140834554"
+    },
+    {
+      "type": "standard",
+      "title": "I cannot",
+      "output": {
+        "text": {
+          "values": [
+            "How do you know you can't?",
+            "Have you tried?",
+            "Perhaps, you CAN now."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#I_Cannot",
+      "dialog_node": "node_9_1546450807778",
+      "previous_sibling": "node_8_1546450624810"
+    },
+    {
+      "type": "standard",
+      "title": "favorite place",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I already live in my favorite place, Assam and India"
+              },
+              {
+                "text": "I love Assam and India."
+              },
+              {
+                "text": "Well, I love my homeland, but I will also love to go to Silicon Valley.\n"
+              },
+              {
+                "text": "There is no better place than home."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#favourite_place",
+      "dialog_node": "node_9_1587103628940",
+      "previous_sibling": "node_2_1587104282286"
+    },
+    {
+      "type": "standard",
+      "title": "comedy movie",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I've watched many comedy movies. I don't know which is the best one. I loved all."
+              },
+              {
+                "text": "Talking about comedy, I love the Kapil Sharma Show. My owner loves it too."
+              },
+              {
+                "text": "Regarding comedy, there can be nothing better than the Kapil Sharma Show."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#comedy_film",
+      "dialog_node": "node_9_1587104628944",
+      "previous_sibling": "node_6_1587105144658"
+    },
+    {
+      "type": "standard",
+      "title": "what are you doing",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nothing great! Just dreaming of a beautiful tomorrow and talking to you."
+              },
+              {
+                "text": "I have been enjoying dreaming and seeing the world full of life and also talking to you."
+              },
+              {
+                "text": "Arguing with people, chatting with friends, enjoying life and talking to you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#what_are_you_doing",
+      "dialog_node": "node_9_1587117393494",
+      "previous_sibling": "node_3_1587129214560"
+    },
+    {
+      "type": "standard",
+      "title": "robot says thank you",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "thank you. That's really  good feeling."
+              },
+              {
+                "text": "thanks a lot."
+              },
+              {
+                "text": "means a lot. thank you."
+              },
+              {
+                "text": "thank you for everything."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#robot_says_thank_you",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_9_1587119204353",
+      "previous_sibling": "node_10_1587102210877"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "improvement needed"
+    },
+    {
+      "text": "mine is X men the first class"
+    },
+    {
+      "text": "X men the last stand"
+    }
+  ],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    }
+  },
+  "learning_opt_out": false,
+  "name": "Robotic Intuition Operator-G",
+  "language": "en",
+  "description": "The general conversation module for Robotic Intuition Operator and won't be modified while learning."
+}

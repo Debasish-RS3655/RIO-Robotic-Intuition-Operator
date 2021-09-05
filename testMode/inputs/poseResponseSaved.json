@@ -1,0 +1,80 @@
+[
+    {
+        "startingPose": [],
+        "endingPose": [],
+        "poseInterval": 2000,
+        "startingEmotion": [
+            0.092,
+            0.9199999999999999,
+            0.092,
+            0.092,
+            0.092,
+            0.9199999999999999
+        ],
+        "endingEmotion": [
+            0.092,
+            0.9199999999999999,
+            0.092,
+            0.092,
+            0.092,
+            0.9199999999999999
+        ],
+        "openness": 0.5,
+        "conscientiousness": 0.5,
+        "extraversion": 0.5,
+        "agreeableness": 0.5,
+        "neuroticism": 0.5
+    },
+    {
+        "startingPose": [],
+        "endingPose": [],
+        "poseInterval": 2000,
+        "startingEmotion": [
+            0.368,
+            0.368,
+            0.368,
+            0.368,
+            0.368,
+            0.368
+        ],
+        "endingEmotion": [
+            0.368,
+            0.368,
+            0.368,
+            0.368,
+            0.368,
+            0.368
+        ],
+        "openness": 0.5,
+        "conscientiousness": 0.5,
+        "extraversion": 0.5,
+        "agreeableness": 0.5,
+        "neuroticism": 0.5
+    },
+    {
+        "startingPose": [],
+        "endingPose": [],
+        "poseInterval": 2000,
+        "startingEmotion": [
+            0.9199999999999999,
+            0,
+            0.9199999999999999,
+            0.9199999999999999,
+            0.9199999999999999,
+            0
+        ],
+        "endingEmotion": [
+            0.9199999999999999,
+            0,
+            0.9199999999999999,
+            0.9199999999999999,
+            0.9199999999999999,
+            0
+        ],
+        "openness": 0.5,
+        "conscientiousness": 0.5,
+        "extraversion": 0.5,
+        "agreeableness": 0.5,
+        "neuroticism": 0.5
+    }
+]

@@ -1,0 +1,3537 @@
+
+D:\newRIO>node testMode.js
+Testing started.
+Database server listening at port 4800
+starting emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0
+  }
+]
+ending emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+new cycle:  1
+Conditioned to the test basic emotion stimuli.
+starting emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0
+  }
+]
+ending emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+new cycle:  2
+starting emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0
+  }
+]
+ending emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+new cycle:  3
+starting emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0
+  }
+]
+ending emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+new cycle:  4
+starting emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    stimulusName: 'speaker2_personStim_',
+    influence: 0
+  },
+  {
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0
+  }
+]
+ending emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+new cycle:  5
+starting emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    stimulusName: 'speaker1_personStim_',
+    influence: 0
+  },
+  {
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0
+  }
+]
+ending emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+new cycle:  6
+starting emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0
+  }
+]
+ending emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+new cycle:  7
+starting emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0
+  }
+]
+ending emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+new cycle:  8
+starting emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0
+  }
+]
+ending emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+new cycle:  9
+starting emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0
+  }
+]
+ending emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+new cycle:  10
+disliked speaker conditioning done for:  x1
+starting emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0
+  }
+]
+ending emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+new cycle:  11
+perception change objects received:  [
+  {
+    stimulusName: 'x1',
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [
+      0.04200000000000001,
+      0.42000000000000004,
+      0.04200000000000001,
+      0.04200000000000001,
+      0.04200000000000001,
+      0.42000000000000004
+    ],
+    influence: 0.3299996700000001
+  }
+]
+starting emotion received:  [ 0, 0, 0, 0, 0, 0 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [
+      0.022024800000000004,
+      0.220248,
+      0.022024800000000004,
+      0.022024800000000004,
+      0.022024800000000004,
+      0.220248
+    ],
+    stimulusName: 'x1',
+    influence: 0.17305182694800003
+  },
+  {
+    beforeAlteration: [
+      0.022024800000000004,
+      0.220248,
+      0.022024800000000004,
+      0.022024800000000004,
+      0.022024800000000004,
+      0.220248
+    ],
+    afterAlteration: [
+      0.020262816000000003,
+      0.20262816,
+      0.020262816000000003,
+      0.020262816000000003,
+      0.020262816000000003,
+      0.20262816
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.00692207307792
+  }
+]
+short term objects received:  [ { stimulusName: 'x1', influence: 0.17305182694800003 } ]
+ending emotion received:  [
+  0.020262816000000003,
+  0.20262816,
+  0.020262816000000003,
+  0.020262816000000003,
+  0.020262816000000003,
+  0.20262816
+]
+new cycle:  12
+starting emotion received:  [
+  0.020262816000000003,
+  0.20262816,
+  0.020262816000000003,
+  0.020262816000000003,
+  0.020262816000000003,
+  0.20262816
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.020262816000000003,
+      0.20262816,
+      0.020262816000000003,
+      0.020262816000000003,
+      0.020262816000000003,
+      0.20262816
+    ],
+    afterAlteration: [
+      0.025962305644800003,
+      0.259623056448,
+      0.025962305644800003,
+      0.025962305644800003,
+      0.025962305644800003,
+      0.259623056448
+    ],
+    stimulusName: 'x1',
+    influence: 0.10891674325914784
+  },
+  {
+    beforeAlteration: [
+      0.025962305644800003,
+      0.259623056448,
+      0.025962305644800003,
+      0.025962305644800003,
+      0.025962305644800003,
+      0.259623056448
+    ],
+    afterAlteration: [
+      0.023885321193216003,
+      0.23885321193216,
+      0.023885321193216003,
+      0.023885321193216003,
+      0.023885321193216003,
+      0.23885321193216
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.015081646692418224
+  }
+]
+short term objects received:  [ { stimulusName: 'x1', influence: 0.10891674325914784 } ]
+ending emotion received:  [
+  0.023885321193216003,
+  0.23885321193216,
+  0.023885321193216003,
+  0.023885321193216003,
+  0.023885321193216003,
+  0.23885321193216
+]
+new cycle:  13
+starting emotion received:  [
+  0.023885321193216003,
+  0.23885321193216,
+  0.023885321193216003,
+  0.023885321193216003,
+  0.023885321193216003,
+  0.23885321193216
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.023885321193216003,
+      0.23885321193216,
+      0.023885321193216003,
+      0.023885321193216003,
+      0.023885321193216003,
+      0.23885321193216
+    ],
+    afterAlteration: [
+      0.02705176704864185,
+      0.27051767048641845,
+      0.02705176704864185,
+      0.02705176704864185,
+      0.02705176704864185,
+      0.27051767048641845
+    ],
+    stimulusName: 'x1',
+    influence: 0.0348304260632835
+  },
+  {
+    beforeAlteration: [
+      0.02705176704864185,
+      0.27051767048641845,
+      0.02705176704864185,
+      0.02705176704864185,
+      0.02705176704864185,
+      0.27051767048641845
+    ],
+    afterAlteration: [
+      0.0248876256847505,
+      0.24887625684750497,
+      0.0248876256847505,
+      0.0248876256847505,
+      0.0248876256847505,
+      0.24887625684750497
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.016661549042087446
+  }
+]
+ending emotion received:  [
+  0.0248876256847505,
+  0.24887625684750497,
+  0.0248876256847505,
+  0.0248876256847505,
+  0.0248876256847505,
+  0.24887625684750497
+]
+new cycle:  14
+starting emotion received:  [
+  0.0248876256847505,
+  0.24887625684750497,
+  0.0248876256847505,
+  0.0248876256847505,
+  0.0248876256847505,
+  0.24887625684750497
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.0248876256847505,
+      0.24887625684750497,
+      0.0248876256847505,
+      0.0248876256847505,
+      0.0248876256847505,
+      0.24887625684750497
+    ],
+    afterAlteration: [
+      0.02289661562997046,
+      0.22896615629970457,
+      0.02289661562997046,
+      0.02289661562997046,
+      0.02289661562997046,
+      0.22896615629970457
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.01632379282097131
+  }
+]
+ending emotion received:  [
+  0.02289661562997046,
+  0.22896615629970457,
+  0.02289661562997046,
+  0.02289661562997046,
+  0.02289661562997046,
+  0.22896615629970457
+]
+new cycle:  15
+disliked speaker conditioning for:  x2
+starting emotion received:  [
+  0.02289661562997046,
+  0.22896615629970457,
+  0.02289661562997046,
+  0.02289661562997046,
+  0.02289661562997046,
+  0.22896615629970457
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.02289661562997046,
+      0.22896615629970457,
+      0.02289661562997046,
+      0.02289661562997046,
+      0.02289661562997046,
+      0.22896615629970457
+    ],
+    afterAlteration: [
+      0.021064886379572823,
+      0.2106488637957282,
+      0.021064886379572823,
+      0.021064886379572823,
+      0.021064886379572823,
+      0.2106488637957282
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.015017889395293606
+  }
+]
+ending emotion received:  [
+  0.021064886379572823,
+  0.2106488637957282,
+  0.021064886379572823,
+  0.021064886379572823,
+  0.021064886379572823,
+  0.2106488637957282
+]
+new cycle:  16
+perception change objects received:  [
+  {
+    stimulusName: 'x2',
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [ 0.1, 1, 0.1, 0.1, 0.1, 1 ],
+    influence: 0.7857135000000001
+  }
+]
+starting emotion received:  [
+  0.021064886379572823,
+  0.2106488637957282,
+  0.021064886379572823,
+  0.021064886379572823,
+  0.021064886379572823,
+  0.2106488637957282
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.021064886379572823,
+      0.2106488637957282,
+      0.021064886379572823,
+      0.021064886379572823,
+      0.021064886379572823,
+      0.2106488637957282
+    ],
+    afterAlteration: [ 0.1, 1, 0.1, 0.1, 0.1, 1 ],
+    stimulusName: 'x2',
+    influence: 0.6202038439560351
+  },
+  {
+    beforeAlteration: [ 0.1, 1, 0.1, 0.1, 0.1, 1 ],
+    afterAlteration: [
+      0.092,
+      0.9199999999999999,
+      0.092,
+      0.092,
+      0.092,
+      0.9199999999999999
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.03862461200191156
+  }
+]
+short term objects received:  [ { stimulusName: 'x2', influence: 0.6202038439560351 } ]
+ending emotion received:  [ 0.092, 0.9199999999999999, 0.092, 0.092, 0.092, 0.9199999999999999 ]
+new cycle:  17
+Posture positive mood request is being sent.
+starting emotion received:  [ 0.092, 0.9199999999999999, 0.092, 0.092, 0.092, 0.9199999999999999 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.092,
+      0.9199999999999999,
+      0.092,
+      0.092,
+      0.092,
+      0.9199999999999999
+    ],
+    afterAlteration: [ 0.096, 0.96, 0.096, 0.096, 0.096, 0.96 ],
+    stimulusName: 'x2',
+    influence: 0.3258161919780176
+  },
+  {
+    beforeAlteration: [ 0.096, 0.96, 0.096, 0.096, 0.096, 0.96 ],
+    afterAlteration: [ 0.08832, 0.8832, 0.08832, 0.08832, 0.08832, 0.8832 ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.061599938400000026
+  }
+]
+short term objects received:  [ { stimulusName: 'x2', influence: 0.3258161919780176 } ]
+ending emotion received:  [ 0.08832, 0.8832, 0.08832, 0.08832, 0.08832, 0.8832 ]
+new cycle:  18
+posture response received:  { startingPose: '0', endingPose: '0' }
+starting emotion received:  [ 0.08832, 0.8832, 0.08832, 0.08832, 0.08832, 0.8832 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [ 0.08832, 0.8832, 0.08832, 0.08832, 0.08832, 0.8832 ],
+    afterAlteration: [
+      0.08832368,
+      0.8832367999999999,
+      0.08832368,
+      0.08832368,
+      0.08832368,
+      0.8832367999999999
+    ],
+    stimulusName: 'pose_stimulus_0',
+    influence: 0.00002891425679996178
+  },
+  {
+    beforeAlteration: [
+      0.08832368,
+      0.8832367999999999,
+      0.08832368,
+      0.08832368,
+      0.08832368,
+      0.8832367999999999
+    ],
+    afterAlteration: [
+      0.09221578666666667,
+      0.9221578666666667,
+      0.09221578666666667,
+      0.09221578666666667,
+      0.09221578666666667,
+      0.9221578666666667
+    ],
+    stimulusName: 'x2',
+    influence: 0.031004673757200042
+  },
+  {
+    beforeAlteration: [
+      0.09221578666666667,
+      0.9221578666666667,
+      0.09221578666666667,
+      0.09221578666666667,
+      0.09221578666666667,
+      0.9221578666666667
+    ],
+    afterAlteration: [
+      0.08483852373333334,
+      0.8483852373333333,
+      0.08483852373333334,
+      0.08483852373333334,
+      0.08483852373333334,
+      0.8483852373333333
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.05915347379884803
+  }
+]
+ending emotion received:  [
+  0.08483852373333334,
+  0.8483852373333333,
+  0.08483852373333334,
+  0.08483852373333334,
+  0.08483852373333334,
+  0.8483852373333333
+]
+new cycle:  19
+starting emotion received:  [
+  0.08483852373333334,
+  0.8483852373333333,
+  0.08483852373333334,
+  0.08483852373333334,
+  0.08483852373333334,
+  0.8483852373333333
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.08483852373333334,
+      0.8483852373333333,
+      0.08483852373333334,
+      0.08483852373333334,
+      0.08483852373333334,
+      0.8483852373333333
+    ],
+    afterAlteration: [
+      0.07805144183466667,
+      0.7805144183466666,
+      0.07805144183466667,
+      0.07805144183466667,
+      0.07805144183466667,
+      0.7805144183466666
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.055645584765788195
+  }
+]
+ending emotion received:  [
+  0.07805144183466667,
+  0.7805144183466666,
+  0.07805144183466667,
+  0.07805144183466667,
+  0.07805144183466667,
+  0.7805144183466666
+]
+new cycle:  20
+starting emotion received:  [
+  0.07805144183466667,
+  0.7805144183466666,
+  0.07805144183466667,
+  0.07805144183466667,
+  0.07805144183466667,
+  0.7805144183466666
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.07805144183466667,
+      0.7805144183466666,
+      0.07805144183466667,
+      0.07805144183466667,
+      0.07805144183466667,
+      0.7805144183466666
+    ],
+    afterAlteration: [
+      0.07180732648789333,
+      0.7180732648789332,
+      0.07180732648789333,
+      0.07180732648789333,
+      0.07180732648789333,
+      0.7180732648789332
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.05119393798452514
+  }
+]
+ending emotion received:  [
+  0.07180732648789333,
+  0.7180732648789332,
+  0.07180732648789333,
+  0.07180732648789333,
+  0.07180732648789333,
+  0.7180732648789332
+]
+new cycle:  21
+starting emotion received:  [
+  0.07180732648789333,
+  0.7180732648789332,
+  0.07180732648789333,
+  0.07180732648789333,
+  0.07180732648789333,
+  0.7180732648789332
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.07180732648789333,
+      0.7180732648789332,
+      0.07180732648789333,
+      0.07180732648789333,
+      0.07180732648789333,
+      0.7180732648789332
+    ],
+    afterAlteration: [
+      0.06606274036886187,
+      0.6606274036886185,
+      0.06606274036886187,
+      0.06606274036886187,
+      0.06606274036886187,
+      0.6606274036886185
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.047098422945763135
+  }
+]
+ending emotion received:  [
+  0.06606274036886187,
+  0.6606274036886185,
+  0.06606274036886187,
+  0.06606274036886187,
+  0.06606274036886187,
+  0.6606274036886185
+]
+new cycle:  22
+Deciding for the disliked speaker in the positive mood.
+decision made:  {
+  action: 'chooseOption_',
+  options: [ 'x1' ],
+  choice: 'option_not_selected'
+}
+prohibited objects received:  false
+starting emotion received:  [
+  0.06606274036886187,
+  0.6606274036886185,
+  0.06606274036886187,
+  0.06606274036886187,
+  0.06606274036886187,
+  0.6606274036886185
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.06606274036886187,
+      0.6606274036886185,
+      0.06606274036886187,
+      0.06606274036886187,
+      0.06606274036886187,
+      0.6606274036886185
+    ],
+    afterAlteration: [
+      0.06077772113935292,
+      0.607777211393529,
+      0.06077772113935292,
+      0.06077772113935292,
+      0.06077772113935292,
+      0.607777211393529
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.04333054911010206
+  }
+]
+ending emotion received:  [
+  0.06077772113935292,
+  0.607777211393529,
+  0.06077772113935292,
+  0.06077772113935292,
+  0.06077772113935292,
+  0.607777211393529
+]
+new cycle:  23
+starting emotion received:  [
+  0.06077772113935292,
+  0.607777211393529,
+  0.06077772113935292,
+  0.06077772113935292,
+  0.06077772113935292,
+  0.607777211393529
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.06077772113935292,
+      0.607777211393529,
+      0.06077772113935292,
+      0.06077772113935292,
+      0.06077772113935292,
+      0.607777211393529
+    ],
+    afterAlteration: [
+      0.05591550344820469,
+      0.5591550344820467,
+      0.05591550344820469,
+      0.05591550344820469,
+      0.05591550344820469,
+      0.5591550344820467
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.039864105181293866
+  }
+]
+ending emotion received:  [
+  0.05591550344820469,
+  0.5591550344820467,
+  0.05591550344820469,
+  0.05591550344820469,
+  0.05591550344820469,
+  0.5591550344820467
+]
+new cycle:  24
+starting emotion received:  [
+  0.05591550344820469,
+  0.5591550344820467,
+  0.05591550344820469,
+  0.05591550344820469,
+  0.05591550344820469,
+  0.5591550344820467
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.05591550344820469,
+      0.5591550344820467,
+      0.05591550344820469,
+      0.05591550344820469,
+      0.05591550344820469,
+      0.5591550344820467
+    ],
+    afterAlteration: [
+      0.05144226317234831,
+      0.514422631723483,
+      0.05144226317234831,
+      0.05144226317234831,
+      0.05144226317234831,
+      0.514422631723483
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.03667497676679035
+  }
+]
+ending emotion received:  [
+  0.05144226317234831,
+  0.514422631723483,
+  0.05144226317234831,
+  0.05144226317234831,
+  0.05144226317234831,
+  0.514422631723483
+]
+new cycle:  25
+Deciding for the liked speaker in the positive mood.
+decision made:  {
+  action: 'chooseOption_',
+  options: [ 'x2' ],
+  choice: 'option_not_selected'
+}
+prohibited objects received:  false
+starting emotion received:  [
+  0.05144226317234831,
+  0.514422631723483,
+  0.05144226317234831,
+  0.05144226317234831,
+  0.05144226317234831,
+  0.514422631723483
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.05144226317234831,
+      0.514422631723483,
+      0.05144226317234831,
+      0.05144226317234831,
+      0.05144226317234831,
+      0.514422631723483
+    ],
+    afterAlteration: [
+      0.04732688211856045,
+      0.47326882118560437,
+      0.04732688211856045,
+      0.04732688211856045,
+      0.04732688211856045,
+      0.47326882118560437
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.033740978625447136
+  }
+]
+ending emotion received:  [
+  0.04732688211856045,
+  0.47326882118560437,
+  0.04732688211856045,
+  0.04732688211856045,
+  0.04732688211856045,
+  0.47326882118560437
+]
+new cycle:  26
+starting emotion received:  [
+  0.04732688211856045,
+  0.47326882118560437,
+  0.04732688211856045,
+  0.04732688211856045,
+  0.04732688211856045,
+  0.47326882118560437
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.04732688211856045,
+      0.47326882118560437,
+      0.04732688211856045,
+      0.04732688211856045,
+      0.04732688211856045,
+      0.47326882118560437
+    ],
+    afterAlteration: [
+      0.04354073154907561,
+      0.435407315490756,
+      0.04354073154907561,
+      0.04354073154907561,
+      0.04354073154907561,
+      0.435407315490756
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.031041700335411378
+  }
+]
+ending emotion received:  [
+  0.04354073154907561,
+  0.435407315490756,
+  0.04354073154907561,
+  0.04354073154907561,
+  0.04354073154907561,
+  0.435407315490756
+]
+new cycle:  27
+starting emotion received:  [
+  0.04354073154907561,
+  0.435407315490756,
+  0.04354073154907561,
+  0.04354073154907561,
+  0.04354073154907561,
+  0.435407315490756
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.04354073154907561,
+      0.435407315490756,
+      0.04354073154907561,
+      0.04354073154907561,
+      0.04354073154907561,
+      0.435407315490756
+    ],
+    afterAlteration: [
+      0.04005747302514956,
+      0.40057473025149554,
+      0.04005747302514956,
+      0.04005747302514956,
+      0.04005747302514956,
+      0.40057473025149554
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.028558364308578464
+  }
+]
+ending emotion received:  [
+  0.04005747302514956,
+  0.40057473025149554,
+  0.04005747302514956,
+  0.04005747302514956,
+  0.04005747302514956,
+  0.40057473025149554
+]
+new cycle:  28
+starting emotion received:  [
+  0.04005747302514956,
+  0.40057473025149554,
+  0.04005747302514956,
+  0.04005747302514956,
+  0.04005747302514956,
+  0.40057473025149554
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.04005747302514956,
+      0.40057473025149554,
+      0.04005747302514956,
+      0.04005747302514956,
+      0.04005747302514956,
+      0.40057473025149554
+    ],
+    afterAlteration: [
+      0.036852875183137596,
+      0.3685287518313759,
+      0.036852875183137596,
+      0.036852875183137596,
+      0.036852875183137596,
+      0.3685287518313759
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.026273695163892177
+  }
+]
+ending emotion received:  [
+  0.036852875183137596,
+  0.3685287518313759,
+  0.036852875183137596,
+  0.036852875183137596,
+  0.036852875183137596,
+  0.3685287518313759
+]
+new cycle:  29
+starting emotion received:  [
+  0.036852875183137596,
+  0.3685287518313759,
+  0.036852875183137596,
+  0.036852875183137596,
+  0.036852875183137596,
+  0.3685287518313759
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.036852875183137596,
+      0.3685287518313759,
+      0.036852875183137596,
+      0.036852875183137596,
+      0.036852875183137596,
+      0.3685287518313759
+    ],
+    afterAlteration: [
+      0.03390464516848659,
+      0.3390464516848658,
+      0.03390464516848659,
+      0.03390464516848659,
+      0.03390464516848659,
+      0.3390464516848658
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.024171799550780818
+  }
+]
+ending emotion received:  [
+  0.03390464516848659,
+  0.3390464516848658,
+  0.03390464516848659,
+  0.03390464516848659,
+  0.03390464516848659,
+  0.3390464516848658
+]
+new cycle:  30
+Disliked speaker neutral stimulus conditioning done for:  z1
+starting emotion received:  [
+  0.03390464516848659,
+  0.3390464516848658,
+  0.03390464516848659,
+  0.03390464516848659,
+  0.03390464516848659,
+  0.3390464516848658
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.03390464516848659,
+      0.3390464516848658,
+      0.03390464516848659,
+      0.03390464516848659,
+      0.03390464516848659,
+      0.3390464516848658
+    ],
+    afterAlteration: [
+      0.03119227355500766,
+      0.31192273555007655,
+      0.03119227355500766,
+      0.03119227355500766,
+      0.03119227355500766,
+      0.31192273555007655
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.02223805558671835
+  }
+]
+ending emotion received:  [
+  0.03119227355500766,
+  0.31192273555007655,
+  0.03119227355500766,
+  0.03119227355500766,
+  0.03119227355500766,
+  0.31192273555007655
+]
+new cycle:  31
+perception change objects received:  [
+  {
+    stimulusName: 'z1',
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [
+      0.16800000000000004,
+      0.16800000000000004,
+      0.16800000000000004,
+      0.16800000000000004,
+      0.16800000000000004,
+      0.16800000000000004
+    ],
+    influence: 0.16799983200000007
+  }
+]
+starting emotion received:  [
+  0.03119227355500766,
+  0.31192273555007655,
+  0.03119227355500766,
+  0.03119227355500766,
+  0.03119227355500766,
+  0.31192273555007655
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.03119227355500766,
+      0.31192273555007655,
+      0.03119227355500766,
+      0.03119227355500766,
+      0.03119227355500766,
+      0.31192273555007655
+    ],
+    afterAlteration: [
+      0.10293424530276166,
+      0.23644965302761645,
+      0.10293424530276166,
+      0.10293424530276166,
+      0.10293424530276166,
+      0.23644965302761645
+    ],
+    stimulusName: 'z1',
+    influence: 0.07458464822947394
+  },
+  {
+    beforeAlteration: [
+      0.10293424530276166,
+      0.23644965302761645,
+      0.10293424530276166,
+      0.10293424530276166,
+      0.10293424530276166,
+      0.23644965302761645
+    ],
+    afterAlteration: [
+      0.09469950567854073,
+      0.21753368078540714,
+      0.09469950567854073,
+      0.09469950567854073,
+      0.09469950567854073,
+      0.21753368078540714
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.018842137591664435
+  }
+]
+ending emotion received:  [
+  0.09469950567854073,
+  0.21753368078540714,
+  0.09469950567854073,
+  0.09469950567854073,
+  0.09469950567854073,
+  0.21753368078540714
+]
+new cycle:  32
+starting emotion received:  [
+  0.09469950567854073,
+  0.21753368078540714,
+  0.09469950567854073,
+  0.09469950567854073,
+  0.09469950567854073,
+  0.21753368078540714
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.09469950567854073,
+      0.21753368078540714,
+      0.09469950567854073,
+      0.09469950567854073,
+      0.09469950567854073,
+      0.21753368078540714
+    ],
+    afterAlteration: [
+      0.08712354522425747,
+      0.20013098632257456,
+      0.08712354522425747,
+      0.08712354522425747,
+      0.08712354522425747,
+      0.20013098632257456
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.015717893036214847
+  }
+]
+ending emotion received:  [
+  0.08712354522425747,
+  0.20013098632257456,
+  0.08712354522425747,
+  0.08712354522425747,
+  0.08712354522425747,
+  0.20013098632257456
+]
+new cycle:  33
+starting emotion received:  [
+  0.08712354522425747,
+  0.20013098632257456,
+  0.08712354522425747,
+  0.08712354522425747,
+  0.08712354522425747,
+  0.20013098632257456
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.08712354522425747,
+      0.20013098632257456,
+      0.08712354522425747,
+      0.08712354522425747,
+      0.08712354522425747,
+      0.20013098632257456
+    ],
+    afterAlteration: [
+      0.08015366160631687,
+      0.1841205074167686,
+      0.08015366160631687,
+      0.08015366160631687,
+      0.08015366160631687,
+      0.1841205074167686
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.014460461593317656
+  }
+]
+ending emotion received:  [
+  0.08015366160631687,
+  0.1841205074167686,
+  0.08015366160631687,
+  0.08015366160631687,
+  0.08015366160631687,
+  0.1841205074167686
+]
+new cycle:  34
+starting emotion received:  [
+  0.08015366160631687,
+  0.1841205074167686,
+  0.08015366160631687,
+  0.08015366160631687,
+  0.08015366160631687,
+  0.1841205074167686
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.08015366160631687,
+      0.1841205074167686,
+      0.08015366160631687,
+      0.08015366160631687,
+      0.08015366160631687,
+      0.1841205074167686
+    ],
+    afterAlteration: [
+      0.07374136867781152,
+      0.1693908668234271,
+      0.07374136867781152,
+      0.07374136867781152,
+      0.07374136867781152,
+      0.1693908668234271
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.013303624665852248
+  }
+]
+ending emotion received:  [
+  0.07374136867781152,
+  0.1693908668234271,
+  0.07374136867781152,
+  0.07374136867781152,
+  0.07374136867781152,
+  0.1693908668234271
+]
+new cycle:  35
+Liked speaker neutral stimulus conditioning done for:  z2
+perception change objects received:  [
+  {
+    stimulusName: 'z2',
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [ 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 ],
+    influence: 0.39999960000000007
+  }
+]
+starting emotion received:  [
+  0.07374136867781152,
+  0.1693908668234271,
+  0.07374136867781152,
+  0.07374136867781152,
+  0.07374136867781152,
+  0.1693908668234271
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.07374136867781152,
+      0.1693908668234271,
+      0.07374136867781152,
+      0.07374136867781152,
+      0.07374136867781152,
+      0.1693908668234271
+    ],
+    afterAlteration: [ 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 ],
+    stimulusName: 'z2',
+    influence: 0.3217035716113612
+  },
+  {
+    beforeAlteration: [ 0.4, 0.4, 0.4, 0.4, 0.4, 0.4 ],
+    afterAlteration: [ 0.368, 0.368, 0.368, 0.368, 0.368, 0.368 ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.02237463748572089
+  }
+]
+short term objects received:  [ { stimulusName: 'z2', influence: 0.3217035716113612 } ]
+ending emotion received:  [ 0.368, 0.368, 0.368, 0.368, 0.368, 0.368 ]
+new cycle:  36
+starting emotion received:  [ 0.368, 0.368, 0.368, 0.368, 0.368, 0.368 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [ 0.368, 0.368, 0.368, 0.368, 0.368, 0.368 ],
+    afterAlteration: [ 0.384, 0.384, 0.384, 0.384, 0.384, 0.384 ],
+    stimulusName: 'z2',
+    influence: 0.16885177780568061
+  },
+  {
+    beforeAlteration: [ 0.384, 0.384, 0.384, 0.384, 0.384, 0.384 ],
+    afterAlteration: [ 0.35328, 0.35328, 0.35328, 0.35328, 0.35328, 0.35328 ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.03135996864000003
+  }
+]
+short term objects received:  [ { stimulusName: 'z2', influence: 0.16885177780568061 } ]
+ending emotion received:  [ 0.35328, 0.35328, 0.35328, 0.35328, 0.35328, 0.35328 ]
+new cycle:  37
+Neutral mood posture request is being sent.
+Neutral mood decision making for disliked speaker
+decision made:  { action: 'chooseOption_', options: [ 'x1', 'z1' ], choice: 'x1' }
+prohibited objects received:  true
+starting emotion received:  [ 0.35328, 0.35328, 0.35328, 0.35328, 0.35328, 0.35328 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [ 0.35328, 0.35328, 0.35328, 0.35328, 0.35328, 0.35328 ],
+    afterAlteration: [
+      0.21725064,
+      0.38243664,
+      0.21725064,
+      0.21725064,
+      0.21725064,
+      0.38243664
+    ],
+    stimulusName: 'x1_anticipated_stimulus_',
+    influence: 0.13094005191696
+  },
+  {
+    beforeAlteration: [
+      0.21725064,
+      0.38243664,
+      0.21725064,
+      0.21725064,
+      0.21725064,
+      0.38243664
+    ],
+    afterAlteration: [
+      0.27816709333333334,
+      0.38829109333333334,
+      0.27816709333333334,
+      0.27816709333333334,
+      0.27816709333333334,
+      0.38829109333333334
+    ],
+    stimulusName: 'z2',
+    influence: 0.037147189519440016
+  },
+  {
+    beforeAlteration: [
+      0.27816709333333334,
+      0.38829109333333334,
+      0.27816709333333334,
+      0.27816709333333334,
+      0.27816709333333334,
+      0.38829109333333334
+    ],
+    afterAlteration: [
+      0.25591372586666666,
+      0.3572278058666667,
+      0.25591372586666666,
+      0.25591372586666666,
+      0.25591372586666666,
+      0.3572278058666667
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.02984281389048961
+  }
+]
+short term objects received:  [ { stimulusName: 'z2', influence: 0.037147189519440016 } ]
+ending emotion received:  [
+  0.25591372586666666,
+  0.3572278058666667,
+  0.25591372586666666,
+  0.25591372586666666,
+  0.25591372586666666,
+  0.3572278058666667
+]
+new cycle:  38
+posture response received:  { startingPose: '1', endingPose: '1' }
+starting emotion received:  [
+  0.25591372586666666,
+  0.3572278058666667,
+  0.25591372586666666,
+  0.25591372586666666,
+  0.25591372586666666,
+  0.3572278058666667
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.25591372586666666,
+      0.3572278058666667,
+      0.25591372586666666,
+      0.25591372586666666,
+      0.25591372586666666,
+      0.3572278058666667
+    ],
+    afterAlteration: [
+      0.2560258121408,
+      0.3572385780608,
+      0.2560258121408,
+      0.2560258121408,
+      0.2560258121408,
+      0.3572385780608
+    ],
+    stimulusName: 'pose_stimulus_1',
+    influence: 0.00010726168687154303
+  },
+  {
+    beforeAlteration: [
+      0.2560258121408,
+      0.3572385780608,
+      0.2560258121408,
+      0.2560258121408,
+      0.2560258121408,
+      0.3572385780608
+    ],
+    afterAlteration: [
+      0.2920193591056,
+      0.3679289335456,
+      0.2920193591056,
+      0.2920193591056,
+      0.2920193591056,
+      0.3679289335456
+    ],
+    stimulusName: 'z2',
+    influence: 0.04654149666752347
+  },
+  {
+    beforeAlteration: [
+      0.2920193591056,
+      0.3679289335456,
+      0.2920193591056,
+      0.2920193591056,
+      0.2920193591056,
+      0.3679289335456
+    ],
+    afterAlteration: [
+      0.268657810377152,
+      0.33849461886195203,
+      0.268657810377152,
+      0.268657810377152,
+      0.268657810377152,
+      0.33849461886195203
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.02847702427010458
+  }
+]
+ending emotion received:  [
+  0.268657810377152,
+  0.33849461886195203,
+  0.268657810377152,
+  0.268657810377152,
+  0.268657810377152,
+  0.33849461886195203
+]
+new cycle:  39
+starting emotion received:  [
+  0.268657810377152,
+  0.33849461886195203,
+  0.268657810377152,
+  0.268657810377152,
+  0.268657810377152,
+  0.33849461886195203
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.268657810377152,
+      0.33849461886195203,
+      0.268657810377152,
+      0.268657810377152,
+      0.268657810377152,
+      0.33849461886195203
+    ],
+    afterAlteration: [
+      0.2471651855469798,
+      0.31141504935299585,
+      0.2471651855469798,
+      0.2471651855469798,
+      0.2471651855469798,
+      0.31141504935299585
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.026868854437660787
+  },
+  {
+    beforeAlteration: [
+      0.2471651855469798,
+      0.31141504935299585,
+      0.2471651855469798,
+      0.2471651855469798,
+      0.2471651855469798,
+      0.31141504935299585
+    ],
+    afterAlteration: [
+      0.8599827093140961,
+      0.081529055336096,
+      0.2471651855469798,
+      0.2471651855469798,
+      0.2471651855469798,
+      0.31141504935299585
+    ],
+    stimulusName: 'x1_guilt_stimulus_',
+    influence: 0.46654711697225687
+  }
+]
+short term objects received:  [
+  {
+    stimulusName: 'x1_guilt_stimulus_',
+    influence: 0.46654711697225687
+  }
+]
+ending emotion received:  [
+  0.8599827093140961,
+  0.081529055336096,
+  0.2471651855469798,
+  0.2471651855469798,
+  0.2471651855469798,
+  0.31141504935299585
+]
+new cycle:  40
+Neutral mood decision making for the liked speaker
+decision made:  { action: 'chooseOption_', options: [ 'x2', 'z2' ], choice: 'x2' }
+prohibited objects received:  true
+starting emotion received:  [
+  0.8599827093140961,
+  0.081529055336096,
+  0.2471651855469798,
+  0.2471651855469798,
+  0.2471651855469798,
+  0.31141504935299585
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.8599827093140961,
+      0.081529055336096,
+      0.2471651855469798,
+      0.2471651855469798,
+      0.2471651855469798,
+      0.31141504935299585
+    ],
+    afterAlteration: [
+      0.47999135465704806,
+      0.540764527668048,
+      0.17358259277348992,
+      0.17358259277348992,
+      0.17358259277348992,
+      0.6557075246764978
+    ],
+    stimulusName: 'x2_anticipated_stimulus_',
+    influence: 0.3816633443860784
+  },
+  {
+    beforeAlteration: [
+      0.47999135465704806,
+      0.540764527668048,
+      0.17358259277348992,
+      0.17358259277348992,
+      0.17358259277348992,
+      0.6557075246764978
+    ],
+    afterAlteration: [
+      0.44159204628448423,
+      0.4975033654546041,
+      0.15969598535161073,
+      0.15969598535161073,
+      0.15969598535161073,
+      0.603250922702378
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.03489995943653805
+  }
+]
+short term objects received:  [
+  {
+    stimulusName: 'x2_anticipated_stimulus_',
+    influence: 0.3816633443860784
+  },
+  {
+    stimulusName: 'x1_guilt_stimulus_',
+    influence: 0.46654711697225687
+  }
+]
+ending emotion received:  [
+  0.44159204628448423,
+  0.4975033654546041,
+  0.15969598535161073,
+  0.15969598535161073,
+  0.15969598535161073,
+  0.603250922702378
+]
+new cycle:  41
+starting emotion received:  [
+  0.44159204628448423,
+  0.4975033654546041,
+  0.15969598535161073,
+  0.15969598535161073,
+  0.15969598535161073,
+  0.603250922702378
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.44159204628448423,
+      0.4975033654546041,
+      0.15969598535161073,
+      0.15969598535161073,
+      0.15969598535161073,
+      0.603250922702378
+    ],
+    afterAlteration: [
+      0.3561940347133632,
+      0.6231275240909531,
+      0.14477198901370805,
+      0.14477198901370805,
+      0.14477198901370805,
+      0.7024381920267835
+    ],
+    stimulusName: 'x2_anticipated_stimulus_',
+    influence: 0.24158258535070976
+  },
+  {
+    beforeAlteration: [
+      0.3561940347133632,
+      0.6231275240909531,
+      0.14477198901370805,
+      0.14477198901370805,
+      0.14477198901370805,
+      0.7024381920267835
+    ],
+    afterAlteration: [
+      0.3276985119362941,
+      0.5732773221636768,
+      0.1331902298926114,
+      0.1331902298926114,
+      0.1331902298926114,
+      0.6462431366646408
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.04507989203125191
+  }
+]
+short term objects received:  [
+  {
+    stimulusName: 'x2_anticipated_stimulus_',
+    influence: 0.24158258535070976
+  },
+  {
+    stimulusName: 'x1_guilt_stimulus_',
+    influence: 0.46654711697225687
+  }
+]
+ending emotion received:  [
+  0.3276985119362941,
+  0.5732773221636768,
+  0.1331902298926114,
+  0.1331902298926114,
+  0.1331902298926114,
+  0.6462431366646408
+]
+new cycle:  42
+starting emotion received:  [
+  0.3276985119362941,
+  0.5732773221636768,
+  0.1331902298926114,
+  0.1331902298926114,
+  0.1331902298926114,
+  0.6462431366646408
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.3276985119362941,
+      0.5732773221636768,
+      0.1331902298926114,
+      0.1331902298926114,
+      0.1331902298926114,
+      0.6462431366646408
+    ],
+    afterAlteration: [
+      0.2897487599469118,
+      0.6443977684697306,
+      0.1276585249105095,
+      0.1276585249105095,
+      0.1276585249105095,
+      0.7052026138872007
+    ],
+    stimulusName: 'x2_anticipated_stimulus_',
+    influence: 0.079016963210199
+  },
+  {
+    beforeAlteration: [
+      0.2897487599469118,
+      0.6443977684697306,
+      0.1276585249105095,
+      0.1276585249105095,
+      0.1276585249105095,
+      0.7052026138872007
+    ],
+    afterAlteration: [
+      0.26656885915115885,
+      0.5928459469921522,
+      0.11744584291766874,
+      0.11744584291766874,
+      0.11744584291766874,
+      0.6487864047762246
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.04596786922254206
+  },
+  {
+    beforeAlteration: [
+      0.26656885915115885,
+      0.5928459469921522,
+      0.11744584291766874,
+      0.11744584291766874,
+      0.11744584291766874,
+      0.6487864047762246
+    ],
+    afterAlteration: [
+      0.5632757842326275,
+      0.3371875011641241,
+      0.18230551423232427,
+      0.18230551423232427,
+      0.18230551423232427,
+      0.48010072706461027
+    ],
+    stimulusName: 'x1_guilt_stimulus_',
+    influence: 0.35540565743923236
+  }
+]
+short term objects received:  [
+  {
+    stimulusName: 'x2_anticipated_stimulus_',
+    influence: 0.079016963210199
+  }
+]
+ending emotion received:  [
+  0.5632757842326275,
+  0.3371875011641241,
+  0.18230551423232427,
+  0.18230551423232427,
+  0.18230551423232427,
+  0.48010072706461027
+]
+new cycle:  43
+starting emotion received:  [
+  0.5632757842326275,
+  0.3371875011641241,
+  0.18230551423232427,
+  0.18230551423232427,
+  0.18230551423232427,
+  0.48010072706461027
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.5632757842326275,
+      0.3371875011641241,
+      0.18230551423232427,
+      0.18230551423232427,
+      0.18230551423232427,
+      0.48010072706461027
+    ],
+    afterAlteration: [
+      0.505366311203549,
+      0.4200390635186086,
+      0.17201732495328373,
+      0.17201732495328373,
+      0.17201732495328373,
+      0.545088136181534
+    ],
+    stimulusName: 'x2_anticipated_stimulus_',
+    influence: 0.0618084105609296
+  },
+  {
+    beforeAlteration: [
+      0.505366311203549,
+      0.4200390635186086,
+      0.17201732495328373,
+      0.17201732495328373,
+      0.17201732495328373,
+      0.545088136181534
+    ],
+    afterAlteration: [
+      0.4649370063072651,
+      0.3864359384371199,
+      0.15825593895702103,
+      0.15825593895702103,
+      0.15825593895702103,
+      0.5014810852870112
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.04201999786170155
+  },
+  {
+    beforeAlteration: [
+      0.4649370063072651,
+      0.3864359384371199,
+      0.15825593895702103,
+      0.15825593895702103,
+      0.15825593895702103,
+      0.5014810852870112
+    ],
+    afterAlteration: [
+      0.596618907309542,
+      0.2848003107367786,
+      0.18789235448700728,
+      0.18789235448700728,
+      0.18789235448700728,
+      0.4381257399756727
+    ],
+    stimulusName: 'x1_guilt_stimulus_',
+    influence: 0.174150210002234
+  }
+]
+ending emotion received:  [
+  0.596618907309542,
+  0.2848003107367786,
+  0.18789235448700728,
+  0.18789235448700728,
+  0.18789235448700728,
+  0.4381257399756727
+]
+new cycle:  44
+starting emotion received:  [
+  0.596618907309542,
+  0.2848003107367786,
+  0.18789235448700728,
+  0.18789235448700728,
+  0.18789235448700728,
+  0.4381257399756727
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.596618907309542,
+      0.2848003107367786,
+      0.18789235448700728,
+      0.18789235448700728,
+      0.18789235448700728,
+      0.4381257399756727
+    ],
+    afterAlteration: [
+      0.5488893947247787,
+      0.2620162858778363,
+      0.1728609661280467,
+      0.1728609661280467,
+      0.1728609661280467,
+      0.4030756807776189
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.03796096582357217
+  },
+  {
+    beforeAlteration: [
+      0.5488893947247787,
+      0.2620162858778363,
+      0.1728609661280467,
+      0.1728609661280467,
+      0.1728609661280467,
+      0.4030756807776189
+    ],
+    afterAlteration: [
+      0.9999934770858765,
+      0.0000030190673551144798,
+      0.1728609661280467,
+      0.1728609661280467,
+      0.1728609661280467,
+      0.4030756807776189
+    ],
+    stimulusName: 'x2_guilt_stimulus_',
+    influence: 0.3788747266227008
+  },
+  {
+    beforeAlteration: [
+      0.9999934770858765,
+      0.0000030190673551144798,
+      0.1728609661280467,
+      0.1728609661280467,
+      0.1728609661280467,
+      0.4030756807776189
+    ],
+    afterAlteration: [
+      0.9649907851429314,
+      0.020384528134540336,
+      0.19143702098277998,
+      0.19143702098277998,
+      0.19143702098277998,
+      0.38016052292146313
+    ],
+    stimulusName: 'x1_guilt_stimulus_',
+    influence: 0.0661435979108779
+  }
+]
+short term objects received:  [
+  { stimulusName: 'x2_guilt_stimulus_', influence: 0.3788747266227008 }
+]
+ending emotion received:  [
+  0.9649907851429314,
+  0.020384528134540336,
+  0.19143702098277998,
+  0.19143702098277998,
+  0.19143702098277998,
+  0.38016052292146313
+]
+new cycle:  45
+starting emotion received:  [
+  0.9649907851429314,
+  0.020384528134540336,
+  0.19143702098277998,
+  0.19143702098277998,
+  0.19143702098277998,
+  0.38016052292146313
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.9649907851429314,
+      0.020384528134540336,
+      0.19143702098277998,
+      0.19143702098277998,
+      0.19143702098277998,
+      0.38016052292146313
+    ],
+    afterAlteration: [
+      0.8877915223314968,
+      0.01875376588377711,
+      0.17612205930415759,
+      0.17612205930415759,
+      0.17612205930415759,
+      0.34974768108774607
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.044036935108436766
+  }
+]
+short term objects received:  [
+  { stimulusName: 'x2_guilt_stimulus_', influence: 0.3788747266227008 }
+]
+ending emotion received:  [
+  0.8877915223314968,
+  0.01875376588377711,
+  0.17612205930415759,
+  0.17612205930415759,
+  0.17612205930415759,
+  0.34974768108774607
+]
+new cycle:  46
+starting emotion received:  [
+  0.8877915223314968,
+  0.01875376588377711,
+  0.17612205930415759,
+  0.17612205930415759,
+  0.17612205930415759,
+  0.34974768108774607
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.8877915223314968,
+      0.01875376588377711,
+      0.17612205930415759,
+      0.17612205930415759,
+      0.17612205930415759,
+      0.34974768108774607
+    ],
+    afterAlteration: [
+      0.816768200544977,
+      0.01725346461307494,
+      0.16203229455982499,
+      0.16203229455982499,
+      0.16203229455982499,
+      0.32176786660072637
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.04835076467862477
+  }
+]
+short term objects received:  [
+  { stimulusName: 'x2_guilt_stimulus_', influence: 0.3788747266227008 }
+]
+ending emotion received:  [
+  0.816768200544977,
+  0.01725346461307494,
+  0.16203229455982499,
+  0.16203229455982499,
+  0.16203229455982499,
+  0.32176786660072637
+]
+new cycle:  47
+starting emotion received:  [
+  0.816768200544977,
+  0.01725346461307494,
+  0.16203229455982499,
+  0.16203229455982499,
+  0.16203229455982499,
+  0.32176786660072637
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.816768200544977,
+      0.01725346461307494,
+      0.16203229455982499,
+      0.16203229455982499,
+      0.16203229455982499,
+      0.32176786660072637
+    ],
+    afterAlteration: [
+      0.7514267445013788,
+      0.015873187444028946,
+      0.149069710995039,
+      0.149069710995039,
+      0.149069710995039,
+      0.29602643727266825
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.044482703504334795
+  }
+]
+short term objects received:  [
+  { stimulusName: 'x2_guilt_stimulus_', influence: 0.3788747266227008 }
+]
+ending emotion received:  [
+  0.7514267445013788,
+  0.015873187444028946,
+  0.149069710995039,
+  0.149069710995039,
+  0.149069710995039,
+  0.29602643727266825
+]
+new cycle:  48
+starting emotion received:  [
+  0.7514267445013788,
+  0.015873187444028946,
+  0.149069710995039,
+  0.149069710995039,
+  0.149069710995039,
+  0.29602643727266825
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.7514267445013788,
+      0.015873187444028946,
+      0.149069710995039,
+      0.149069710995039,
+      0.149069710995039,
+      0.29602643727266825
+    ],
+    afterAlteration: [
+      0.6913126049412684,
+      0.01460333244850663,
+      0.13714413411543586,
+      0.13714413411543586,
+      0.13714413411543586,
+      0.2723443222908548
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.04092408722398801
+  },
+  {
+    beforeAlteration: [
+      0.6913126049412684,
+      0.01460333244850663,
+      0.13714413411543586,
+      0.13714413411543586,
+      0.13714413411543586,
+      0.2723443222908548
+    ],
+    afterAlteration: [
+      0.8456530410135725,
+      0.007303175757930872,
+      0.15500255012174127,
+      0.15500255012174127,
+      0.15500255012174127,
+      0.33771000153423686
+    ],
+    stimulusName: 'x2_guilt_stimulus_',
+    influence: 0.2389774947472543
+  },
+  {
+    beforeAlteration: [
+      0.8456530410135725,
+      0.007303175757930872,
+      0.15500255012174127,
+      0.15500255012174127,
+      0.15500255012174127,
+      0.33771000153423686
+    ],
+    afterAlteration: [
+      0.8970998530376738,
+      0.00486979019440562,
+      0.1609553554571764,
+      0.1609553554571764,
+      0.1609553554571764,
+      0.3594985612820309
+    ],
+    stimulusName: 'x2_guilt_stimulus_',
+    influence: 0.0660535085812052
+  }
+]
+ending emotion received:  [
+  0.8970998530376738,
+  0.00486979019440562,
+  0.1609553554571764,
+  0.1609553554571764,
+  0.1609553554571764,
+  0.3594985612820309
+]
+new cycle:  49
+starting emotion received:  [
+  0.8970998530376738,
+  0.00486979019440562,
+  0.1609553554571764,
+  0.1609553554571764,
+  0.1609553554571764,
+  0.3594985612820309
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.8970998530376738,
+      0.00486979019440562,
+      0.1609553554571764,
+      0.1609553554571764,
+      0.1609553554571764,
+      0.3594985612820309
+    ],
+    afterAlteration: [
+      0.8253318647946599,
+      0.00448020697885317,
+      0.1480789270206023,
+      0.1480789270206023,
+      0.1480789270206023,
+      0.3307386763794684
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.04292208089126942
+  },
+  {
+    beforeAlteration: [
+      0.8253318647946599,
+      0.00448020697885317,
+      0.1480789270206023,
+      0.1480789270206023,
+      0.1480789270206023,
+      0.3307386763794684
+    ],
+    afterAlteration: [
+      0.868997267867464,
+      0.0033609100009786563,
+      0.1542744367974634,
+      0.1542744367974634,
+      0.1542744367974634,
+      0.348822927479006
+    ],
+    stimulusName: 'x2_guilt_stimulus_',
+    influence: 0.030596675361800593
+  }
+]
+ending emotion received:  [
+  0.868997267867464,
+  0.0033609100009786563,
+  0.1542744367974634,
+  0.1542744367974634,
+  0.1542744367974634,
+  0.348822927479006
+]
+new cycle:  50
+starting emotion received:  [
+  0.868997267867464,
+  0.0033609100009786563,
+  0.1542744367974634,
+  0.1542744367974634,
+  0.1542744367974634,
+  0.348822927479006
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.868997267867464,
+      0.0033609100009786563,
+      0.1542744367974634,
+      0.1542744367974634,
+      0.1542744367974634,
+      0.348822927479006
+    ],
+    afterAlteration: [
+      0.7994774864380669,
+      0.003092037200900364,
+      0.1419324818536663,
+      0.1419324818536663,
+      0.1419324818536663,
+      0.3209170932806855
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.04588547759441387
+  },
+  {
+    beforeAlteration: [
+      0.7994774864380669,
+      0.003092037200900364,
+      0.1419324818536663,
+      0.1419324818536663,
+      0.1419324818536663,
+      0.3209170932806855
+    ],
+    afterAlteration: [
+      0.8395806845676288,
+      0.002474233574191314,
+      0.14811817870854238,
+      0.14811817870854238,
+      0.14811817870854238,
+      0.3373488107800722
+    ],
+    stimulusName: 'x2_guilt_stimulus_',
+    influence: 0.027046994615735502
+  }
+]
+ending emotion received:  [
+  0.8395806845676288,
+  0.002474233574191314,
+  0.14811817870854238,
+  0.14811817870854238,
+  0.14811817870854238,
+  0.3373488107800722
+]
+new cycle:  51
+starting emotion received:  [
+  0.8395806845676288,
+  0.002474233574191314,
+  0.14811817870854238,
+  0.14811817870854238,
+  0.14811817870854238,
+  0.3373488107800722
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.8395806845676288,
+      0.002474233574191314,
+      0.14811817870854238,
+      0.14811817870854238,
+      0.14811817870854238,
+      0.3373488107800722
+    ],
+    afterAlteration: [
+      0.7724142298022185,
+      0.002276294888256009,
+      0.136268724411859,
+      0.136268724411859,
+      0.136268724411859,
+      0.3103609059176664
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.044376193116287876
+  }
+]
+ending emotion received:  [
+  0.7724142298022185,
+  0.002276294888256009,
+  0.136268724411859,
+  0.136268724411859,
+  0.136268724411859,
+  0.3103609059176664
+]
+new cycle:  52
+starting emotion received:  [
+  0.7724142298022185,
+  0.002276294888256009,
+  0.136268724411859,
+  0.136268724411859,
+  0.136268724411859,
+  0.3103609059176664
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.7724142298022185,
+      0.002276294888256009,
+      0.136268724411859,
+      0.136268724411859,
+      0.136268724411859,
+      0.3103609059176664
+    ],
+    afterAlteration: [
+      0.7106210914180411,
+      0.002094191297195528,
+      0.12536722645891027,
+      0.12536722645891027,
+      0.12536722645891027,
+      0.2855320334442531
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.0418624088671664
+  }
+]
+ending emotion received:  [
+  0.7106210914180411,
+  0.002094191297195528,
+  0.12536722645891027,
+  0.12536722645891027,
+  0.12536722645891027,
+  0.2855320334442531
+]
+new cycle:  53
+starting emotion received:  [
+  0.7106210914180411,
+  0.002094191297195528,
+  0.12536722645891027,
+  0.12536722645891027,
+  0.12536722645891027,
+  0.2855320334442531
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.7106210914180411,
+      0.002094191297195528,
+      0.12536722645891027,
+      0.12536722645891027,
+      0.12536722645891027,
+      0.2855320334442531
+    ],
+    afterAlteration: [
+      0.6537714041045978,
+      0.0019266559934198858,
+      0.11533784834219744,
+      0.11533784834219744,
+      0.11533784834219744,
+      0.26268947076871285
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.0385134161577931
+  }
+]
+ending emotion received:  [
+  0.6537714041045978,
+  0.0019266559934198858,
+  0.11533784834219744,
+  0.11533784834219744,
+  0.11533784834219744,
+  0.26268947076871285
+]
+new cycle:  54
+starting emotion received:  [
+  0.6537714041045978,
+  0.0019266559934198858,
+  0.11533784834219744,
+  0.11533784834219744,
+  0.11533784834219744,
+  0.26268947076871285
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.6537714041045978,
+      0.0019266559934198858,
+      0.11533784834219744,
+      0.11533784834219744,
+      0.11533784834219744,
+      0.26268947076871285
+    ],
+    afterAlteration: [
+      0.6014696917762299,
+      0.001772523513946295,
+      0.10611082047482165,
+      0.10611082047482165,
+      0.10611082047482165,
+      0.24167431310721582
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.03543234286516968
+  }
+]
+ending emotion received:  [
+  0.6014696917762299,
+  0.001772523513946295,
+  0.10611082047482165,
+  0.10611082047482165,
+  0.10611082047482165,
+  0.24167431310721582
+]
+new cycle:  55
+Disliked speaker negative stimulus conditioning done for:  y1
+perception change objects received:  [
+  {
+    stimulusName: 'y1',
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [
+      0.42000000000000004,
+      0,
+      0.42000000000000004,
+      0.42000000000000004,
+      0.42000000000000004,
+      0
+    ],
+    influence: 0.39999960000000007
+  }
+]
+starting emotion received:  [
+  0.6014696917762299,
+  0.001772523513946295,
+  0.10611082047482165,
+  0.10611082047482165,
+  0.10611082047482165,
+  0.24167431310721582
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.6014696917762299,
+      0.001772523513946295,
+      0.10611082047482165,
+      0.10611082047482165,
+      0.10611082047482165,
+      0.24167431310721582
+    ],
+    afterAlteration: [
+      0.506306985408775,
+      0.000843012183232858,
+      0.27071430621782516,
+      0.27071430621782516,
+      0.27071430621782516,
+      0.11494030331379185
+    ],
+    stimulusName: 'y1',
+    influence: 0.15739644839462463
+  },
+  {
+    beforeAlteration: [
+      0.506306985408775,
+      0.000843012183232858,
+      0.27071430621782516,
+      0.27071430621782516,
+      0.27071430621782516,
+      0.11494030331379185
+    ],
+    afterAlteration: [
+      0.46580242657607296,
+      0.0007755712085742294,
+      0.24905716172039916,
+      0.24905716172039916,
+      0.24905716172039916,
+      0.1057450790486885
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.03222404442507984
+  }
+]
+short term objects received:  [ { stimulusName: 'y1', influence: 0.15739644839462463 } ]
+ending emotion received:  [
+  0.46580242657607296,
+  0.0007755712085742294,
+  0.24905716172039916,
+  0.24905716172039916,
+  0.24905716172039916,
+  0.1057450790486885
+]
+new cycle:  56
+starting emotion received:  [
+  0.46580242657607296,
+  0.0007755712085742294,
+  0.24905716172039916,
+  0.24905716172039916,
+  0.24905716172039916,
+  0.1057450790486885
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.46580242657607296,
+      0.0007755712085742294,
+      0.24905716172039916,
+      0.24905716172039916,
+      0.24905716172039916,
+      0.1057450790486885
+    ],
+    afterAlteration: [
+      0.45379303032782664,
+      0.0005722164376860664,
+      0.29387837391731053,
+      0.29387837391731053,
+      0.29387837391731053,
+      0.07801871932212237
+    ],
+    stimulusName: 'y1',
+    influence: 0.09969118311862353
+  },
+  {
+    beforeAlteration: [
+      0.45379303032782664,
+      0.0005722164376860664,
+      0.29387837391731053,
+      0.29387837391731053,
+      0.29387837391731053,
+      0.07801871932212237
+    ],
+    afterAlteration: [
+      0.4174895879016005,
+      0.000526439122671181,
+      0.2703681040039257,
+      0.2703681040039257,
+      0.2703681040039257,
+      0.07177722177635258
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.02978989327118665
+  }
+]
+ending emotion received:  [
+  0.4174895879016005,
+  0.000526439122671181,
+  0.2703681040039257,
+  0.2703681040039257,
+  0.2703681040039257,
+  0.07177722177635258
+]
+new cycle:  57
+starting emotion received:  [
+  0.4174895879016005,
+  0.000526439122671181,
+  0.2703681040039257,
+  0.2703681040039257,
+  0.2703681040039257,
+  0.07177722177635258
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.4174895879016005,
+      0.000526439122671181,
+      0.2703681040039257,
+      0.2703681040039257,
+      0.2703681040039257,
+      0.07177722177635258
+    ],
+    afterAlteration: [
+      0.3840904208694725,
+      0.00048432399285748654,
+      0.24873865568361164,
+      0.24873865568361164,
+      0.24873865568361164,
+      0.06603504403424437
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.0279241852204812
+  }
+]
+ending emotion received:  [
+  0.3840904208694725,
+  0.00048432399285748654,
+  0.24873865568361164,
+  0.24873865568361164,
+  0.24873865568361164,
+  0.06603504403424437
+]
+new cycle:  58
+starting emotion received:  [
+  0.3840904208694725,
+  0.00048432399285748654,
+  0.24873865568361164,
+  0.24873865568361164,
+  0.24873865568361164,
+  0.06603504403424437
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.3840904208694725,
+      0.00048432399285748654,
+      0.24873865568361164,
+      0.24873865568361164,
+      0.24873865568361164,
+      0.06603504403424437
+    ],
+    afterAlteration: [
+      0.35336318719991466,
+      0.0004455780734288876,
+      0.2288395632289227,
+      0.2288395632289227,
+      0.2288395632289227,
+      0.060752240511504824
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.02569025040284271
+  }
+]
+ending emotion received:  [
+  0.35336318719991466,
+  0.0004455780734288876,
+  0.2288395632289227,
+  0.2288395632289227,
+  0.2288395632289227,
+  0.060752240511504824
+]
+new cycle:  59
+starting emotion received:  [
+  0.35336318719991466,
+  0.0004455780734288876,
+  0.2288395632289227,
+  0.2288395632289227,
+  0.2288395632289227,
+  0.060752240511504824
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.35336318719991466,
+      0.0004455780734288876,
+      0.2288395632289227,
+      0.2288395632289227,
+      0.2288395632289227,
+      0.060752240511504824
+    ],
+    afterAlteration: [
+      0.3250941322239215,
+      0.0004099318275545766,
+      0.2105323981706089,
+      0.2105323981706089,
+      0.2105323981706089,
+      0.05589206127058444
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.023635030370615297
+  }
+]
+ending emotion received:  [
+  0.3250941322239215,
+  0.0004099318275545766,
+  0.2105323981706089,
+  0.2105323981706089,
+  0.2105323981706089,
+  0.05589206127058444
+]
+new cycle:  60
+Liked speaker negative stimulus conditioning done for:  y2
+perception change objects received:  [
+  {
+    stimulusName: 'y2',
+    beforeAlteration: [ 0, 0, 0, 0, 0, 0 ],
+    afterAlteration: [ 1, 0, 1, 1, 1, 0 ],
+    influence: 0.9523800000000001
+  }
+]
+starting emotion received:  [
+  0.3250941322239215,
+  0.0004099318275545766,
+  0.2105323981706089,
+  0.2105323981706089,
+  0.2105323981706089,
+  0.05589206127058444
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.3250941322239215,
+      0.0004099318275545766,
+      0.2105323981706089,
+      0.2105323981706089,
+      0.2105323981706089,
+      0.05589206127058444
+    ],
+    afterAlteration: [ 1, 0, 1, 1, 1, 0 ],
+    stimulusName: 'y2',
+    influence: 0.7463802572367575
+  },
+  {
+    beforeAlteration: [ 1, 0, 1, 1, 1, 0 ],
+    afterAlteration: [
+      0.9199999999999999,
+      0,
+      0.9199999999999999,
+      0.9199999999999999,
+      0.9199999999999999,
+      0
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.0494203187192532
+  }
+]
+short term objects received:  [ { stimulusName: 'y2', influence: 0.7463802572367575 } ]
+ending emotion received:  [
+  0.9199999999999999,
+  0,
+  0.9199999999999999,
+  0.9199999999999999,
+  0.9199999999999999,
+  0
+]
+new cycle:  61
+starting emotion received:  [
+  0.9199999999999999,
+  0,
+  0.9199999999999999,
+  0.9199999999999999,
+  0.9199999999999999,
+  0
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.9199999999999999,
+      0,
+      0.9199999999999999,
+      0.9199999999999999,
+      0.9199999999999999,
+      0
+    ],
+    afterAlteration: [ 0.96, 0, 0.96, 0.96, 0.96, 0 ],
+    stimulusName: 'y2',
+    influence: 0.39223772861837874
+  },
+  {
+    beforeAlteration: [ 0.96, 0, 0.96, 0.96, 0.96, 0 ],
+    afterAlteration: [ 0.8832, 0, 0.8832, 0.8832, 0.8832, 0 ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.07466659200000003
+  }
+]
+short term objects received:  [ { stimulusName: 'y2', influence: 0.39223772861837874 } ]
+ending emotion received:  [ 0.8832, 0, 0.8832, 0.8832, 0.8832, 0 ]
+new cycle:  62
+Negative mood posture request is being sent.
+Negative mood decision making for the disliked speaker
+decision made:  {
+  action: 'chooseOption_',
+  options: [ 'x1', 'y1', 'z1' ],
+  choice: 'z1'
+}
+starting emotion received:  [ 0.8832, 0, 0.8832, 0.8832, 0.8832, 0 ]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [ 0.8832, 0, 0.8832, 0.8832, 0.8832, 0 ],
+    afterAlteration: [
+      0.5706576,
+      0.07341600000000002,
+      0.5706576,
+      0.5706576,
+      0.5706576,
+      0.07341600000000002
+    ],
+    stimulusName: 'z1_anticipated_stimulus_',
+    influence: 0.30115512741600003
+  },
+  {
+    beforeAlteration: [
+      0.5706576,
+      0.07341600000000002,
+      0.5706576,
+      0.5706576,
+      0.5706576,
+      0.07341600000000002
+    ],
+    afterAlteration: [
+      0.7137717333333333,
+      0.048944000000000015,
+      0.7137717333333333,
+      0.7137717333333333,
+      0.7137717333333333,
+      0.048944000000000015
+    ],
+    stimulusName: 'y2',
+    influence: 0.08777978523600002
+  },
+  {
+    beforeAlteration: [
+      0.7137717333333333,
+      0.048944000000000015,
+      0.7137717333333333,
+      0.7137717333333333,
+      0.7137717333333333,
+      0.048944000000000015
+    ],
+    afterAlteration: [
+      0.6566699946666666,
+      0.04502848000000001,
+      0.6566699946666666,
+      0.6566699946666666,
+      0.6566699946666666,
+      0.04502848000000001
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.06385589550912
+  }
+]
+short term objects received:  [ { stimulusName: 'y2', influence: 0.08777978523600002 } ]
+ending emotion received:  [
+  0.6566699946666666,
+  0.04502848000000001,
+  0.6566699946666666,
+  0.6566699946666666,
+  0.6566699946666666,
+  0.04502848000000001
+]
+new cycle:  63
+posture response received:  { startingPose: '2', endingPose: '2' }
+starting emotion received:  [
+  0.6566699946666666,
+  0.04502848000000001,
+  0.6566699946666666,
+  0.6566699946666666,
+  0.6566699946666666,
+  0.04502848000000001
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.6566699946666666,
+      0.04502848000000001,
+      0.6566699946666666,
+      0.6566699946666666,
+      0.6566699946666666,
+      0.04502848000000001
+    ],
+    afterAlteration: [
+      0.6569333246719999,
+      0.04498345152000001,
+      0.6569333246719999,
+      0.6569333246719999,
+      0.6569333246719999,
+      0.04498345152000001
+    ],
+    stimulusName: 'pose_stimulus_2',
+    influence: 0.00025293444166844397
+  },
+  {
+    beforeAlteration: [
+      0.6569333246719999,
+      0.04498345152000001,
+      0.6569333246719999,
+      0.6569333246719999,
+      0.6569333246719999,
+      0.04498345152000001
+    ],
+    afterAlteration: [
+      0.742699993504,
+      0.03373758864000001,
+      0.742699993504,
+      0.742699993504,
+      0.742699993504,
+      0.03373758864000001
+    ],
+    stimulusName: 'y2',
+    influence: 0.10984117363935146
+  },
+  {
+    beforeAlteration: [
+      0.742699993504,
+      0.03373758864000001,
+      0.742699993504,
+      0.742699993504,
+      0.742699993504,
+      0.03373758864000001
+    ],
+    afterAlteration: [
+      0.6832839940236799,
+      0.031038581548800008,
+      0.6832839940236799,
+      0.6832839940236799,
+      0.6832839940236799,
+      0.031038581548800008
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.05564207031099155
+  }
+]
+short term objects received:  [
+  {
+    stimulusName: 'pose_stimulus_2',
+    influence: 0.00025293444166844397
+  }
+]
+ending emotion received:  [
+  0.6832839940236799,
+  0.031038581548800008,
+  0.6832839940236799,
+  0.6832839940236799,
+  0.6832839940236799,
+  0.031038581548800008
+]
+new cycle:  64
+starting emotion received:  [
+  0.6832839940236799,
+  0.031038581548800008,
+  0.6832839940236799,
+  0.6832839940236799,
+  0.6832839940236799,
+  0.031038581548800008
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.6832839940236799,
+      0.031038581548800008,
+      0.6832839940236799,
+      0.6832839940236799,
+      0.6832839940236799,
+      0.031038581548800008
+    ],
+    afterAlteration: [
+      0.6834023520266681,
+      0.03102306225802561,
+      0.6834023520266681,
+      0.6834023520266681,
+      0.6834023520266681,
+      0.03102306225802561
+    ],
+    stimulusName: 'pose_stimulus_2',
+    influence: 0.0001831976248308688
+  },
+  {
+    beforeAlteration: [
+      0.6834023520266681,
+      0.03102306225802561,
+      0.6834023520266681,
+      0.6834023520266681,
+      0.6834023520266681,
+      0.03102306225802561
+    ],
+    afterAlteration: [
+      0.6287301638645346,
+      0.028541217277383558,
+      0.6287301638645346,
+      0.6287301638645346,
+      0.6287301638645346,
+      0.028541217277383558
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.054451007570864476
+  }
+]
+ending emotion received:  [
+  0.6287301638645346,
+  0.028541217277383558,
+  0.6287301638645346,
+  0.6287301638645346,
+  0.6287301638645346,
+  0.028541217277383558
+]
+new cycle:  65
+Negative mood decision making for the liked speaker
+decision made:  {
+  action: 'chooseOption_',
+  options: [ 'x2', 'y2', 'z2' ],
+  choice: 'z2'
+}
+starting emotion received:  [
+  0.6287301638645346,
+  0.028541217277383558,
+  0.6287301638645346,
+  0.6287301638645346,
+  0.6287301638645346,
+  0.028541217277383558
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.6287301638645346,
+      0.028541217277383558,
+      0.6287301638645346,
+      0.6287301638645346,
+      0.6287301638645346,
+      0.028541217277383558
+    ],
+    afterAlteration: [
+      0.5143650819322674,
+      0.2142706086386918,
+      0.5143650819322674,
+      0.5143650819322674,
+      0.5143650819322674,
+      0.2142706086386918
+    ],
+    stimulusName: 'z2_anticipated_stimulus_',
+    influence: 0.16873772037840934
+  },
+  {
+    beforeAlteration: [
+      0.5143650819322674,
+      0.2142706086386918,
+      0.5143650819322674,
+      0.5143650819322674,
+      0.5143650819322674,
+      0.2142706086386918
+    ],
+    afterAlteration: [
+      0.473215875377686,
+      0.19712895994759644,
+      0.473215875377686,
+      0.473215875377686,
+      0.473215875377686,
+      0.19712895994759644
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.04609641552272968
+  }
+]
+short term objects received:  [
+  {
+    stimulusName: 'z2_anticipated_stimulus_',
+    influence: 0.16873772037840934
+  }
+]
+ending emotion received:  [
+  0.473215875377686,
+  0.19712895994759644,
+  0.473215875377686,
+  0.473215875377686,
+  0.473215875377686,
+  0.19712895994759644
+]
+new cycle:  66
+starting emotion received:  [
+  0.473215875377686,
+  0.19712895994759644,
+  0.473215875377686,
+  0.473215875377686,
+  0.473215875377686,
+  0.19712895994759644
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.473215875377686,
+      0.19712895994759644,
+      0.473215875377686,
+      0.473215875377686,
+      0.473215875377686,
+      0.19712895994759644
+    ],
+    afterAlteration: [
+      0.4549119065332645,
+      0.24784671996069735,
+      0.4549119065332645,
+      0.4549119065332645,
+      0.4549119065332645,
+      0.24784671996069735
+    ],
+    stimulusName: 'z2_anticipated_stimulus_',
+    influence: 0.10586893403272175
+  },
+  {
+    beforeAlteration: [
+      0.4549119065332645,
+      0.24784671996069735,
+      0.4549119065332645,
+      0.4549119065332645,
+      0.4549119065332645,
+      0.24784671996069735
+    ],
+    afterAlteration: [
+      0.41851895401060335,
+      0.22801898236384155,
+      0.41851895401060335,
+      0.41851895401060335,
+      0.41851895401060335,
+      0.22801898236384155
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.03780502333381511
+  }
+]
+short term objects received:  [
+  {
+    stimulusName: 'z2_anticipated_stimulus_',
+    influence: 0.10586893403272175
+  }
+]
+ending emotion received:  [
+  0.41851895401060335,
+  0.22801898236384155,
+  0.41851895401060335,
+  0.41851895401060335,
+  0.41851895401060335,
+  0.22801898236384155
+]
+new cycle:  67
+starting emotion received:  [
+  0.41851895401060335,
+  0.22801898236384155,
+  0.41851895401060335,
+  0.41851895401060335,
+  0.41851895401060335,
+  0.22801898236384155
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.41851895401060335,
+      0.22801898236384155,
+      0.41851895401060335,
+      0.41851895401060335,
+      0.41851895401060335,
+      0.22801898236384155
+    ],
+    afterAlteration: [
+      0.4154324616755028,
+      0.2566824853032013,
+      0.4154324616755028,
+      0.4154324616755028,
+      0.4154324616755028,
+      0.2566824853032013
+    ],
+    stimulusName: 'z2_anticipated_stimulus_',
+    influence: 0.032786931811534956
+  },
+  {
+    beforeAlteration: [
+      0.4154324616755028,
+      0.2566824853032013,
+      0.4154324616755028,
+      0.4154324616755028,
+      0.4154324616755028,
+      0.2566824853032013
+    ],
+    afterAlteration: [
+      0.38219786474146256,
+      0.2361478864789452,
+      0.38219786474146256,
+      0.38219786474146256,
+      0.38219786474146256,
+      0.2361478864789452
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.034116949824805114
+  }
+]
+ending emotion received:  [
+  0.38219786474146256,
+  0.2361478864789452,
+  0.38219786474146256,
+  0.38219786474146256,
+  0.38219786474146256,
+  0.2361478864789452
+]
+new cycle:  68
+starting emotion received:  [
+  0.38219786474146256,
+  0.2361478864789452,
+  0.38219786474146256,
+  0.38219786474146256,
+  0.38219786474146256,
+  0.2361478864789452
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.38219786474146256,
+      0.2361478864789452,
+      0.38219786474146256,
+      0.38219786474146256,
+      0.38219786474146256,
+      0.2361478864789452
+    ],
+    afterAlteration: [
+      0.35162203556214555,
+      0.21725605556062957,
+      0.35162203556214555,
+      0.35162203556214555,
+      0.35162203556214555,
+      0.21725605556062957
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.03132461038987535
+  }
+]
+ending emotion received:  [
+  0.35162203556214555,
+  0.21725605556062957,
+  0.35162203556214555,
+  0.35162203556214555,
+  0.35162203556214555,
+  0.21725605556062957
+]
+new cycle:  69
+starting emotion received:  [
+  0.35162203556214555,
+  0.21725605556062957,
+  0.35162203556214555,
+  0.35162203556214555,
+  0.35162203556214555,
+  0.21725605556062957
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.35162203556214555,
+      0.21725605556062957,
+      0.35162203556214555,
+      0.35162203556214555,
+      0.35162203556214555,
+      0.21725605556062957
+    ],
+    afterAlteration: [
+      0.3234922727171739,
+      0.1998755711157792,
+      0.3234922727171739,
+      0.3234922727171739,
+      0.3234922727171739,
+      0.1998755711157792
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.02881864155868532
+  }
+]
+ending emotion received:  [
+  0.3234922727171739,
+  0.1998755711157792,
+  0.3234922727171739,
+  0.3234922727171739,
+  0.3234922727171739,
+  0.1998755711157792
+]
+new cycle:  70
+starting emotion received:  [
+  0.3234922727171739,
+  0.1998755711157792,
+  0.3234922727171739,
+  0.3234922727171739,
+  0.3234922727171739,
+  0.1998755711157792
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.3234922727171739,
+      0.1998755711157792,
+      0.3234922727171739,
+      0.3234922727171739,
+      0.3234922727171739,
+      0.1998755711157792
+    ],
+    afterAlteration: [
+      0.2976128908998,
+      0.18388552542651684,
+      0.2976128908998,
+      0.2976128908998,
+      0.2976128908998,
+      0.18388552542651684
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.0265131502339905
+  }
+]
+ending emotion received:  [
+  0.2976128908998,
+  0.18388552542651684,
+  0.2976128908998,
+  0.2976128908998,
+  0.2976128908998,
+  0.18388552542651684
+]
+new cycle:  71
+starting emotion received:  [
+  0.2976128908998,
+  0.18388552542651684,
+  0.2976128908998,
+  0.2976128908998,
+  0.2976128908998,
+  0.18388552542651684
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.2976128908998,
+      0.18388552542651684,
+      0.2976128908998,
+      0.2976128908998,
+      0.2976128908998,
+      0.18388552542651684
+    ],
+    afterAlteration: [
+      0.27380385962781595,
+      0.1691746833923955,
+      0.27380385962781595,
+      0.27380385962781595,
+      0.27380385962781595,
+      0.1691746833923955
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.024392098215271267
+  }
+]
+ending emotion received:  [
+  0.27380385962781595,
+  0.1691746833923955,
+  0.27380385962781595,
+  0.27380385962781595,
+  0.27380385962781595,
+  0.1691746833923955
+]
+new cycle:  72
+starting emotion received:  [
+  0.27380385962781595,
+  0.1691746833923955,
+  0.27380385962781595,
+  0.27380385962781595,
+  0.27380385962781595,
+  0.1691746833923955
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.27380385962781595,
+      0.1691746833923955,
+      0.27380385962781595,
+      0.27380385962781595,
+      0.27380385962781595,
+      0.1691746833923955
+    ],
+    afterAlteration: [
+      0.2518995508575907,
+      0.15564070872100386,
+      0.2518995508575907,
+      0.2518995508575907,
+      0.2518995508575907,
+      0.15564070872100386
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.02244073035804955
+  }
+]
+ending emotion received:  [
+  0.2518995508575907,
+  0.15564070872100386,
+  0.2518995508575907,
+  0.2518995508575907,
+  0.2518995508575907,
+  0.15564070872100386
+]
+new cycle:  73
+starting emotion received:  [
+  0.2518995508575907,
+  0.15564070872100386,
+  0.2518995508575907,
+  0.2518995508575907,
+  0.2518995508575907,
+  0.15564070872100386
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.2518995508575907,
+      0.15564070872100386,
+      0.2518995508575907,
+      0.2518995508575907,
+      0.2518995508575907,
+      0.15564070872100386
+    ],
+    afterAlteration: [
+      0.23174758678898344,
+      0.14318945202332356,
+      0.23174758678898344,
+      0.23174758678898344,
+      0.23174758678898344,
+      0.14318945202332356
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.020645471929405572
+  }
+]
+ending emotion received:  [
+  0.23174758678898344,
+  0.14318945202332356,
+  0.23174758678898344,
+  0.23174758678898344,
+  0.23174758678898344,
+  0.14318945202332356
+]
+new cycle:  74
+starting emotion received:  [
+  0.23174758678898344,
+  0.14318945202332356,
+  0.23174758678898344,
+  0.23174758678898344,
+  0.23174758678898344,
+  0.14318945202332356
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.23174758678898344,
+      0.14318945202332356,
+      0.23174758678898344,
+      0.23174758678898344,
+      0.23174758678898344,
+      0.14318945202332356
+    ],
+    afterAlteration: [
+      0.21320777984586475,
+      0.13173429586145768,
+      0.21320777984586475,
+      0.21320777984586475,
+      0.21320777984586475,
+      0.13173429586145768
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.01899383417505314
+  }
+]
+ending emotion received:  [
+  0.21320777984586475,
+  0.13173429586145768,
+  0.21320777984586475,
+  0.21320777984586475,
+  0.21320777984586475,
+  0.13173429586145768
+]
+new cycle:  75
+Testing ended. Cycles completed:  75
+Exiting RIO.
+Saved output file.
+starting emotion received:  [
+  0.21320777984586475,
+  0.13173429586145768,
+  0.21320777984586475,
+  0.21320777984586475,
+  0.21320777984586475,
+  0.13173429586145768
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.21320777984586475,
+      0.13173429586145768,
+      0.21320777984586475,
+      0.21320777984586475,
+      0.21320777984586475,
+      0.13173429586145768
+    ],
+    afterAlteration: [
+      0.19615115745819556,
+      0.12119555219254106,
+      0.19615115745819556,
+      0.19615115745819556,
+      0.19615115745819556,
+      0.12119555219254106
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.0174743274410489
+  }
+]
+ending emotion received:  [
+  0.19615115745819556,
+  0.12119555219254106,
+  0.19615115745819556,
+  0.19615115745819556,
+  0.19615115745819556,
+  0.12119555219254106
+]
+new cycle:  76
+starting emotion received:  [
+  0.19615115745819556,
+  0.12119555219254106,
+  0.19615115745819556,
+  0.19615115745819556,
+  0.19615115745819556,
+  0.12119555219254106
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.19615115745819556,
+      0.12119555219254106,
+      0.19615115745819556,
+      0.19615115745819556,
+      0.19615115745819556,
+      0.12119555219254106
+    ],
+    afterAlteration: [
+      0.1804590648615399,
+      0.11149990801713777,
+      0.1804590648615399,
+      0.1804590648615399,
+      0.1804590648615399,
+      0.11149990801713777
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.016076381245764992
+  }
+]
+ending emotion received:  [
+  0.1804590648615399,
+  0.11149990801713777,
+  0.1804590648615399,
+  0.1804590648615399,
+  0.1804590648615399,
+  0.11149990801713777
+]
+new cycle:  77
+starting emotion received:  [
+  0.1804590648615399,
+  0.11149990801713777,
+  0.1804590648615399,
+  0.1804590648615399,
+  0.1804590648615399,
+  0.11149990801713777
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.1804590648615399,
+      0.11149990801713777,
+      0.1804590648615399,
+      0.1804590648615399,
+      0.1804590648615399,
+      0.11149990801713777
+    ],
+    afterAlteration: [
+      0.1660223396726167,
+      0.10257991537576674,
+      0.1660223396726167,
+      0.1660223396726167,
+      0.1660223396726167,
+      0.10257991537576674
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.014790270746103784
+  }
+]
+ending emotion received:  [
+  0.1660223396726167,
+  0.10257991537576674,
+  0.1660223396726167,
+  0.1660223396726167,
+  0.1660223396726167,
+  0.10257991537576674
+]
+new cycle:  78
+starting emotion received:  [
+  0.1660223396726167,
+  0.10257991537576674,
+  0.1660223396726167,
+  0.1660223396726167,
+  0.1660223396726167,
+  0.10257991537576674
+]
+current stimuli influence received:  [
+  {
+    beforeAlteration: [
+      0.1660223396726167,
+      0.10257991537576674,
+      0.1660223396726167,
+      0.1660223396726167,
+      0.1660223396726167,
+      0.10257991537576674
+    ],
+    afterAlteration: [
+      0.15274055249880736,
+      0.09437352214570541,
+      0.15274055249880736,
+      0.15274055249880736,
+      0.15274055249880736,
+      0.09437352214570541
+    ],
+    stimulusName: 'undeterminedStimulus_',
+    influence: 0.013607049086415478
+  }
+]
+ending emotion received:  [
+  0.15274055249880736,
+  0.09437352214570541,
+  0.15274055249880736,
+  0.15274055249880736,
+  0.15274055249880736,
+  0.09437352214570541
+]
+new cycle:  79
+
+D:\newRIO>

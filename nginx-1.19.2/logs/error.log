@@ -1,0 +1,746 @@
+2020/09/27 16:31:41 [error] 7092#3692: *32 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /frontend.html HTTP/1.1", upstream: "http://127.0.0.1:3500/file/frontend.html", host: "localhost:3555"
+2020/09/27 16:31:43 [error] 7092#3692: *32 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:3500/file/favicon.ico", host: "localhost:3555", referrer: "http://localhost:3555/frontend.html"
+2020/09/27 16:31:51 [error] 7092#3692: *32 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/frontend.html HTTP/1.1", upstream: "http://127.0.0.1:3500/file/file/frontend.html", host: "localhost:3555"
+2020/09/27 16:31:52 [error] 7092#3692: *32 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:3500/file/favicon.ico", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2020/09/27 16:32:00 [error] 7092#3692: *32 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/frontend.html HTTP/1.1", upstream: "http://127.0.0.1:3500/file/file/frontend.html", host: "localhost:3555"
+2020/09/27 16:32:01 [error] 7092#3692: *32 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:3500/file/favicon.ico", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2020/09/27 16:33:23 [error] 7092#3692: *41 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /frontend.html HTTP/1.1", upstream: "http://127.0.0.1:3500/file/frontend.html", host: "localhost:3555"
+2020/09/27 16:33:24 [error] 7092#3692: *41 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:3500/file/favicon.ico", host: "localhost:3555", referrer: "http://localhost:3555/frontend.html"
+2020/09/27 16:37:46 [notice] 7276#4152: signal process started
+2020/09/27 16:38:15 [notice] 9844#10352: signal process started
+2020/09/27 16:38:15 [error] 9844#10352: CreateFile() "D:\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/27 17:01:06 [notice] 5520#5404: signal process started
+2020/09/27 17:01:06 [error] 5520#5404: OpenEvent("Global\ngx_quit_9824") failed (2: The system cannot find the file specified)
+2020/09/27 17:01:18 [notice] 4880#6200: signal process started
+2020/09/27 17:01:25 [notice] 9832#1316: signal process started
+2020/09/27 17:01:25 [error] 9832#1316: CreateFile() "D:\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/27 17:01:48 [notice] 4472#7408: signal process started
+2020/09/27 17:01:48 [error] 4472#7408: CreateFile() "D:\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/27 17:02:26 [notice] 3580#9696: signal process started
+2020/09/27 17:02:26 [error] 3580#9696: CreateFile() "D:\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/27 17:04:17 [notice] 2468#7804: signal process started
+2020/09/27 17:05:19 [notice] 10208#3012: signal process started
+2020/09/27 17:05:19 [error] 10208#3012: CreateFile() "D:\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/27 17:09:31 [notice] 9352#8604: signal process started
+2020/09/27 17:09:58 [notice] 7852#9020: signal process started
+2020/09/27 17:10:08 [notice] 11228#11052: signal process started
+2020/09/27 17:11:02 [notice] 10444#4852: signal process started
+2020/09/27 17:13:39 [notice] 8964#7852: signal process started
+2020/09/27 17:14:20 [notice] 7092#2836: signal process started
+2020/09/27 17:14:40 [notice] 1524#3104: signal process started
+2020/09/27 17:14:40 [error] 1524#3104: CreateFile() "D:\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/27 17:15:44 [notice] 10684#6548: signal process started
+2020/09/27 17:15:44 [error] 10684#6548: CreateFile() "D:\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/27 17:16:02 [notice] 8180#8616: signal process started
+2020/09/27 17:16:02 [error] 8180#8616: CreateFile() "D:\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/27 17:16:50 [notice] 11248#10916: signal process started
+2020/09/27 17:16:50 [error] 11248#10916: CreateFile() "D:\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/27 17:17:21 [notice] 9660#9424: signal process started
+2020/09/27 17:18:01 [notice] 4880#8968: signal process started
+2020/09/27 17:18:01 [error] 4880#8968: CreateFile() "D:\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/27 17:19:45 [notice] 5340#10980: signal process started
+2020/09/27 17:20:37 [notice] 7292#4260: signal process started
+2020/09/27 17:20:51 [error] 8928#10912: *24 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/frontend.html HTTP/1.1", upstream: "http://127.0.0.1:3500/file/frontend.html", host: "localhost:3555"
+2020/09/27 17:20:52 [error] 8928#10912: *24 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:3500/favicon.ico", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2020/09/27 17:21:20 [notice] 8544#8820: signal process started
+2020/09/27 17:28:17 [notice] 6364#4256: signal process started
+2020/09/27 18:53:48 [notice] 9008#9868: signal process started
+2020/09/27 19:04:06 [notice] 9060#7284: signal process started
+2020/09/27 19:07:17 [notice] 9368#8312: signal process started
+2020/09/27 19:11:39 [notice] 9872#9472: signal process started
+2020/09/27 19:11:39 [error] 9872#9472: CreateFile() "D:\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/27 19:15:18 [notice] 9064#4328: signal process started
+2020/09/27 19:15:18 [error] 9064#4328: CreateFile() "D:\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/09/27 19:31:28 [notice] 8216#9432: signal process started
+2020/09/27 19:53:41 [notice] 2380#9500: signal process started
+2020/09/27 20:34:45 [notice] 7244#7316: signal process started
+2020/09/27 23:49:00 [alert] 10472#10476: the event "ngx_master_10472" was not signaled for 5s
+2020/09/28 00:02:50 [notice] 1788#2116: signal process started
+2020/10/01 21:19:44 [notice] 1988#6212: signal process started
+2020/10/01 21:20:14 [notice] 5464#7800: signal process started
+2020/10/01 21:21:52 [notice] 3568#4848: signal process started
+2020/10/01 21:29:42 [notice] 4660#4536: signal process started
+2020/10/01 21:29:42 [error] 4660#4536: CreateFile() "D:\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/10/02 10:27:00 [notice] 1600#660: signal process started
+2020/10/02 10:59:33 [notice] 6436#7848: signal process started
+2020/10/02 13:25:42 [notice] 9980#6580: signal process started
+2020/10/02 13:34:44 [notice] 5728#8048: signal process started
+2020/10/02 17:10:11 [notice] 4760#8868: signal process started
+2020/10/02 17:25:17 [notice] 6192#8252: signal process started
+2020/10/02 18:33:07 [notice] 5640#10832: signal process started
+2020/10/02 18:35:39 [notice] 1232#12200: signal process started
+2020/10/02 18:38:24 [notice] 4792#12128: signal process started
+2020/10/02 18:50:30 [notice] 10956#9708: signal process started
+2020/10/02 19:20:06 [notice] 11164#10844: signal process started
+2020/10/02 19:36:33 [notice] 10432#11372: signal process started
+2020/10/02 22:28:51 [notice] 11868#7416: signal process started
+2020/10/02 22:41:10 [notice] 11648#6536: signal process started
+2020/10/02 22:54:58 [notice] 8992#3748: signal process started
+2020/10/02 23:21:06 [notice] 3520#8636: signal process started
+2020/10/02 23:49:52 [notice] 8016#9712: signal process started
+2020/10/04 15:07:45 [notice] 9356#9360: signal process started
+2020/10/04 15:11:22 [notice] 10140#9240: signal process started
+2020/10/04 15:16:45 [notice] 3152#9988: signal process started
+2020/10/04 15:24:37 [notice] 7880#9292: signal process started
+2020/10/04 15:33:15 [notice] 9760#5452: signal process started
+2020/10/04 18:05:01 [notice] 7552#7976: signal process started
+2020/10/04 18:11:01 [notice] 7468#1648: signal process started
+2020/10/04 18:54:50 [notice] 7460#8180: signal process started
+2020/10/04 19:29:08 [notice] 8692#7936: signal process started
+2020/10/04 19:54:52 [notice] 8884#7664: signal process started
+2020/10/04 20:22:21 [notice] 8420#10792: signal process started
+2020/10/04 21:51:09 [notice] 11232#11236: signal process started
+2020/10/04 21:51:41 [notice] 9836#11184: signal process started
+2020/10/04 21:55:46 [notice] 7336#10016: signal process started
+2020/10/04 22:10:21 [notice] 11092#5468: signal process started
+2020/10/04 22:36:30 [notice] 10084#9684: signal process started
+2020/10/04 22:55:00 [notice] 2612#8548: signal process started
+2020/10/04 23:20:56 [notice] 10888#8252: signal process started
+2020/10/04 23:31:47 [notice] 3940#6844: signal process started
+2020/10/04 23:53:27 [notice] 11236#5580: signal process started
+2020/10/05 00:09:22 [notice] 9296#9828: signal process started
+2020/10/05 00:10:56 [notice] 11208#2620: signal process started
+2020/10/05 00:13:19 [notice] 8408#10712: signal process started
+2020/10/05 00:16:32 [notice] 8624#10496: signal process started
+2020/10/05 00:22:35 [notice] 10000#9952: signal process started
+2020/10/10 18:05:58 [notice] 7136#464: signal process started
+2020/10/16 18:53:47 [notice] 8476#8652: signal process started
+2020/10/16 20:31:45 [notice] 8572#7116: signal process started
+2020/10/16 20:40:33 [notice] 6004#4544: signal process started
+2020/10/16 20:43:18 [notice] 5528#9128: signal process started
+2020/10/16 20:47:24 [notice] 6628#5172: signal process started
+2020/10/16 22:15:31 [notice] 7008#8428: signal process started
+2020/10/16 23:03:20 [notice] 9836#9780: signal process started
+2020/10/17 15:22:32 [notice] 2556#6744: signal process started
+2020/10/17 15:29:25 [notice] 4408#8704: signal process started
+2020/10/17 15:43:20 [notice] 5288#8888: signal process started
+2020/10/17 15:50:06 [notice] 2404#3200: signal process started
+2020/10/17 15:52:14 [notice] 8616#5036: signal process started
+2020/10/17 16:01:03 [notice] 5396#10092: signal process started
+2020/10/17 16:02:05 [notice] 4712#5848: signal process started
+2020/10/17 16:03:47 [notice] 1112#7936: signal process started
+2020/10/17 16:07:36 [notice] 1764#6832: signal process started
+2020/10/17 16:17:47 [notice] 3008#8456: signal process started
+2020/10/17 16:20:10 [notice] 4408#1220: signal process started
+2020/10/17 17:04:32 [notice] 184#616: signal process started
+2020/10/17 17:18:15 [notice] 7848#3164: signal process started
+2020/10/17 17:20:50 [notice] 6504#7048: signal process started
+2020/10/17 17:30:14 [notice] 6632#3264: signal process started
+2020/10/17 18:44:56 [notice] 6840#7940: signal process started
+2020/10/17 20:34:19 [notice] 9212#6032: signal process started
+2020/10/17 20:43:58 [notice] 6644#5812: signal process started
+2020/10/17 20:47:54 [notice] 8672#1692: signal process started
+2020/10/17 21:04:21 [notice] 3068#8084: signal process started
+2020/10/17 23:14:26 [notice] 6572#6592: signal process started
+2020/10/17 23:39:19 [notice] 7752#1064: signal process started
+2020/10/17 23:39:19 [error] 7752#1064: CreateFile() "D:\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/10/18 10:43:16 [notice] 5848#3308: signal process started
+2020/10/18 11:46:31 [notice] 1908#8264: signal process started
+2020/10/18 12:06:34 [notice] 3916#7632: signal process started
+2020/10/18 12:32:23 [notice] 8420#9160: signal process started
+2020/10/18 15:11:27 [notice] 7684#5648: signal process started
+2020/10/18 15:21:21 [notice] 6576#852: signal process started
+2020/10/18 17:20:57 [notice] 3640#3564: signal process started
+2020/10/18 19:55:37 [notice] 4788#5956: signal process started
+2020/10/18 20:08:15 [notice] 8540#6388: signal process started
+2020/10/18 20:59:32 [notice] 2444#6064: signal process started
+2020/10/18 22:53:17 [notice] 9012#4860: signal process started
+2020/10/18 23:03:33 [notice] 6344#2180: signal process started
+2020/10/30 22:49:18 [notice] 6832#8184: signal process started
+2020/10/30 22:53:09 [notice] 4796#6632: signal process started
+2020/10/30 23:16:20 [notice] 7824#1888: signal process started
+2020/10/30 23:16:20 [alert] 6800#4544: CloseHandle(00000234) failed (6: The handle is invalid)
+2020/10/31 10:00:22 [notice] 2700#6688: signal process started
+2020/10/31 10:30:09 [notice] 7352#7820: signal process started
+2020/10/31 14:58:41 [notice] 4336#6824: signal process started
+2020/10/31 16:08:17 [notice] 8324#3472: signal process started
+2020/10/31 18:28:46 [notice] 5392#5168: signal process started
+2020/10/31 23:14:52 [notice] 7492#4772: signal process started
+2021/04/03 11:04:40 [notice] 6312#8388: signal process started
+2021/04/11 14:14:10 [notice] 6488#3676: signal process started
+2021/04/11 14:26:12 [notice] 3360#10328: signal process started
+2021/04/11 14:51:05 [notice] 11924#7536: signal process started
+2021/04/11 14:58:27 [notice] 7692#12772: signal process started
+2021/04/11 15:03:45 [notice] 15100#15096: signal process started
+2021/04/11 15:07:27 [notice] 8944#11416: signal process started
+2021/04/11 15:18:32 [notice] 12408#772: signal process started
+2021/04/11 15:25:52 [notice] 11080#12900: signal process started
+2021/04/12 22:50:59 [notice] 16336#3548: signal process started
+2021/04/12 23:10:26 [notice] 10880#5940: signal process started
+2021/04/12 23:12:33 [notice] 15976#10956: signal process started
+2021/04/13 09:24:08 [notice] 8544#10188: signal process started
+2021/04/13 09:31:31 [notice] 7100#15272: signal process started
+2021/04/16 22:13:09 [notice] 13532#11080: signal process started
+2021/04/16 22:53:04 [notice] 17064#14072: signal process started
+2021/04/16 22:54:59 [notice] 11176#11224: signal process started
+2021/04/16 22:59:12 [notice] 8184#12456: signal process started
+2021/04/16 23:01:20 [notice] 17888#8876: signal process started
+2021/04/16 23:11:28 [notice] 16072#3636: signal process started
+2021/04/17 18:30:01 [notice] 12124#18684: signal process started
+2021/04/17 18:35:09 [notice] 5640#14648: signal process started
+2021/04/17 19:15:47 [notice] 9476#9960: signal process started
+2021/04/17 19:22:03 [notice] 14396#12688: signal process started
+2021/04/17 20:11:44 [notice] 2392#17128: signal process started
+2021/04/17 22:42:04 [notice] 2228#9200: signal process started
+2021/04/17 22:52:37 [notice] 9708#8984: signal process started
+2021/04/17 23:03:48 [notice] 5868#6520: signal process started
+2021/04/17 23:08:22 [notice] 12864#8028: signal process started
+2021/04/17 23:14:16 [notice] 1356#12224: signal process started
+2021/04/17 23:16:57 [error] 13372#12864: *46 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/facial_expressions/animatedEyes/neutralEyesGIF.gif HTTP/1.1", upstream: "http://127.0.0.1:5000/file/facial_expressions/animatedEyes/neutralEyesGIF.gif", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/04/17 23:16:57 [error] 13372#12864: *47 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/facial_expressions/animatedNoSpeeches/neutral_notSpeakGIF.gif HTTP/1.1", upstream: "http://127.0.0.1:5000/file/facial_expressions/animatedNoSpeeches/neutral_notSpeakGIF.gif", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/04/17 23:17:08 [notice] 13484#12032: signal process started
+2021/04/17 23:19:15 [error] 8488#14004: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/facial_expressions/animatedEyes/neutralEyesGIF.gif HTTP/1.1", upstream: "http://127.0.0.1:5000/file/facial_expressions/animatedEyes/neutralEyesGIF.gif", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/04/17 23:19:15 [error] 8488#14004: *2 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/facial_expressions/animatedNoSpeeches/neutral_notSpeakGIF.gif HTTP/1.1", upstream: "http://127.0.0.1:5000/file/facial_expressions/animatedNoSpeeches/neutral_notSpeakGIF.gif", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/04/17 23:19:16 [notice] 14936#6580: signal process started
+2021/04/18 09:25:26 [notice] 12928#14600: signal process started
+2021/04/18 10:17:35 [notice] 6328#6640: signal process started
+2021/04/18 11:14:23 [notice] 10984#3816: signal process started
+2021/04/18 11:28:15 [notice] 14824#12784: signal process started
+2021/04/18 11:34:18 [notice] 3696#3584: signal process started
+2021/04/18 11:39:02 [notice] 14484#4376: signal process started
+2021/04/18 11:53:18 [notice] 18164#18160: signal process started
+2021/04/18 12:05:29 [notice] 3604#16392: signal process started
+2021/04/18 23:17:27 [notice] 17164#4256: signal process started
+2021/04/18 23:21:40 [notice] 9828#17188: signal process started
+2021/04/18 23:32:07 [notice] 5848#1440: signal process started
+2021/04/18 23:39:01 [notice] 13248#16204: signal process started
+2021/04/18 23:48:00 [notice] 8800#17020: signal process started
+2021/04/18 23:52:57 [notice] 17796#14980: signal process started
+2021/04/19 23:10:58 [error] 7948#13204: *46 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/facial_expressions/animatedNoSpeeches/neutral_notSpeakGIF.gif HTTP/1.1", upstream: "http://127.0.0.1:5000/file/facial_expressions/animatedNoSpeeches/neutral_notSpeakGIF.gif", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/04/19 23:10:58 [error] 7948#13204: *47 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/facial_expressions/animatedEyes/neutralEyesGIF.gif HTTP/1.1", upstream: "http://127.0.0.1:5000/file/facial_expressions/animatedEyes/neutralEyesGIF.gif", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/04/19 23:19:22 [notice] 12276#12240: signal process started
+2021/04/20 14:51:55 [notice] 13408#18384: signal process started
+2021/04/20 15:01:29 [notice] 6584#1972: signal process started
+2021/04/20 15:24:28 [notice] 15404#12308: signal process started
+2021/04/20 16:03:15 [notice] 11968#1448: signal process started
+2021/04/20 16:04:45 [notice] 13640#2436: signal process started
+2021/04/20 16:04:45 [error] 13640#2436: CreateFile() "D:\RIO\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/04/20 16:06:14 [notice] 14916#17064: signal process started
+2021/04/20 16:46:05 [notice] 8296#8604: signal process started
+2021/04/20 16:50:32 [notice] 9532#15660: signal process started
+2021/04/20 17:15:42 [notice] 12432#13148: signal process started
+2021/04/20 17:36:39 [notice] 15176#17664: signal process started
+2021/04/20 17:38:41 [notice] 452#15612: signal process started
+2021/04/20 19:14:56 [notice] 16352#7864: signal process started
+2021/04/20 19:20:54 [notice] 4256#7760: signal process started
+2021/04/20 20:29:18 [notice] 10864#11684: signal process started
+2021/04/20 20:38:26 [notice] 14632#13944: signal process started
+2021/04/20 20:43:05 [notice] 13040#18348: signal process started
+2021/04/20 20:53:46 [notice] 1052#14384: signal process started
+2021/04/20 21:07:49 [error] 13900#13432: *22 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /file/tensorflow/tf.min.js.map HTTP/1.1", upstream: "http://127.0.0.1:5000/file/tensorflow/tf.min.js.map", host: "localhost:3555"
+2021/04/20 21:07:49 [error] 13900#13432: *2 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /file/tensorflow/speech-commandsLibrary/speech-commands.min.js.map HTTP/1.1", upstream: "http://127.0.0.1:5000/file/tensorflow/speech-commandsLibrary/speech-commands.min.js.map", host: "localhost:3555"
+2021/04/20 21:07:49 [error] 13900#13432: *1 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /file/node_modules/pitch-analyser/dist/pitch-analyser.var.js.map HTTP/1.1", upstream: "http://127.0.0.1:5000/file/node_modules/pitch-analyser/dist/pitch-analyser.var.js.map", host: "localhost:3555"
+2021/04/20 21:07:49 [error] 13900#13432: *19 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /file/tensorflow/face_api/dist/face-api.js.map HTTP/1.1", upstream: "http://127.0.0.1:5000/file/tensorflow/face_api/dist/face-api.js.map", host: "localhost:3555"
+2021/04/20 21:07:55 [error] 13900#13432: *20 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /file/emotionalObjects/learnt_modules/labeledImages/names.json HTTP/1.1", upstream: "http://127.0.0.1:5000/file/emotionalObjects/learnt_modules/labeledImages/names.json", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/04/20 21:08:19 [notice] 2344#14660: signal process started
+2021/04/23 14:17:23 [notice] 15972#13540: signal process started
+2021/04/23 14:21:08 [notice] 12548#13884: signal process started
+2021/04/23 14:27:35 [notice] 13232#7204: signal process started
+2021/04/23 14:41:59 [notice] 3924#8268: signal process started
+2021/04/23 18:53:35 [notice] 16048#5996: signal process started
+2021/04/23 18:57:48 [notice] 16892#3716: signal process started
+2021/04/23 18:59:46 [notice] 6276#11912: signal process started
+2021/04/23 19:04:14 [notice] 14872#11816: signal process started
+2021/04/23 19:18:19 [notice] 2764#18244: signal process started
+2021/04/23 19:42:07 [notice] 7900#2840: signal process started
+2021/04/23 19:49:39 [notice] 14212#11388: signal process started
+2021/04/24 11:18:47 [error] 16092#16156: *17 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "POST /output HTTP/1.1", upstream: "http://127.0.0.1:5000/output", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/04/24 11:18:47 [error] 16092#16156: *16 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "POST /faceTrackerVideo HTTP/1.1", upstream: "http://127.0.0.1:5000/faceTrackerVideo", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/04/24 11:18:47 [error] 16092#16156: *15 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "POST /input HTTP/1.1", upstream: "http://127.0.0.1:5000/input", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/04/24 11:18:47 [error] 16092#16156: *1 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "POST /faceTrackerVideo HTTP/1.1", upstream: "http://127.0.0.1:5000/faceTrackerVideo", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/04/24 11:18:48 [error] 16092#16156: *2 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "POST /faceTrackerVideo HTTP/1.1", upstream: "http://127.0.0.1:5000/faceTrackerVideo", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/04/24 11:18:48 [error] 16092#16156: *18 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "POST /faceTrackerVideo HTTP/1.1", upstream: "http://127.0.0.1:5000/faceTrackerVideo", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/04/24 11:19:01 [notice] 13508#12756: signal process started
+2021/04/24 11:34:02 [notice] 8776#10652: signal process started
+2021/04/24 11:47:43 [notice] 15024#2492: signal process started
+2021/04/24 12:03:55 [notice] 2536#15132: signal process started
+2021/04/24 12:11:01 [notice] 4948#13044: signal process started
+2021/04/24 12:12:59 [notice] 15072#14220: signal process started
+2021/04/24 12:42:33 [notice] 9024#8380: signal process started
+2021/04/24 13:19:10 [notice] 13520#8508: signal process started
+2021/04/24 13:23:58 [notice] 14760#15396: signal process started
+2021/04/24 13:26:04 [notice] 15988#11360: signal process started
+2021/04/24 13:35:15 [notice] 6516#16412: signal process started
+2021/04/24 16:31:42 [notice] 4372#15008: signal process started
+2021/04/24 16:35:18 [notice] 13308#13416: signal process started
+2021/04/24 16:40:18 [notice] 4860#7232: signal process started
+2021/04/24 16:47:39 [notice] 16404#5204: signal process started
+2021/04/24 16:52:15 [notice] 10392#6288: signal process started
+2021/04/24 17:00:41 [notice] 872#10428: signal process started
+2021/04/24 17:06:52 [notice] 7948#13956: signal process started
+2021/04/24 19:20:05 [notice] 16424#15368: signal process started
+2021/04/24 19:23:26 [notice] 2328#10164: signal process started
+2021/04/24 19:28:25 [notice] 11516#15948: signal process started
+2021/04/24 19:39:36 [notice] 9096#16644: signal process started
+2021/04/24 19:44:05 [notice] 1796#9904: signal process started
+2021/04/24 19:46:51 [notice] 3424#3608: signal process started
+2021/04/24 20:21:08 [notice] 16988#5324: signal process started
+2021/04/24 20:48:13 [notice] 11696#12856: signal process started
+2021/04/24 20:50:46 [notice] 13624#12960: signal process started
+2021/04/24 20:58:33 [notice] 7408#13992: signal process started
+2021/04/24 22:29:18 [notice] 14176#16912: signal process started
+2021/04/24 22:33:20 [notice] 6392#9760: signal process started
+2021/04/24 22:59:40 [notice] 15040#9272: signal process started
+2021/04/24 23:13:09 [notice] 12900#16804: signal process started
+2021/04/24 23:14:52 [notice] 8336#15620: signal process started
+2021/04/24 23:32:13 [notice] 8872#1724: signal process started
+2021/04/24 23:36:09 [notice] 16264#11000: signal process started
+2021/04/24 23:40:02 [notice] 8196#12884: signal process started
+2021/04/25 15:51:53 [notice] 18204#5676: signal process started
+2021/04/25 15:54:05 [notice] 9408#15404: signal process started
+2021/04/25 16:01:22 [notice] 18416#12988: signal process started
+2021/04/25 16:11:08 [notice] 8960#11672: signal process started
+2021/04/25 17:09:25 [notice] 672#14504: signal process started
+2021/04/25 18:00:49 [notice] 15236#11536: signal process started
+2021/04/25 18:11:56 [notice] 12940#12992: signal process started
+2021/04/25 19:43:47 [notice] 12308#17596: signal process started
+2021/04/25 20:37:57 [notice] 16332#18616: signal process started
+2021/04/25 20:39:33 [notice] 6000#14288: signal process started
+2021/04/25 21:16:01 [notice] 6484#4200: signal process started
+2021/04/25 22:38:15 [notice] 12236#1624: signal process started
+2021/04/25 23:38:05 [notice] 3044#17740: signal process started
+2021/04/26 09:26:15 [notice] 2716#9748: signal process started
+2021/04/26 10:12:31 [notice] 14948#10768: signal process started
+2021/04/26 10:12:31 [error] 14948#10768: CreateFile() "D:\RIO\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/04/26 10:14:04 [notice] 1680#14964: signal process started
+2021/04/26 10:31:17 [notice] 7580#17724: signal process started
+2021/04/26 10:32:40 [notice] 16904#13392: signal process started
+2021/04/26 10:36:17 [notice] 17792#10128: signal process started
+2021/04/26 14:40:54 [notice] 7208#1052: signal process started
+2021/04/26 16:09:22 [notice] 3736#18372: signal process started
+2021/04/26 16:47:15 [notice] 17436#4868: signal process started
+2021/04/26 16:59:18 [notice] 21368#21164: signal process started
+2021/04/26 18:43:35 [notice] 16112#10704: signal process started
+2021/04/26 18:46:01 [notice] 4032#20920: signal process started
+2021/04/26 18:57:11 [notice] 7760#20204: signal process started
+2021/04/26 18:59:10 [notice] 21440#8784: signal process started
+2021/04/26 22:01:32 [notice] 19864#12396: signal process started
+2021/04/26 22:41:40 [notice] 19632#15576: signal process started
+2021/04/27 11:41:46 [notice] 21164#7760: signal process started
+2021/04/27 11:43:54 [notice] 14908#16080: signal process started
+2021/04/27 19:31:48 [notice] 2132#10772: signal process started
+2021/04/27 19:31:48 [error] 2132#10772: CreateFile() "D:\RIO\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/04/27 19:33:00 [notice] 3076#19164: signal process started
+2021/04/27 22:53:23 [error] 5620#14460: *47 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /frontend.html HTTP/1.1", upstream: "http://127.0.0.1:5000/frontend.html", host: "localhost:3555"
+2021/04/27 22:53:26 [error] 5620#14460: *47 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:5000/favicon.ico", host: "localhost:3555", referrer: "http://localhost:3555/frontend.html"
+2021/04/27 22:53:39 [notice] 22428#20448: signal process started
+2021/04/27 22:56:52 [notice] 15348#10536: signal process started
+2021/04/27 22:56:52 [error] 15348#10536: CreateFile() "D:\RIO\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/04/27 22:57:15 [notice] 8256#13508: signal process started
+2021/04/27 22:57:15 [error] 8256#13508: CreateFile() "D:\RIO\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/04/27 23:01:29 [notice] 1604#21008: signal process started
+2021/04/28 09:54:21 [notice] 8376#15176: signal process started
+2021/04/28 10:14:34 [notice] 21492#6260: signal process started
+2021/04/28 10:34:04 [notice] 10176#17632: signal process started
+2021/04/28 10:38:50 [notice] 3964#20196: signal process started
+2021/04/28 10:43:33 [notice] 1392#10192: signal process started
+2021/04/28 10:44:44 [notice] 11288#11280: signal process started
+2021/04/28 10:56:19 [notice] 10316#21036: signal process started
+2021/04/28 11:06:05 [notice] 19564#16032: signal process started
+2021/04/28 11:14:48 [notice] 12208#13516: signal process started
+2021/04/28 11:59:03 [notice] 10680#19564: signal process started
+2021/04/28 12:03:07 [notice] 21992#10776: signal process started
+2021/04/28 12:20:43 [notice] 4852#9788: signal process started
+2021/04/28 12:29:43 [notice] 20332#13640: signal process started
+2021/04/28 12:38:07 [notice] 7468#3092: signal process started
+2021/04/28 13:02:07 [notice] 9252#12108: signal process started
+2021/04/28 16:11:17 [notice] 22232#21056: signal process started
+2021/04/28 16:14:37 [notice] 4256#9160: signal process started
+2021/04/28 17:16:39 [notice] 2904#1680: signal process started
+2021/04/28 17:56:16 [notice] 4172#21000: signal process started
+2021/04/28 18:00:15 [notice] 17936#15024: signal process started
+2021/04/28 18:52:42 [notice] 7708#4048: signal process started
+2021/04/28 18:57:12 [notice] 12176#15276: signal process started
+2021/04/28 18:58:23 [notice] 2868#24412: signal process started
+2021/04/28 19:02:03 [notice] 12388#23584: signal process started
+2021/04/28 19:09:27 [notice] 2604#16480: signal process started
+2021/04/28 19:14:34 [notice] 24340#19668: signal process started
+2021/04/28 19:18:23 [notice] 16888#11108: signal process started
+2021/04/28 19:22:37 [notice] 24460#5764: signal process started
+2021/04/28 19:26:59 [notice] 22756#20508: signal process started
+2021/04/28 19:29:38 [notice] 19296#20352: signal process started
+2021/04/28 19:35:03 [notice] 21896#15104: signal process started
+2021/04/28 19:41:34 [notice] 12380#17576: signal process started
+2021/04/28 19:44:32 [notice] 10772#3676: signal process started
+2021/04/28 20:04:11 [notice] 20632#21812: signal process started
+2021/04/28 21:04:15 [notice] 25372#25348: signal process started
+2021/04/28 21:06:38 [notice] 11096#14632: signal process started
+2021/04/28 21:09:28 [notice] 15124#20424: signal process started
+2021/04/28 21:10:57 [notice] 3572#1680: signal process started
+2021/04/28 21:51:45 [notice] 22928#18328: signal process started
+2021/04/28 21:54:29 [notice] 23608#11780: signal process started
+2021/04/28 21:56:38 [notice] 24136#13556: signal process started
+2021/04/28 22:01:02 [notice] 21988#10788: signal process started
+2021/04/28 22:12:30 [notice] 16464#15020: signal process started
+2021/04/28 22:27:48 [notice] 5548#296: signal process started
+2021/04/28 22:50:33 [notice] 13352#20908: signal process started
+2021/04/28 22:54:38 [notice] 23848#23216: signal process started
+2021/04/28 23:00:05 [notice] 19220#24948: signal process started
+2021/04/28 23:09:50 [notice] 11276#13840: signal process started
+2021/04/28 23:12:48 [notice] 24056#22892: signal process started
+2021/04/28 23:16:35 [notice] 9668#23200: signal process started
+2021/04/28 23:19:24 [notice] 11008#16920: signal process started
+2021/04/28 23:21:35 [notice] 23696#22704: signal process started
+2021/04/28 23:24:15 [notice] 15672#4988: signal process started
+2021/04/28 23:26:22 [notice] 16860#17816: signal process started
+2021/04/28 23:50:48 [notice] 19208#25576: signal process started
+2021/04/28 23:52:52 [notice] 2812#15108: signal process started
+2021/04/29 10:26:07 [notice] 14648#1212: signal process started
+2021/04/29 10:35:31 [notice] 17204#13032: signal process started
+2021/04/29 10:44:00 [notice] 24968#13124: signal process started
+2021/04/29 10:55:52 [notice] 23416#24684: signal process started
+2021/04/29 10:58:25 [notice] 15440#18516: signal process started
+2021/04/29 11:08:06 [notice] 18780#18412: signal process started
+2021/04/29 11:27:06 [notice] 15340#20800: signal process started
+2021/04/29 11:30:20 [notice] 24648#7560: signal process started
+2021/05/10 17:59:02 [notice] 11884#9636: signal process started
+2021/05/10 18:11:59 [notice] 14436#14432: signal process started
+2021/05/10 18:21:20 [notice] 5444#6788: signal process started
+2021/05/10 22:26:09 [notice] 11388#996: signal process started
+2021/05/10 22:56:11 [notice] 7468#8588: signal process started
+2021/05/10 23:19:41 [notice] 9916#10304: signal process started
+2021/05/10 23:23:37 [notice] 1288#6908: signal process started
+2021/05/10 23:26:43 [notice] 3252#14640: signal process started
+2021/05/10 23:29:20 [notice] 324#5880: signal process started
+2021/05/10 23:38:04 [notice] 10756#11308: signal process started
+2021/05/10 23:42:26 [notice] 14724#10028: signal process started
+2021/05/10 23:45:33 [notice] 12052#12476: signal process started
+2021/05/10 23:54:34 [notice] 13084#10764: signal process started
+2021/05/11 08:50:09 [notice] 8436#13160: signal process started
+2021/05/11 17:23:04 [notice] 17544#12708: signal process started
+2021/05/11 17:25:51 [notice] 7784#6108: signal process started
+2021/05/11 17:32:16 [notice] 2064#7476: signal process started
+2021/05/11 17:37:37 [notice] 14580#1896: signal process started
+2021/05/11 17:43:00 [notice] 2884#7300: signal process started
+2021/05/11 18:51:26 [notice] 12484#9292: signal process started
+2021/05/11 20:17:44 [notice] 11560#10564: signal process started
+2021/05/11 22:09:18 [notice] 17660#13076: signal process started
+2021/05/11 22:11:10 [notice] 9704#14980: signal process started
+2021/05/11 22:13:40 [notice] 10192#18736: signal process started
+2021/05/26 19:34:52 [notice] 18660#29136: signal process started
+2021/05/26 19:34:52 [error] 18660#29136: CreateFile() "D:\RIO\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/05/26 19:38:47 [notice] 21888#5184: signal process started
+2021/05/27 11:56:44 [notice] 16188#6636: signal process started
+2021/05/27 16:18:21 [notice] 13624#30764: signal process started
+2021/05/27 16:21:54 [notice] 17320#22252: signal process started
+2021/05/27 16:34:22 [notice] 5324#10212: signal process started
+2021/05/27 16:42:22 [notice] 8308#13660: signal process started
+2021/05/27 16:48:34 [notice] 8308#9560: signal process started
+2021/05/27 17:03:07 [notice] 13468#12268: signal process started
+2021/05/27 17:11:30 [notice] 7976#11860: signal process started
+2021/05/27 19:53:43 [notice] 13968#15060: signal process started
+2021/05/27 19:59:54 [notice] 16212#8172: signal process started
+2021/05/27 20:56:06 [notice] 11964#16240: signal process started
+2021/05/27 22:45:31 [error] 4312#12648: *19 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/facial_expressions/animatedEyes/neutralEyesGIF.gif HTTP/1.1", upstream: "http://127.0.0.1:5000/file/facial_expressions/animatedEyes/neutralEyesGIF.gif", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/05/27 22:45:31 [error] 4312#12648: *17 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/facial_expressions/animatedNoSpeeches/neutral_notSpeakGIF.gif HTTP/1.1", upstream: "http://127.0.0.1:5000/file/facial_expressions/animatedNoSpeeches/neutral_notSpeakGIF.gif", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/05/27 22:45:38 [notice] 17112#17116: signal process started
+2021/05/27 22:54:24 [notice] 13772#11544: signal process started
+2021/05/27 23:09:53 [notice] 2480#15100: signal process started
+2021/05/27 23:14:26 [notice] 9444#4584: signal process started
+2021/05/27 23:24:17 [notice] 3740#16396: signal process started
+2021/05/28 11:54:47 [notice] 16656#12468: signal process started
+2021/05/28 12:00:21 [notice] 11716#15848: signal process started
+2021/05/28 12:16:14 [notice] 13640#11948: signal process started
+2021/05/28 12:28:01 [notice] 15420#10256: signal process started
+2021/05/28 12:29:57 [notice] 12728#9908: signal process started
+2021/05/28 12:34:06 [notice] 13504#16092: signal process started
+2021/05/28 12:39:04 [notice] 15144#14904: signal process started
+2021/05/28 12:49:16 [notice] 8168#6352: signal process started
+2021/05/28 12:59:26 [notice] 16932#15056: signal process started
+2021/05/28 14:41:53 [notice] 12892#1684: signal process started
+2021/05/28 15:01:03 [notice] 9736#14620: signal process started
+2021/05/28 15:14:57 [notice] 13384#16824: signal process started
+2021/05/28 15:24:30 [notice] 17076#3520: signal process started
+2021/05/28 15:29:31 [notice] 16352#8708: signal process started
+2021/05/28 15:31:33 [notice] 8248#6584: signal process started
+2021/05/28 16:05:57 [notice] 5728#2020: signal process started
+2021/05/28 16:22:33 [notice] 7684#9912: signal process started
+2021/05/28 19:35:13 [notice] 7896#10808: signal process started
+2021/05/28 20:11:38 [notice] 7912#15160: signal process started
+2021/05/28 20:30:32 [notice] 15860#9728: signal process started
+2021/05/28 20:42:33 [notice] 5012#6120: signal process started
+2021/05/28 20:53:52 [notice] 11444#11132: signal process started
+2021/05/28 20:58:20 [notice] 6452#16276: signal process started
+2021/05/29 08:22:18 [notice] 7516#3824: signal process started
+2021/05/29 09:18:11 [notice] 14144#508: signal process started
+2021/05/29 10:18:01 [notice] 4880#13220: signal process started
+2021/05/29 10:56:08 [notice] 10916#2412: signal process started
+2021/05/29 11:36:50 [notice] 13552#6120: signal process started
+2021/05/29 12:05:15 [notice] 17340#15184: signal process started
+2021/05/29 16:04:17 [notice] 16012#17284: signal process started
+2021/05/29 16:18:42 [notice] 8168#7440: signal process started
+2021/05/29 16:54:41 [notice] 3940#2504: signal process started
+2021/05/29 17:03:55 [notice] 8260#4508: signal process started
+2021/05/29 17:13:12 [notice] 6728#13456: signal process started
+2021/05/29 17:29:06 [notice] 13236#9764: signal process started
+2021/05/29 17:44:03 [notice] 14820#4940: signal process started
+2021/05/29 17:45:44 [notice] 1516#10500: signal process started
+2021/05/29 17:45:44 [error] 1516#10500: CreateFile() "D:\RIO\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/05/29 17:45:59 [notice] 9276#3940: signal process started
+2021/05/29 17:45:59 [error] 9276#3940: CreateFile() "D:\RIO\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/05/29 17:49:38 [notice] 15732#4044: signal process started
+2021/05/29 17:49:38 [error] 15732#4044: CreateFile() "D:\RIO\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/05/29 20:43:12 [notice] 2700#11664: signal process started
+2021/05/29 21:03:28 [notice] 18084#11764: signal process started
+2021/05/29 21:04:10 [notice] 12760#15568: signal process started
+2021/05/29 21:05:18 [notice] 11400#6460: signal process started
+2021/05/29 21:06:14 [notice] 16604#8784: signal process started
+2021/05/29 22:17:51 [notice] 11684#5316: signal process started
+2021/05/29 22:20:14 [notice] 12204#2428: signal process started
+2021/05/29 23:46:05 [notice] 7424#10340: signal process started
+2021/05/30 16:53:33 [notice] 14120#11672: signal process started
+2021/05/30 23:03:27 [error] 16860#16368: *17 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/facial_expressions/animatedEyes/angryEyesSlightGIF.gif HTTP/1.1", upstream: "http://127.0.0.1:5000/file/facial_expressions/animatedEyes/angryEyesSlightGIF.gif", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/05/30 23:03:32 [notice] 8336#12532: signal process started
+2021/05/31 23:01:28 [error] 1284#14972: *19 upstream timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /file/emotionalObjects/learnt_modules/labeledImages/Debashish/2.jpg HTTP/1.1", upstream: "http://127.0.0.1:5000/file/emotionalObjects/learnt_modules/labeledImages/Debashish/2.jpg", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/05/31 23:02:16 [notice] 12008#3908: signal process started
+2021/05/31 23:04:05 [error] 1136#14596: *2 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/facial_expressions/animatedEyes/surpriseEyesSlightGIF.gif HTTP/1.1", upstream: "http://127.0.0.1:5000/file/facial_expressions/animatedEyes/surpriseEyesSlightGIF.gif", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/05/31 23:04:06 [notice] 13448#7472: signal process started
+2021/06/01 17:38:46 [notice] 13668#10584: signal process started
+2021/06/01 17:38:46 [error] 13668#10584: CreateFile() "D:\RIO\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/06/01 17:39:14 [notice] 4292#11360: signal process started
+2021/06/01 17:39:14 [error] 4292#11360: CreateFile() "D:\RIO\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/06/01 17:39:42 [notice] 1556#14588: signal process started
+2021/06/01 23:17:46 [notice] 9876#6616: signal process started
+2021/06/02 23:52:36 [notice] 12800#17884: signal process started
+2021/06/03 18:03:24 [notice] 13256#9236: signal process started
+2021/06/03 18:08:56 [notice] 13040#2188: signal process started
+2021/06/05 22:04:18 [notice] 11640#19064: signal process started
+2021/06/05 22:51:05 [notice] 21716#8900: signal process started
+2021/06/06 19:18:02 [notice] 11116#9244: signal process started
+2021/06/06 19:44:14 [notice] 23276#21032: signal process started
+2021/06/06 21:30:27 [notice] 18556#5900: signal process started
+2021/06/06 21:37:20 [notice] 22084#16204: signal process started
+2021/06/06 21:42:29 [notice] 23504#4504: signal process started
+2021/06/06 22:33:08 [notice] 15204#4904: signal process started
+2021/06/06 22:40:41 [notice] 23540#23228: signal process started
+2021/06/06 22:46:27 [notice] 18708#3736: signal process started
+2021/06/06 22:56:51 [notice] 16148#5172: signal process started
+2021/06/06 23:14:31 [notice] 16116#13944: signal process started
+2021/06/06 23:53:53 [notice] 7440#16104: signal process started
+2021/06/06 23:58:39 [notice] 11012#18020: signal process started
+2021/06/07 00:09:02 [notice] 22312#15292: signal process started
+2021/06/07 00:13:41 [notice] 9200#19376: signal process started
+2021/06/07 00:18:52 [notice] 17856#15280: signal process started
+2021/06/07 00:25:32 [notice] 21912#20232: signal process started
+2021/06/07 00:32:02 [notice] 3924#19244: signal process started
+2021/06/07 00:34:23 [notice] 1248#13504: signal process started
+2021/06/07 00:39:25 [notice] 23528#21364: signal process started
+2021/06/07 09:17:25 [notice] 23932#16212: signal process started
+2021/06/07 10:18:22 [notice] 21544#9656: signal process started
+2021/06/07 10:38:58 [notice] 7756#17000: signal process started
+2021/06/07 10:46:53 [notice] 13748#19188: signal process started
+2021/06/07 12:34:21 [notice] 23684#18888: signal process started
+2021/06/07 12:49:06 [notice] 19212#22952: signal process started
+2021/06/07 12:50:28 [notice] 22976#7332: signal process started
+2021/06/07 13:01:08 [notice] 6148#15512: signal process started
+2021/06/07 13:43:57 [notice] 24112#14016: signal process started
+2021/06/07 15:37:29 [notice] 13632#16000: signal process started
+2021/06/07 15:41:12 [notice] 17708#13672: signal process started
+2021/06/07 15:43:48 [notice] 14424#428: signal process started
+2021/06/07 16:00:48 [notice] 13076#2660: signal process started
+2021/06/07 16:05:42 [notice] 13628#12864: signal process started
+2021/06/07 16:09:23 [notice] 4792#2480: signal process started
+2021/06/07 16:22:26 [notice] 5332#7696: signal process started
+2021/06/07 18:17:15 [notice] 8812#9340: signal process started
+2021/06/07 18:21:23 [notice] 14976#13940: signal process started
+2021/06/07 20:30:13 [notice] 14256#15384: signal process started
+2021/06/07 20:39:14 [notice] 12420#10628: signal process started
+2021/06/07 20:58:17 [notice] 12580#8468: signal process started
+2021/06/10 10:48:50 [notice] 10984#13796: signal process started
+2021/06/10 11:58:33 [notice] 13552#13028: signal process started
+2021/06/10 12:26:24 [notice] 15168#3772: signal process started
+2021/06/10 12:29:30 [notice] 3868#16868: signal process started
+2021/06/10 13:27:03 [notice] 9800#9404: signal process started
+2021/06/10 13:43:10 [notice] 10788#15936: signal process started
+2021/06/10 15:42:33 [notice] 12492#8316: signal process started
+2021/06/10 17:03:29 [notice] 4416#8680: signal process started
+2021/06/10 20:19:27 [notice] 6452#10908: signal process started
+2021/06/10 20:26:56 [notice] 16272#12520: signal process started
+2021/06/10 23:36:43 [notice] 5640#4532: signal process started
+2021/06/10 23:38:41 [notice] 14648#16212: signal process started
+2021/06/10 23:52:12 [notice] 11588#17404: signal process started
+2021/06/11 18:53:08 [notice] 8600#10336: signal process started
+2021/06/11 19:12:53 [notice] 11368#10016: signal process started
+2021/06/11 19:13:15 [notice] 16972#11856: signal process started
+2021/06/11 19:13:15 [error] 16972#11856: CreateFile() "D:\RIO\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/06/11 19:16:04 [notice] 9208#11892: signal process started
+2021/06/11 23:47:55 [notice] 15284#13940: signal process started
+2021/06/12 00:03:55 [notice] 876#8464: signal process started
+2021/06/12 20:30:02 [notice] 15964#11872: signal process started
+2021/06/13 15:14:10 [notice] 17720#17520: signal process started
+2021/06/13 15:44:49 [notice] 18208#17620: signal process started
+2021/06/13 17:36:04 [notice] 11520#9484: signal process started
+2021/06/13 21:02:45 [notice] 5548#10744: signal process started
+2021/06/14 00:07:14 [notice] 2228#10180: signal process started
+2021/06/14 11:07:38 [notice] 11504#14432: signal process started
+2021/06/14 11:19:09 [notice] 18448#9412: signal process started
+2021/06/14 12:05:40 [notice] 1296#16584: signal process started
+2021/06/14 13:04:04 [notice] 18372#12636: signal process started
+2021/06/14 14:29:01 [notice] 16684#18520: signal process started
+2021/06/14 14:32:21 [notice] 16952#18064: signal process started
+2021/06/14 14:35:08 [notice] 1924#14160: signal process started
+2021/06/14 14:38:22 [notice] 4036#19988: signal process started
+2021/06/14 14:47:52 [notice] 6540#20036: signal process started
+2021/06/14 15:29:21 [notice] 12224#12300: signal process started
+2021/06/14 15:32:11 [notice] 1788#15188: signal process started
+2021/06/14 16:43:15 [notice] 14552#15304: signal process started
+2021/06/14 17:09:08 [error] 19528#7544: *500 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/frontend.html HTTP/1.1", upstream: "http://127.0.0.1:5000/file/frontend.html", host: "localhost:3555"
+2021/06/14 17:09:11 [error] 19528#7544: *500 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:5000/favicon.ico", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/06/14 17:09:21 [notice] 12020#2316: signal process started
+2021/06/15 09:33:56 [notice] 2468#14092: signal process started
+2021/06/15 20:15:37 [notice] 14100#13428: signal process started
+2021/06/15 20:18:18 [notice] 9844#14144: signal process started
+2021/06/15 20:23:26 [notice] 13332#8568: signal process started
+2021/06/15 20:32:22 [notice] 12852#9396: signal process started
+2021/06/15 20:35:31 [notice] 4568#13776: signal process started
+2021/06/15 20:53:24 [notice] 15204#8888: signal process started
+2021/06/15 21:02:41 [notice] 8888#15100: signal process started
+2021/06/15 22:05:40 [notice] 14744#11536: signal process started
+2021/06/15 22:31:39 [notice] 5416#13052: signal process started
+2021/06/15 22:32:19 [notice] 8176#11288: signal process started
+2021/06/15 22:36:40 [notice] 4116#12668: signal process started
+2021/06/15 22:41:32 [notice] 15420#10268: signal process started
+2021/06/15 22:54:14 [notice] 7468#13348: signal process started
+2021/06/15 22:59:58 [notice] 10400#8572: signal process started
+2021/06/16 00:15:13 [notice] 1440#15368: signal process started
+2021/06/16 00:28:49 [notice] 10232#3488: signal process started
+2021/06/16 00:42:00 [notice] 8000#8936: signal process started
+2021/06/16 00:47:05 [notice] 928#11924: signal process started
+2021/06/16 10:24:53 [notice] 5836#11040: signal process started
+2021/06/16 12:11:01 [notice] 8252#11416: signal process started
+2021/06/16 12:12:52 [notice] 4428#940: signal process started
+2021/06/16 12:17:14 [notice] 16584#16588: signal process started
+2021/06/16 12:20:35 [notice] 1692#16772: signal process started
+2021/06/16 12:43:09 [notice] 17388#16560: signal process started
+2021/06/16 12:48:56 [notice] 14220#15984: signal process started
+2021/06/16 12:50:12 [error] 15140#3560: *194 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/frontend.html HTTP/1.1", upstream: "http://127.0.0.1:5000/file/frontend.html", host: "localhost:3555"
+2021/06/16 12:50:14 [error] 15140#3560: *194 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://127.0.0.1:5000/favicon.ico", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/06/16 12:50:19 [notice] 3632#1688: signal process started
+2021/06/16 12:50:19 [error] 3632#1688: CreateFile() "D:\RIO\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/06/16 12:51:34 [notice] 14892#15772: signal process started
+2021/06/16 13:00:54 [notice] 4292#11164: signal process started
+2021/06/16 13:05:36 [notice] 10104#9372: signal process started
+2021/06/16 13:13:06 [notice] 12336#364: signal process started
+2021/06/16 13:16:39 [notice] 16692#10956: signal process started
+2021/06/16 13:31:48 [notice] 9944#1812: signal process started
+2021/06/16 14:25:58 [notice] 14140#4280: signal process started
+2021/06/16 16:18:54 [notice] 16148#6888: signal process started
+2021/08/01 20:52:36 [notice] 62484#61948: signal process started
+2021/08/01 21:01:34 [notice] 38396#62848: signal process started
+2021/08/01 21:15:25 [notice] 57328#61936: signal process started
+2021/08/01 22:17:20 [notice] 1128#8816: signal process started
+2021/08/01 22:45:27 [notice] 4960#8716: signal process started
+2021/08/01 22:47:58 [notice] 10524#148: signal process started
+2021/08/01 22:52:49 [notice] 4168#5076: signal process started
+2021/08/01 23:27:29 [notice] 3860#15884: signal process started
+2021/08/01 23:30:41 [notice] 15368#9204: signal process started
+2021/08/02 09:48:11 [notice] 18144#18168: signal process started
+2021/08/02 11:07:34 [notice] 18364#14280: signal process started
+2021/08/02 11:31:19 [notice] 13076#17880: signal process started
+2021/08/02 12:28:34 [notice] 12944#16956: signal process started
+2021/08/02 15:43:00 [notice] 9700#684: signal process started
+2021/08/02 15:52:21 [notice] 16896#7260: signal process started
+2021/08/02 15:55:51 [notice] 6760#9176: signal process started
+2021/08/02 15:57:31 [notice] 776#18104: signal process started
+2021/08/02 16:56:11 [notice] 10232#13144: signal process started
+2021/08/02 17:20:22 [notice] 13276#13336: signal process started
+2021/08/02 18:13:23 [notice] 15216#4128: signal process started
+2021/08/02 18:18:38 [notice] 14284#13624: signal process started
+2021/08/02 18:50:52 [notice] 9592#8032: signal process started
+2021/08/02 19:06:16 [notice] 9524#9744: signal process started
+2021/08/02 19:10:31 [notice] 10960#14856: signal process started
+2021/08/02 19:16:15 [notice] 12040#2308: signal process started
+2021/08/02 19:20:34 [notice] 11048#4580: signal process started
+2021/08/02 19:25:34 [notice] 17176#3292: signal process started
+2021/08/02 22:50:29 [notice] 14200#15896: signal process started
+2021/08/02 23:49:28 [notice] 16616#11144: signal process started
+2021/08/02 23:55:02 [notice] 10016#10960: signal process started
+2021/08/03 00:05:20 [notice] 15776#16764: signal process started
+2021/08/03 00:11:06 [notice] 10568#3788: signal process started
+2021/08/03 15:05:59 [notice] 15048#4048: signal process started
+2021/08/03 15:39:08 [notice] 14468#15560: signal process started
+2021/08/03 16:00:46 [notice] 544#16752: signal process started
+2021/08/03 17:20:18 [notice] 10776#10392: signal process started
+2021/08/03 18:18:20 [notice] 10568#9032: signal process started
+2021/08/03 18:50:02 [notice] 15624#2024: signal process started
+2021/08/04 17:04:49 [notice] 18540#19320: signal process started
+2021/08/04 17:06:47 [notice] 13156#15280: signal process started
+2021/08/04 18:07:47 [notice] 16256#10604: signal process started
+2021/08/04 19:58:47 [notice] 17776#3392: signal process started
+2021/08/04 20:15:37 [notice] 1372#9884: signal process started
+2021/08/05 16:37:45 [notice] 7600#15964: signal process started
+2021/08/05 16:49:14 [notice] 13816#10864: signal process started
+2021/08/05 17:03:27 [notice] 10144#18324: signal process started
+2021/08/05 18:01:39 [notice] 19252#13952: signal process started
+2021/08/05 18:21:34 [notice] 20092#10496: signal process started
+2021/08/05 21:00:58 [notice] 1968#11108: signal process started
+2021/08/05 21:02:25 [notice] 20124#8200: signal process started
+2021/08/05 22:10:42 [notice] 9940#19640: signal process started
+2021/08/06 11:15:04 [notice] 11168#19756: signal process started
+2021/08/06 17:40:32 [notice] 14672#17848: signal process started
+2021/08/06 17:48:40 [notice] 19924#8904: signal process started
+2021/08/06 17:53:39 [notice] 10936#18156: signal process started
+2021/08/07 16:19:28 [notice] 20444#18012: signal process started
+2021/08/07 18:44:15 [notice] 1968#15808: signal process started
+2021/08/07 19:13:19 [notice] 13568#5064: signal process started
+2021/08/07 19:15:17 [notice] 19064#22324: signal process started
+2021/08/07 19:20:44 [notice] 18092#892: signal process started
+2021/08/07 19:28:23 [notice] 7444#13272: signal process started
+2021/08/07 19:47:50 [notice] 11856#4020: signal process started
+2021/08/07 20:42:45 [notice] 13388#15440: signal process started
+2021/08/08 00:09:21 [notice] 21512#21620: signal process started
+2021/08/08 20:54:03 [notice] 14376#21944: signal process started
+2021/08/08 22:51:27 [notice] 22700#14804: signal process started
+2021/08/09 10:03:49 [notice] 14252#7552: signal process started
+2021/08/09 10:35:07 [notice] 17108#21808: signal process started
+2021/08/09 10:41:41 [notice] 4740#13128: signal process started
+2021/08/09 15:49:18 [notice] 19896#16724: signal process started
+2021/08/09 16:24:38 [notice] 11148#4256: signal process started
+2021/08/09 16:27:39 [notice] 5588#20948: signal process started
+2021/08/09 16:33:13 [notice] 21396#19672: signal process started
+2021/08/09 22:02:40 [notice] 2180#2024: signal process started
+2021/08/09 22:15:36 [notice] 13068#5536: signal process started
+2021/08/10 16:03:03 [notice] 14940#8964: signal process started
+2021/08/10 16:39:46 [notice] 5388#11260: signal process started
+2021/08/10 16:44:19 [notice] 7728#3868: signal process started
+2021/08/10 17:08:37 [notice] 6440#12344: signal process started
+2021/08/10 17:10:17 [notice] 2744#9544: signal process started
+2021/08/12 00:31:35 [error] 17836#768: *15 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/facial_expressions/animatedNoSpeeches/neutral_notSpeakGIF.gif HTTP/1.1", upstream: "http://127.0.0.1:5000/file/facial_expressions/animatedNoSpeeches/neutral_notSpeakGIF.gif", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/08/12 00:31:35 [error] 17836#768: *2 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/facial_expressions/animatedEyes/neutralEyesGIF.gif HTTP/1.1", upstream: "http://127.0.0.1:5000/file/facial_expressions/animatedEyes/neutralEyesGIF.gif", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/08/12 00:31:36 [error] 17836#768: *4 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /file/facial_expressions/animatedSpeeches/neutralSpeakingRAW.gif HTTP/1.1", upstream: "http://127.0.0.1:5000/file/facial_expressions/animatedSpeeches/neutralSpeakingRAW.gif", host: "localhost:3555", referrer: "http://localhost:3555/file/frontend.html"
+2021/08/12 00:31:39 [notice] 1384#15068: signal process started
+2021/08/12 00:39:51 [notice] 16592#6512: signal process started
+2021/08/12 00:45:32 [notice] 7392#15836: signal process started
+2021/08/12 14:59:20 [notice] 8064#8220: signal process started
+2021/08/12 15:02:43 [notice] 16372#6752: signal process started
+2021/08/12 15:39:38 [notice] 6416#8120: signal process started
+2021/08/12 17:03:31 [notice] 9312#4052: signal process started
+2021/08/12 17:30:21 [notice] 13252#2024: signal process started
+2021/08/12 23:19:19 [notice] 11972#10708: signal process started
+2021/08/13 00:24:23 [notice] 12788#19824: signal process started
+2021/08/13 00:43:01 [notice] 21860#20644: signal process started
+2021/08/13 00:44:22 [notice] 21788#19280: signal process started
+2021/08/13 01:23:25 [notice] 17652#18736: signal process started
+2021/08/13 22:07:42 [notice] 8832#21008: signal process started
+2021/08/14 13:17:02 [notice] 12748#17296: signal process started
+2021/08/15 10:01:57 [notice] 21976#14852: signal process started
+2021/08/15 10:04:09 [notice] 2752#22048: signal process started
+2021/08/15 10:11:14 [notice] 8372#11112: signal process started
+2021/08/22 16:35:27 [notice] 19940#9708: signal process started
+2021/08/22 17:27:10 [notice] 22160#19280: signal process started
+2021/08/22 17:50:36 [notice] 11892#27700: signal process started
+2021/08/22 17:53:24 [notice] 28252#14088: signal process started
+2021/08/22 18:50:44 [notice] 6512#15784: signal process started
+2021/08/22 18:51:47 [notice] 17360#312: signal process started
+2021/08/22 18:51:47 [error] 17360#312: CreateFile() "D:\RIO\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/08/23 17:16:10 [notice] 8572#18404: signal process started
+2021/08/25 23:49:09 [notice] 17976#11608: signal process started
+2021/08/27 01:10:21 [notice] 18012#29620: signal process started
+2021/08/27 01:14:50 [notice] 25376#18820: signal process started
+2021/08/27 15:48:51 [notice] 2108#26668: signal process started
+2021/08/27 15:49:36 [notice] 11724#29672: signal process started
+2021/08/27 15:49:36 [error] 11724#29672: CreateFile() "D:\RIO\newRIO\nginx-1.19.2/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2021/08/27 15:51:01 [notice] 28928#25748: signal process started
+2021/08/27 16:43:38 [notice] 8768#20856: signal process started
+2021/08/27 16:51:40 [notice] 30400#16324: signal process started
+2021/08/27 16:54:55 [notice] 25672#248: signal process started

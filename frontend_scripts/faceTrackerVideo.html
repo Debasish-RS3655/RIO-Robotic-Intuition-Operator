@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Video capture for Face Tracker</title>
+    <style>
+        video {
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: auto;
+            margin-bottom: auto;
+        }
+
+        .loader {
+            position: absolute;
+            top: 15%;
+            left: 30%;
+            border: 32px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 32px solid #3498db;
+            width: 350px;
+            height: 350px;
+            -webkit-animation: spin 2s linear infinite;
+            /* Safari */
+            animation: spin 2s linear infinite;
+        }
+
+        /* Safari */
+        @-webkit-keyframes spin {
+            0% {
+                -webkit-transform: rotate(0deg);
+            }
+
+            100% {
+                -webkit-transform: rotate(360deg);
+            }
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class='loader'></div>
+    <h2 align="center">Video Capture Page for face tracker</h2>
+    <p align="center">This is the frontend for the face tracking program. It captures
+        the video snippets and sends it to the face tracking server for face tracking.
+    </p>
+    <video autoplay playsinline muted id='recording-webcam' width='257' height='200'></video>
+    <script src="./jquery/jquery.js"></script>
+    <script src="./RecordRTC.js"></script>
+    <script src="./adapter-latest.js"></script>
+    <script src="./webcam-recording.js"></script>
+</body>
+
+</html>

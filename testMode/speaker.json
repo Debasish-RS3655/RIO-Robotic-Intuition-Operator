@@ -1,0 +1,46 @@
+{
+    "speaker1": {
+        "name": "speaker1",
+        "gender": "male",
+        "age": 16,
+        "toneEmotion": [],
+        "visualEmotion": [],
+        "likeness": 0.6,
+        "personality": {
+            "openness": 0.8,
+            "conscientiousness": 0.2,
+            "extraversion": 0.8,
+            "agreeableness": 0.8,
+            "neuroticism": 0.2
+        },
+        "personalityResponse": {},
+        "emotionToHim": [],
+        "memoryText": "",
+        "personSpeechArray": [],
+        "relatedAbstracts": [],
+        "lastTimeSeen": 1,
+        "lastTimeUpdated": 1
+    },
+    "speaker2": {
+        "name": "speaker2",
+        "gender": "male",
+        "age": 16,
+        "toneEmotion": [],
+        "visualEmotion": [],
+        "likeness": 1.0,
+        "personality": {
+            "openness": 0.5,
+            "conscientiousness": 0.5,
+            "extraversion": 0.5,
+            "agreeableness": 0.5,
+            "neuroticism": 0.5
+        },
+        "personalityResponse": {},
+        "emotionToHim": [],
+        "memoryText": "",
+        "personSpeechArray": [],
+        "relatedAbstracts": [],
+        "lastTimeSeen": 1,
+        "lastTimeUpdated": 1
+    }
+}
